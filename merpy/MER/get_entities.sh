@@ -61,7 +61,7 @@ piped_text=$(sed -e 's/ \+/|/g' <<< $text)
 
 # Creates all combinations of pairs of consecutive words in the text, staring at the first word 
 declare piped_pair_text1
-piped_pair_text1=$(sed -e 's/\([^ ]\+ \+[^ ]\+\) /\1|/g' <<< $text" XXX" | sed 's/|[^|]*$//')
+piped_pair_text1=$(sed -e 's/\([^ ]\+ \+[^ ]\+\) /\1|/g' <<< "$text XXX" | sed 's/|[^|]*$//')
 
 # Creates all combinations of pairs of consecutive words in the text, staring at the second word
 declare piped_pair_text2
