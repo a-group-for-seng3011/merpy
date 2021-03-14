@@ -44,6 +44,7 @@ fi
 
 # Pre-process the input text
 declare text=$(tr '[:upper:]' '[:lower:]' <<< "$original_text") # Make text lowercase so the system is case insensitive
+text=$(sed -e 's/://g' <<< $text) # remove : sign
 text=$(sed "s/[^[:alnum:][:space:]()]/./g" <<< "$text") # Replace special characters
 text=$(sed -e 's/[[:space:]()@]\+/ /g' <<< $text) # remove multiple whitespace
 if [ $remove_fullstops -eq 1 ]; then
