@@ -10882,6 +10882,9 @@ inflammatory pseudotumor of the liver
 inflammatory spondylopathies in disease classified elsewhere
 inflammatory spondylopathies in disease ec
 inflammatory spondylopathy in disease classified elsewhere
+influenza a virus
+influenza b virus
+influenza c virus
 influenza encephalopathy
 influenza myocarditis
 influenza myositis
