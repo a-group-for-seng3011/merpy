@@ -8,7 +8,7 @@
 # Python egg metadata, regenerated from source files by setuptools.
 /*.egg-info
 
-merpy/MER/.git/
+mymerpy/MER/.git/
 
-merpy/__pycache__/
+mymerpy/__pycache__/
 quick_start.py

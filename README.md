@@ -19,7 +19,7 @@ More information about MER can be found in:
 
 ## Documentation
 
-https://merpy.readthedocs.io/en/latest/
+https://mymerpy.readthedocs.io/en/latest/
 
 ## Dependencies
 
@@ -45,23 +45,23 @@ python setup.py install
 
 Then you might want to update the MER scripts and download preprocessed data:
 ```python
->>> import merpy
->>> merpy.download_mer()
->>> merpy.download_lexicons()
+>>> import mymerpy
+>>> mymerpy.download_mer()
+>>> mymerpy.download_lexicons()
 ```
 
 ## Basic Usage
 
 ```python
->>> import merpy
->>> merpy.download_lexicons()
->>> merpy.process_lexicon("hp")
+>>> import mymerpy
+>>> mymerpy.download_lexicons()
+>>> mymerpy.process_lexicon("hp")
 >>> document = 'Influenza, commonly known as "the flu", is an infectious disease caused by an influenza virus. Symptoms can be mild to severe. The most common symptoms include: a high fever, runny nose, sore throat, muscle pains, headache, coughing, and feeling tired'
->>> entities = merpy.get_entities(document, "hp") # get_entities_mp uses multiprocessing (set n_cores param)
+>>> entities = mymerpy.get_entities(document, "hp") # get_entities_mp uses multiprocessing (set n_cores param)
 >>> print(entities)
 [['111', '115', 'mild', 'http://purl.obolibrary.org/obo/HP_0012825'], ['119', '125', 'severe', 'http://purl.obolibrary.org/obo/HP_0012828'], ['168', '173', 'fever', 'http://purl.obolibrary.org/obo/HP_0001945'], ['214', '222', 'headache', 'http://purl.obolibrary.org/obo/HP_0002315'], ['224', '232', 'coughing', 'http://purl.obolibrary.org/obo/HP_0012735'], ['246', '251', 'tired', 'http://purl.obolibrary.org/obo/HP_0012378'], ['175', '185', 'runny nose', 'http://purl.obolibrary.org/obo/HP_0031417']]
->>> lexicons = merpy.get_lexicons()
->>> merpy.show_lexicons()
+>>> lexicons = mymerpy.get_lexicons()
+>>> mymerpy.show_lexicons()
 lexicons preloaded:
 ['lexicon', 'go', 'cell_line_and_cell_type', 'chebi_lite', 'chemical', 'hp', 'disease', 'wordnet_nouns', 'hpo', 'radlex', 'doid', 'protein', 'hpomultilang', 'tissue_and_organ', 'mirna', 'subcellular_structure']
 
@@ -70,14 +70,14 @@ lexicons loaded ready to use:
 
 lexicons with linked concepts:
 ['doid', 'hp', 'go', 'chebi_lite', 'lexicon']
->>> merpy.create_lexicon(["gene1", "gene2", "gene3"], "genelist")
+>>> mymerpy.create_lexicon(["gene1", "gene2", "gene3"], "genelist")
 wrote genelist lexicon
->>> merpy.process_lexicon("genelist")
->>> merpy.delete_lexicon("genelist")
+>>> mymerpy.process_lexicon("genelist")
+>>> mymerpy.delete_lexicon("genelist")
 deleted genelist lexicon
->>> merpy.download_lexicon("https://github.com/lasigeBioTM/MER/raw/biocreative2017/data/ChEBI.txt", "chebi")
+>>> mymerpy.download_lexicon("https://github.com/lasigeBioTM/MER/raw/biocreative2017/data/ChEBI.txt", "chebi")
 wrote chebi lexicon
->>> merpy.process_lexicon("chebi")
+>>> mymerpy.process_lexicon("chebi")
 
 
 ```

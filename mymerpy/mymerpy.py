@@ -13,7 +13,7 @@ import tarfile
 import multiprocessing as mp
 
 
-mer_path = pkg.resource_filename("merpy", "MER/")
+mer_path = pkg.resource_filename("mymerpy", "MER/")
 
 
 def check_gawk():
@@ -25,7 +25,7 @@ def check_gawk():
     gawk_result = shutil.which("gawk")
 
     if gawk_result is None:
-        print("please install gawk before using merpy")
+        print("please install gawk before using mymerpy")
         sys.exit()
 
 
@@ -37,17 +37,17 @@ def delete_obsolete(lexicon):
 
 
     :Example:
-    >>> import merpy
+    >>> import mymerpy
     >>> mappings = {"obsolete gold": 1, "silver": 2, "gold": 1}
     >>> create_lexicon(mappings.keys(), "metals")
     wrote metals lexicon
     >>> create_mappings(mappings, "metals")
     wrote metals mappings
-    >>> merpy.process_lexicon("metals")
-    >>> merpy.get_entities("gold and silver are metals", "metals")
+    >>> mymerpy.process_lexicon("metals")
+    >>> mymerpy.get_entities("gold and silver are metals", "metals")
     [['0', '4', 'gold', '1'], ['9', '15', 'silver', '2']]
-    >>> merpy.delete_obsolete("metals")
-    >>> merpy.get_entities("gold and silver are metals", "metals")
+    >>> mymerpy.delete_obsolete("metals")
+    >>> mymerpy.get_entities("gold and silver are metals", "metals")
     [['9', '15', 'silver', '2']]
 
     """
@@ -117,16 +117,16 @@ def delete_entity(entity_text, lexicon):
     :type lexicon: string
 
     :Example:
-    >>> import merpy
-    >>> merpy.download_lexicon("https://raw.githubusercontent.com/lasigeBioTM/ssm/master/metals.owl", "metals", "owl")
+    >>> import mymerpy
+    >>> mymerpy.download_lexicon("https://raw.githubusercontent.com/lasigeBioTM/ssm/master/metals.owl", "metals", "owl")
     wrote metals lexicon
-    >>> merpy.process_lexicon("metals", "owl")
-    >>> merpy.get_entities("gold silver metal", "metals")
+    >>> mymerpy.process_lexicon("metals", "owl")
+    >>> mymerpy.get_entities("gold silver metal", "metals")
     [['0', '4', 'gold', 'https://raw.githubusercontent.com/lasigeBioTM/ssm/master/metals.owl#gold'], \
 ['5', '11', 'silver', 'https://raw.githubusercontent.com/lasigeBioTM/ssm/master/metals.owl#silver'], \
 ['12', '17', 'metal', 'https://raw.githubusercontent.com/lasigeBioTM/ssm/master/metals.owl#metal']]
-    >>> merpy.delete_entity("metal", "metals")
-    >>> merpy.get_entities("gold silver metal", "metals")
+    >>> mymerpy.delete_entity("metal", "metals")
+    >>> mymerpy.get_entities("gold silver metal", "metals")
     [['0', '4', 'gold', 'https://raw.githubusercontent.com/lasigeBioTM/ssm/master/metals.owl#gold'], \
 ['5', '11', 'silver', 'https://raw.githubusercontent.com/lasigeBioTM/ssm/master/metals.owl#silver']]
     """
@@ -176,11 +176,11 @@ def merge_processed_lexicons(lexicon_list, new_name):
     :type new_name: string
 
     :Example:
-    >>> import merpy
-    >>> merpy.download_lexicons()
-    >>> merpy.merge_processed_lexicons(["chebi_lite", "hp", "go"], "chebihpgo")
+    >>> import mymerpy
+    >>> mymerpy.download_lexicons()
+    >>> mymerpy.merge_processed_lexicons(["chebi_lite", "hp", "go"], "chebihpgo")
     merged chebi_lite hp go into chebihpgo
-    >>> merpy.get_entities("autism caffeine gene expression", "chebihpgo")
+    >>> mymerpy.get_entities("autism caffeine gene expression", "chebihpgo")
     [['0', '6', 'autism', 'http://purl.obolibrary.org/obo/HP_0000717'], \
 ['7', '15', 'caffeine', 'http://purl.obolibrary.org/obo/CHEBI_27732'], \
 ['16', '20', 'gene', 'http://purl.obolibrary.org/obo/SO_0000704'], \
@@ -234,13 +234,13 @@ def process_lexicon(lexicon, ltype="txt"):
 
     :Example:
 
-    >>> import merpy
-    >>> merpy.download_lexicons()
-    >>> merpy.process_lexicon("hp", "txt")
-    >>> merpy.download_lexicon("https://raw.githubusercontent.com/lasigeBioTM/ssm/master/metals.owl", "metals", "owl")
+    >>> import mymerpy
+    >>> mymerpy.download_lexicons()
+    >>> mymerpy.process_lexicon("hp", "txt")
+    >>> mymerpy.download_lexicon("https://raw.githubusercontent.com/lasigeBioTM/ssm/master/metals.owl", "metals", "owl")
     wrote metals lexicon
-    >>> merpy.process_lexicon("metals", "owl")
-    >>> merpy.get_entities("gold silver metal", "metals")
+    >>> mymerpy.process_lexicon("metals", "owl")
+    >>> mymerpy.get_entities("gold silver metal", "metals")
     [['0', '4', 'gold', 'https://raw.githubusercontent.com/lasigeBioTM/ssm/master/metals.owl#gold'], \
 ['5', '11', 'silver', 'https://raw.githubusercontent.com/lasigeBioTM/ssm/master/metals.owl#silver'], \
 ['12', '17', 'metal', 'https://raw.githubusercontent.com/lasigeBioTM/ssm/master/metals.owl#metal']]
@@ -285,11 +285,11 @@ def get_entities_mp(documents, lexicon, n_cores=4):
 
 
     :Examples:
-        >>> import merpy
-        >>> merpy.download_lexicons()
+        >>> import mymerpy
+        >>> mymerpy.download_lexicons()
         >>> doc_text = 'Influenza, commonly known as "the flu", is an infectious disease caused by an influenza virus. Symptoms can be mild to severe. The most common symptoms include: a high fever, runny nose, sore throat, muscle pains, headache, coughing, and feeling tired'
         >>> docs = {i:doc_text for i in range(10)}
-        >>> entities = merpy.get_entities_mp(docs, "hp")
+        >>> entities = mymerpy.get_entities_mp(docs, "hp")
         >>> print(len(entities))
         10
 
@@ -314,10 +314,10 @@ def get_entities(text, lexicon):
 
     :Example:
 
-        >>> import merpy
-        >>> merpy.download_lexicons()
+        >>> import mymerpy
+        >>> mymerpy.download_lexicons()
         >>> document = 'Influenza, commonly known as "the flu", is an infectious disease caused by an influenza virus. Symptoms can be mild to severe. The most common symptoms include: a high fever, runny nose, sore throat, muscle pains, headache, coughing, and feeling tired'
-        >>> merpy.get_entities(document, "hp")
+        >>> mymerpy.get_entities(document, "hp")
         [['111', '115', 'mild', 'http://purl.obolibrary.org/obo/HP_0012825'], \
 ['200', '206', 'muscle', 'http://purl.obolibrary.org/obo/UBERON_0005090'], \
 ['246', '251', 'tired', 'http://purl.obolibrary.org/obo/HP_0012378']]
@@ -354,8 +354,8 @@ def download_mer():
     """Download latest version of MER from GitHub.
 
     :Example:
-        >>> import merpy
-        >>> merpy.download_mer()
+        >>> import mymerpy
+        >>> mymerpy.download_mer()
     
     """
 
@@ -383,10 +383,10 @@ def download_lexicons(
     :type link: string
 
     :Example:
-        >>> import merpy
-        >>> merpy.download_lexicons()
+        >>> import mymerpy
+        >>> mymerpy.download_lexicons()
         >>> document = 'Influenza, commonly known as "the flu", is an infectious disease caused by an influenza virus. Symptoms can be mild to severe. The most common symptoms include: a high fever, runny nose, sore throat, muscle pains, headache, coughing, and feeling tired'
-        >>> merpy.get_entities(document, "hp")
+        >>> mymerpy.get_entities(document, "hp")
         [['111', '115', 'mild', 'http://purl.obolibrary.org/obo/HP_0012825'], \
 ['200', '206', 'muscle', 'http://purl.obolibrary.org/obo/UBERON_0005090'], \
 ['246', '251', 'tired', 'http://purl.obolibrary.org/obo/HP_0012378']]
@@ -411,11 +411,11 @@ def create_lexicon(entities, name):
     :type name: string
 
     :Example:
-        >>> import merpy
-        >>> merpy.create_lexicon(["gene1", "gene2", "gene3"], "genelist")
+        >>> import mymerpy
+        >>> mymerpy.create_lexicon(["gene1", "gene2", "gene3"], "genelist")
         wrote genelist lexicon
-        >>> merpy.process_lexicon("genelist")
-        >>> merpy.get_entities("gene1 and gene2", "genelist")
+        >>> mymerpy.process_lexicon("genelist")
+        >>> mymerpy.get_entities("gene1 and gene2", "genelist")
         [['0', '5', 'gene1'], ['10', '15', 'gene2']]
 
     """
@@ -439,13 +439,13 @@ def create_lexicon_from_file(filename, name, links_file=None):
     :type links_file: string
 
     :Example:
-        >>> import merpy
+        >>> import mymerpy
         >>> with open("genelist", 'w') as f:
         ...     f.write("\\n".join(["gene1", "gene2", "gene3"])) #doctest: +SKIP
-        >>> merpy.create_lexicon_from_file("genelist", "genelist")
+        >>> mymerpy.create_lexicon_from_file("genelist", "genelist")
         copied genelist lexicon
-        >>> merpy.process_lexicon("genelist")
-        >>> merpy.get_entities("gene1 and gene2", "genelist")
+        >>> mymerpy.process_lexicon("genelist")
+        >>> mymerpy.get_entities("gene1 and gene2", "genelist")
         [['0', '5', 'gene1'], ['10', '15', 'gene2']]
     """
 
@@ -468,10 +468,10 @@ def delete_lexicon(name, delete_lexicon=False):
     :type name: Boolean
 
     :Example:
-        >>> import merpy
-        >>> merpy.create_lexicon(["gene1", "gene2", "gene3"], "genelist")
+        >>> import mymerpy
+        >>> mymerpy.create_lexicon(["gene1", "gene2", "gene3"], "genelist")
         wrote genelist lexicon
-        >>> merpy.delete_lexicon("genelist")
+        >>> mymerpy.delete_lexicon("genelist")
         deleted genelist lexicon
     """
 
@@ -493,18 +493,18 @@ def rename_lexicon(name, new_name):
     :type name: string
 
     :Example:
-        >>> import merpy
-        >>> merpy.create_lexicon(["gene1", "gene2", "gene3"], "genelist")
+        >>> import mymerpy
+        >>> mymerpy.create_lexicon(["gene1", "gene2", "gene3"], "genelist")
         wrote genelist lexicon
-        >>> merpy.create_lexicon(["gene1", "gene2", "gene3"], "genelists")
+        >>> mymerpy.create_lexicon(["gene1", "gene2", "gene3"], "genelists")
         wrote genelists lexicon
-        >>> merpy.rename_lexicon("genelist", "genes")
+        >>> mymerpy.rename_lexicon("genelist", "genes")
         renamed genelist lexicon to genes
-        >>> "genelists" in merpy.get_lexicons()[0]
+        >>> "genelists" in mymerpy.get_lexicons()[0]
         True
-        >>> "genelist" not in merpy.get_lexicons()[0]
+        >>> "genelist" not in mymerpy.get_lexicons()[0]
         True
-        >>> "genes" in merpy.get_lexicons()[0]
+        >>> "genes" in mymerpy.get_lexicons()[0]
         True
     """
     if "_" in new_name:
@@ -529,14 +529,14 @@ def create_mappings(mapped_entities, name):
     :type name: string
 
     :Example:
-        >>> import merpy
+        >>> import mymerpy
         >>> mappings = {"gold": 1, "silver": 2, "metal": [3,4]}
         >>> create_lexicon(mappings.keys(), "metals")
         wrote metals lexicon
         >>> create_mappings(mappings, "metals")
         wrote metals mappings
-        >>> merpy.process_lexicon("metals")
-        >>> merpy.get_entities("gold and silver are metals", "metals")
+        >>> mymerpy.process_lexicon("metals")
+        >>> mymerpy.get_entities("gold and silver are metals", "metals")
         [['0', '4', 'gold', '1'], ['9', '15', 'silver', '2']]
     """
     with open(
@@ -562,16 +562,16 @@ def download_lexicon(url, name, ltype="txt"):
     :param format: format of lexicon file (txt, owl or rdf)
 
     :Example:
-        >>> import merpy
-        >>> merpy.download_lexicon("https://github.com/lasigeBioTM/MER/raw/biocreative2017/data/ChEBI.txt", "chebi_txt", 'txt')
+        >>> import mymerpy
+        >>> mymerpy.download_lexicon("https://github.com/lasigeBioTM/MER/raw/biocreative2017/data/ChEBI.txt", "chebi_txt", 'txt')
         wrote chebi_txt lexicon
-        >>> merpy.process_lexicon("chebi_txt", "txt")
-        >>> merpy.get_entities("caffeine", "chebi_txt")
+        >>> mymerpy.process_lexicon("chebi_txt", "txt")
+        >>> mymerpy.get_entities("caffeine", "chebi_txt")
         [['0', '8', 'caffeine']]
-        >>> merpy.download_lexicon("ftp://ftp.ebi.ac.uk/pub/databases/chebi/ontology/chebi_lite.owl", 'chebi_lite', 'owl')
+        >>> mymerpy.download_lexicon("ftp://ftp.ebi.ac.uk/pub/databases/chebi/ontology/chebi_lite.owl", 'chebi_lite', 'owl')
         wrote chebi_lite lexicon
-        >>> merpy.process_lexicon("chebi_lite", "owl")
-        >>> merpy.get_entities("caffeine", "chebi_lite")
+        >>> mymerpy.process_lexicon("chebi_lite", "owl")
+        >>> mymerpy.get_entities("caffeine", "chebi_lite")
         [['0', '8', 'caffeine', 'http://purl.obolibrary.org/obo/CHEBI_27732']]
 
     """
@@ -595,8 +595,8 @@ def get_lexicons():
     :rtype: list
 
     :Example:
-        >>> import merpy
-        >>> merpy.get_lexicons() # doctest: +ELLIPSIS
+        >>> import mymerpy
+        >>> mymerpy.get_lexicons() # doctest: +ELLIPSIS
         ([...], [...], [...])
 
     """
@@ -627,8 +627,8 @@ def show_lexicons():
     """Print lexicon list
 
     :Example:
-        >>> import merpy
-        >>> merpy.show_lexicons() # doctest: +ELLIPSIS
+        >>> import mymerpy
+        >>> mymerpy.show_lexicons() # doctest: +ELLIPSIS
         lexicons preloaded:
         [...]
         <BLANKLINE>

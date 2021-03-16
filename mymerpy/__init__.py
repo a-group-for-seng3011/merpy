@@ -1,4 +1,4 @@
-from .merpy import (
+from .mymerpy import (
     get_entities,
     generate_lexicon,
     process_lexicon,
@@ -20,7 +20,7 @@ from .merpy import (
     rename_lexicon
 )
 
-name = "merpy"
+name = "mymerpy"
 __all__ = [
     "get_entities",
     "generate_lexicon",

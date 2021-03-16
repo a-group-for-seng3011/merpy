@@ -2,5 +2,5 @@
 API
 ###
 
-.. automodule:: merpy
+.. automodule:: mymerpy
     :members:
