@@ -9,4 +9,6 @@
 /*.egg-info
 
 merpy/MER/.git/
+
+merpy/__pycache__/
 quick_start.py
