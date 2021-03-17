@@ -21,6 +21,6 @@ setup(
         "Operating System :: OS Independent",
     ],
     package_data={"mymerpy": ["MER/*", "MER/data/*"]},
-    install_requires=["requests"],
+    install_requires=["requests","gawk"],
     extras_require={"dev": ["setuptools-changelog"]},
 )
