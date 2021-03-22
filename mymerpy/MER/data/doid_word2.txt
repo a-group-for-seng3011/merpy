@@ -27,8 +27,11 @@ abacavir allergy
 abc allergy
 abcd syndrome
 abdomen neoplasm
+abdominal actinomycosis
+abdominal cancer
 abdominal tuberculosis
 aberfeld syndrome
+abortive plague
 abruptio placenta
 abruptio placentae
 abruzzo.erickson syndrome
@@ -40,6 +43,7 @@ acad9 deficiency
 acalculous cholecystitis
 acanthameba keratitis
 acanthamoeba encephalitis
+acanthamoeba keratitis
 acantholysis bullosa
 acantholytic acanthoma
 acanthosis nigricans
@@ -56,8 +60,11 @@ achromatopsia 2
 achromatopsia 3
 achromatopsia 4
 achromatopsia 7
+achromic nevus
 acid reflux
 acidophil adenoma
+acidophil carcinoma
+acne nevus
 acne roscea
 acne varioliformis
 acne vulgaris
@@ -86,6 +93,7 @@ acromesomelic dysplasia
 acromicric dysplasia
 acroosteolysis
 acroosteolysis syndrome
+acroparesthesia syndrome
 acrorenal syndrome
 acrorenocular syndrome
 acrosyringeal nevus
@@ -153,6 +161,12 @@ adenomatoid tumour
 adenosquamous carcinoma
 adenoviral enteritis
 adenoviral pharyngoconjunctivitis
+adenovirus encephalitis
+adenovirus gastroenteritis
+adenovirus hepatitis
+adenovirus meningitis
+adenovirus pneumonia
+adherence syndrome
 adie syndrome
 adie.apos.s syndrome
 adiposis dolorosa
@@ -161,32 +175,40 @@ adjustment disease
 adjustment disorder
 adjustment reaction
 adk hypermethioninemia
+adnexa adenocarcinoma
 adnexal adenoma
 adrenal adenoma
 adrenal cancer
 adrenal carcinoma
+adrenal hyperplasia
 adrenal neoplasm
 adrenal neuroblastoma
 adrenocortical adenoma
 adrenocortical carcinoma
 adrenocortical hyperfunction
+adrenocortical hyperplasia
+adrenogenital disease
 adult all
 adult astrocytoma
+adult craniopharyngioma
 adult dermatomyositis
 adult ependymoblastoma
 adult fibrosarcoma
 adult ganglioglioma
 adult hepatoma
 adult hypophosphatasia
+adult leiomyosarcoma
 adult liposarcoma
 adult lymphoma
 adult medulloblastoma
+adult meningioma
 adult mpnst
 adult nephroblastoma
 adult oligodendroglioma
 adult pineoblastoma
 adult progeria
 adult rds
+adult rhabdomyosarcoma
 adult syndrome
 adult teratoma
 adult xanthogranuloma
@@ -201,6 +223,7 @@ agammaglobulinemia 5
 aganglionic megacolon
 agat deficiency
 agc1 deficiency
+aggravated epilepsy
 aggressive periodontitis
 agnathia.otocephaly complex
 agps deficiency
@@ -211,11 +234,16 @@ aids dementia
 aids encephalopathy
 aids nephropathy
 aids phobia
+aids retinopathy
 aids.associated nephropathy
 aids.like syndrome
+aids.related cryptococcosis
+aids.related cryptosporidiosis
+aids.related cystoisosporiasis
 aids.related enterocolitis
 aids.related isosporiasis
 aids.related nephropathy
+aids.related toxoplasmosis
 airway allergy
 akinetic mutism
 alagille syndrome
@@ -271,6 +299,7 @@ alpha.mannosidase deficiency
 alpha.thalassemia intermedia
 alpha.thalassemia.myelodysplastic syndrome
 alport syndrome
+alps.associated lymphoma
 als 22
 als 4
 als.dementia complex
@@ -289,6 +318,7 @@ alzheimer.apos.s disease
 alzheimers dementia
 amacr deficiency
 ambras syndrome
+amebic colitis
 amebic dysentery
 amelanotic melanoma
 amelocerebrohypohidrotic syndrome
@@ -336,9 +366,11 @@ anaplastic astrocytoma
 anaplastic carcinoma
 anaplastic ependymoma
 anaplastic ganglioglioma
+anaplastic meningioma
 anaplastic oligoastrocytoma
 anaplastic oligodendroglioma
 anaplastic rhabdomyosarcoma
+anaplastic seminoma
 anaplastic syringoma
 andermann syndrome
 andersen syndrome
@@ -379,6 +411,7 @@ angular cheilosis
 angular stomatitis
 animal hepatitis
 animal phobia
+anisakis larva
 ankylosing spondylitis
 ankyrin.b syndrome
 annular pancreas
@@ -387,20 +420,24 @@ anomaly. rieger.apos.s
 anomic aphasia
 anonychia congenita
 anophthalmia.syndactyly syndrome
+anorectal gonorrhea
 anorectal stricture
 anorexia nervosa
+anosognostic epilepsy
 antepartum gonorrhea
 antepartum malaria
 antepartum oligohydramnios
 antepartum syphilis
 anterior megalophthalmos
 anterior scleritis
+anterior synechiae
 anterior uveitis
 anterograde amnesia
 anthrax cutaneous
 anthrax disease
 anthrax gastrointestinous
 anthrax inhalation
+anthrax septicemia
 anti.gbm disease
 anti.gbm glomerulonephritis
 antiphospholipid syndrome
@@ -503,6 +540,7 @@ askin.apos.s tumour
 asocial personality
 aspartylglucosaminidase deficiency
 asperger syndrome
+aspergillus pneumonia
 asphyxia neonatorum
 aspiration pneumonia
 aspiration pneumonitis
@@ -513,6 +551,7 @@ associative agnosia
 asthenopia
 astrocytic tumor
 astrocytosis cerebri
+astrovirus gastroenteritis
 asxl3.related disorder
 asymptomatic dengue
 asymptomatic neurosyphilis
@@ -541,6 +580,7 @@ atrophic rhinitis
 atrophic vaginitis
 atrophic vulva
 atrophoderma vermiculata
+atypical adenoma
 atypical autism
 atypical cml
 atypical depression
@@ -574,12 +614,17 @@ autonomic neuropathy
 av block
 avian flu
 avian influenza
+avian leukosis
+avian malaria
+avian tuberculosis
 avitaminosis d
 axenfeld syndrome
 axenfeld.rieger syndrome
 axial osteomalacia
 axillary adenitis
+axillary cancer
 axillary lipoma
+axillary metastasis
 axillary neoplasm
 axonal neuropathy
 ayme.gripp syndrome
@@ -603,9 +648,11 @@ bacterial enteritis
 bacterial esophagitis
 bacterial exanthem
 bacterial gastritis
+bacterial gastroenteritis
 bacterial labyrinthitis
 bacterial meningitis
 bacterial pneumonia
+bacterial prostatitis
 bacterial sepsis
 bacterial vaginosis
 bactrim allergy
@@ -692,6 +739,7 @@ benign lymphoreticulosis
 benign mastocytoma
 benign melanoma
 benign meningioma
+benign mesenchymoma
 benign mesonephroma
 benign mesothelioma
 benign myoepithelioma
@@ -774,6 +822,7 @@ bladder sarcoma
 bladder schistosomiasis
 bladder tuberculosis
 bland.white.garland syndrome
+blastomyces dermatitidis
 blastomycotic infection
 blau syndrome
 blepharo.cheilo.odontic syndrome
@@ -793,6 +842,7 @@ bloom.torre.machacek syndrome
 blount disease
 blount.apos.s disease
 blue naevus
+blue nevus
 bluetongue
 bmcc deficiency
 bo syndrome
@@ -819,6 +869,7 @@ bonneau.beaumont syndrome
 bonnevie.ullrich syndrome
 bony outgrowth
 boomerang dysplasia
+border disease
 borderline glaucoma
 borderline leprosy
 bordetella infection
@@ -835,6 +886,9 @@ boucher.neuhauser syndrome
 bourneville.apos.s disease
 boutonneuse disease
 boutonneuse fever
+bovine anaplasmosis
+bovine trypanosomiasis
+bovine tuberculosis
 bowel dysfunction
 bowen.conradi syndrome
 boyadjiev.jabs syndrome
@@ -855,6 +909,8 @@ brain ependymoma
 brain germinoma
 brain glioblastoma
 brain glioma
+brain hamartoma
+brain hypoxia.ischemia
 brain infarction
 brain ischemia
 brain medulloblastoma
@@ -877,6 +933,8 @@ brazillian spotted
 breakbone fever
 breast abscess
 breast adenocarcinoma
+breast adenohibernoma
+breast adenolipoma
 breast adenoma
 breast adenomyoepithelioma
 breast angiomatosis
@@ -888,6 +946,7 @@ breast disease
 breast fibroadenoma
 breast fibroadenosis
 breast fibrosarcoma
+breast hamartoma
 breast hemangioma
 breast hemangiopericytoma
 breast inflammation
@@ -914,6 +973,7 @@ bronchial adenoma
 bronchial disease
 bronchial hyperreactivity
 bronchial pneumonia
+bronchial tuberculosis
 bronchiectasis 1
 bronchiectasis 2
 bronchiectasis 3
@@ -924,6 +984,7 @@ bronchiolitis obliterans
 bronchiolo.alveolar adenocarcinoma
 bronchioloalveolar carcinoma
 bronchopneumonic tularemia
+bronchopulmonary dysplasia
 bronchus adenoma
 bronchus cancer
 bronchus carcinoma
@@ -960,6 +1021,7 @@ burkitt lymphoma.leukaemia
 burkitt.apos.s lymphoma
 burkitt.apos.s tumor
 burn.mckeown syndrome
+bursa syphilis
 burton syndrome
 buschke.apos.s scleredema
 buschke.ollendorff syndrome
@@ -999,10 +1061,16 @@ cancer phobia
 cancrum oris
 candida esophagitis
 candida meningitis
+candidal endocarditis
+candidal enteritis
 candidal esophagitis
+candidal gastritis
+candidal meningitis
 candidal paronychia
+candidal pneumonia
 candidal vulvovaginitis
 candidal. cervix
+canine distemper
 canker sore
 cannabis abuse
 cannabis dependence
@@ -1026,6 +1094,7 @@ carbamazepen allergy
 carbamazepine allergy
 carbapenem allergy
 carbocaine allergy
+carcinoid syndrome
 carcinoma gallbladder
 card11 deficiency
 cardia cancer
@@ -1049,6 +1118,7 @@ cardiovascular neoplasm
 cardiovascular neurosis
 cardiovascular syphilis
 cardiovascular trypanosomiasis
+cardiovascular tuberculosis
 cardiovascular tumors
 carey.fineman.ziter syndrome
 carmi syndrome
@@ -1068,6 +1138,7 @@ cartilage neoplasm
 cartilage.hair hypoplasia
 cartilagenous hamartoma
 cartilaginous cancer
+cartilaginous hamartoma
 carvajal syndrome
 cascade stomach
 castleman disease
@@ -1097,6 +1168,7 @@ cataract 7
 cataract coppock.like
 cataract.alopecia.sclerodactyly syndrome
 cataract.hyperferritinemia syndrome
+catatonic schizophrenia
 catel.hempel syndrome
 catshl syndrome
 cattle plague
@@ -1198,6 +1270,8 @@ cerebellar medulloblastoma
 cerebellar.facial.dental syndrome
 cerebellofaciodental syndrome
 cerebellum cancer
+cerebral actinomycosis
+cerebral amebiasis
 cerebral angioma
 cerebral arteritis
 cerebral astrocytoma
@@ -1219,6 +1293,7 @@ cerebral pseudosclerosis
 cerebral sarcoidosis
 cerebral sclerosis
 cerebral thrombosis
+cerebral toxoplasmosis
 cerebro.costo.mandibular syndrome
 cerebro.facio.articular syndrome
 cerebro.oculo.dento.auriculo.skeletal syndrome
@@ -1232,6 +1307,7 @@ cerebrovascular disorder
 cerebrum cancer
 ceruminous adenocarcinoma
 ceruminous adenoma
+ceruminous tumor
 cervical adenitis
 cervical adenocarcinoma
 cervical adenofibroma
@@ -1248,6 +1324,7 @@ cervical neoplasm
 cervical neuroblastoma
 cervical polyp
 cervicocranial syndrome
+cervicofacial actinomycosis
 cervix cancer
 cervix carcinoma
 cervix disease
@@ -1255,8 +1332,10 @@ cervix dysplasia
 cervix endometriosis
 cervix erosion
 cervix melanoma
+cervix tuberculosis
 cestode infestation
 cfc syndrome
+chagas cardiomyopathy
 chagas disease
 chagas.apos. cardiomyopathy
 chagas.apos. disease
@@ -1325,6 +1404,7 @@ chondroblastic osteosarcoma
 chondrodysplasia punctata
 chondrodysplasia.pseudohermaphroditism syndrome
 chondroectodermal dysplasia
+chondrogenic neoplasm
 chondroid chordoma
 chondroid lipoma
 chondromalacia patellae
@@ -1341,6 +1421,7 @@ choroid disease
 choroid meningioma
 choroid neoplasm
 choroidal degenerations
+choroidal rupture
 choroidal sclerosis
 choroidal tumor
 christ.siemens.touraine syndrome
@@ -1390,6 +1471,7 @@ chronic tonsillitis
 chronic tracheitis
 chronic tympanitis
 chronic urticaria
+chronobiology disease
 churg.strauss syndrome
 churg.strauss vasculitis
 chuvash erythromatosis
@@ -1409,6 +1491,7 @@ circumscribed scleroderma
 cirsoid aneurysm
 citrin deficiency
 ck syndrome
+cladosporium werneckii
 clark.baraitser syndrome
 classic apraxia
 classic citrullinemia
@@ -1430,6 +1513,7 @@ clitoris cancer
 clivus chordoma
 clivus meningioma
 cln14 disease
+cln3 disease
 cln4b disease
 cloacal exstrophy
 cloacogenic carcinoma
@@ -1451,7 +1535,9 @@ cmv esophagitis
 cmv gastritis
 cmv retinitis
 cmv.related gastritis
+cns choriocarcinoma
 cns ganglioglioma
+cns metastases
 cns neoplasm
 cns pnet
 cns teratoma
@@ -1464,7 +1550,9 @@ cobalamin deficiency
 coca 1
 cocaine abuse
 cocaine dependence
+coccidioidal meningitis
 cochlear disease
+cockade nevus
 cockayne syndrome
 cockayne.apos.s syndrome
 cocoon syndrome
@@ -1500,6 +1588,7 @@ colon sarcoma
 colonic adenocarcinoma
 colonic carcinoma
 colonic disease
+colonic ganglioneuroma
 colonic leiomyoma
 colonic leiomyosarcoma
 colonic lipoma
@@ -1546,6 +1635,7 @@ congenital abnormality
 congenital afibrinogenemia
 congenital alactasia
 congenital anemia
+congenital anosmia
 congenital aphakia
 congenital chloridorrhea
 congenital chylothorax
@@ -1554,6 +1644,7 @@ congenital diarrhea
 congenital disorder
 congenital dysphagocytosis
 congenital elliptocytosis
+congenital epilepsy
 congenital epulides
 congenital epulis
 congenital equinovarus
@@ -1562,13 +1653,17 @@ congenital hemiplegia
 congenital hypogammaglobulinaemia
 congenital hypogammaglobulinemia
 congenital hypothyroidism
+congenital ichthyosis
 congenital ighd
+congenital kyphosis
 congenital laryngomalacia
 congenital lymphangioma
 congenital megabladder
 congenital megacolon
 congenital myopathy
 congenital nystagmus
+congenital osteodystrophy
+congenital pneumonia
 congenital poikiloderma
 congenital ptosis
 congenital rubella
@@ -1604,6 +1699,7 @@ contact dermatitis
 contact dermatitis.eczema
 contact eczema
 contagious opthalmia
+contagious pleuropneumonia
 conventional angiosarcoma
 conventional fibrosarcoma
 conventional leiomyosarcoma
@@ -1661,6 +1757,12 @@ cowden syndrome
 coxa plana
 coxo.podo.patellar syndrome
 coxopodipatellar syndrome
+coxsackie carditis
+coxsackie endocarditis
+coxsackie meningitis
+coxsackie myocarditis
+coxsackie pericarditis
+coxsackievirus encephalitis
 cpls syndrome
 cpt1a deficiency
 crab allergy
@@ -1671,6 +1773,7 @@ craniocarpotarsal dystrophy
 craniocerebellocardiac dysplasia
 craniodiaphyseal dysplasia
 cranioectodermal dysplasia
+craniofacial abnormality
 craniofacial dysostosis
 craniofacial.deafness.hand syndrome
 craniofacial.ulnar.renal syndrome
@@ -1713,6 +1816,7 @@ cryptococcal infection
 cryptococcal meningitis
 cryptococcal pneumonia
 cryptosporidial gastroenteritis
+crystal arthropathy
 cst syndrome
 culler.jones syndrome
 curling ulcer
@@ -1723,6 +1827,8 @@ curry.hall syndrome
 cushing syndrome
 cushing.apos.s symphalangism
 cushing.apos.s syndrome
+cutaneous actinomycosis
+cutaneous amebiasis
 cutaneous angiokeratoma
 cutaneous anthrax
 cutaneous blastomycosis
@@ -1735,18 +1841,25 @@ cutaneous leiomyosarcoma
 cutaneous leishmaniasis
 cutaneous lipoma
 cutaneous liposarcoma
+cutaneous listeriosis
 cutaneous lobomycosis
 cutaneous lymphangioma
 cutaneous mastocytosis
 cutaneous melanoma
+cutaneous mucormycosis
 cutaneous mycosis
 cutaneous papilloma
+cutaneous plague
 cutaneous porphyria
 cutaneous sarcoid
 cutaneous sarcoidosis
 cutaneous sarcoma
 cutaneous schistosomiasis
+cutaneous sporotrichosis
+cutaneous strongyloidiasis
+cutaneous syphilis
 cutaneous tag
+cutaneous tuberculosis
 cuticular drusen
 cutis hyperelastica
 cutis laxa
@@ -1772,7 +1885,13 @@ cystitis glandularis
 cystosarcoma phyllodes
 cytomagalovirus infection
 cytomegaloviral disease
+cytomegalovirus colitis
+cytomegalovirus encephalitis
+cytomegalovirus esophagitis
+cytomegalovirus gastritis
+cytomegalovirus hepatitis
 cytomegalovirus infection
+cytomegalovirus pneumonia
 cytomegalovirus retinitis
 cytophosphane allergy
 d.2.hydroxyglutaric aciduria
@@ -1826,8 +1945,10 @@ delivered oligohydramnios
 delta beta.thalassemia
 delta hepatitis
 delusional disorder
+dematiacious fungi
 demyelinating disease
 demyelinating disorder
+demyelinating encephalopathy
 demyelinating polyneuropathy
 dendritic keratitis
 dengue disease
@@ -1875,6 +1996,7 @@ desbuquois syndrome
 desert fever
 desiccytosis gardos
 desmoid tumor
+desmoplastic medulloblastoma
 desmoplastic melanoma
 desmoplastic nevus
 deutan defect
@@ -1891,10 +2013,13 @@ diabetic angiopathy
 diabetic cataract
 diabetic encephalopathy
 diabetic ketoacidosis
+diabetic nephropathy
 diabetic neuropathy
+diabetic oculopathy
 diabetic polyneuropathy
 diabetic retinopathy
 diamond.blackfan anemia
+diaper rash
 diaphragm disease
 diaphragmatic eventration
 diaphragmatic hernia
@@ -1902,6 +2027,7 @@ diaphyseal dysplasia
 diastrophic dysplasia
 dicarboxylic aminoaciduria
 diclofenac allergy
+dictyocaulus .disorder.
 diencephalic astrocytoma
 diencephalic neoplasm
 dieulafoy lesion
@@ -1923,7 +2049,10 @@ dihydropyrimidinase deficiency
 diktyoma. malignant
 dilantin allergy
 dilated cardiomyopathy
+dipetalonema perstans
 diphtheritic cystitis
+diphtheritic laryngotracheitis
+diphtheritic myocarditis
 diphtheritic peritonitis
 diphyllobothrium infection
 diplegia. upper
@@ -1933,10 +2062,14 @@ disaccharide intolerance
 discharging ear
 disease. stuart.prower
 disintegrative psychosis
+disorganized schizophrenia
 disseminated adenocarcinoma
 disseminated candidiasis
 disseminated chorioretinitis
 disseminated mucormycosis
+disseminated neuroblastoma
+disseminated paracoccidioidomycosis
+disseminated sporotrichosis
 disseminated strongyloidiasis
 disseminated toxoplasmosis
 disseminated tuberculosis
@@ -1970,6 +2103,7 @@ dpgm deficiency
 dph deficiency
 dpys deficiency
 dr syndrome
+dracunculus medinensis
 dravet syndrome
 drayer syndrome
 dream disease
@@ -1979,6 +2113,8 @@ drooping eyelid
 drug allergy
 drug dependence
 drug psychosis
+drug.induced akathisia
+drug.induced delirium
 drug.induced dyskinesia
 drug.induced hepatitis
 drug.induced psychosis
@@ -1994,6 +2130,7 @@ dubowitz syndrome
 dubowitz.apos.s syndrome
 duct carcinoma
 ductal adenocarcinoma
+ductal adenoma
 ductal papilloma
 duhring.apos.s disease
 dumping syndrome
@@ -2027,10 +2164,12 @@ dyshormonogenic goiter
 dyshormonogenic goitre
 dyshydrotic eczema
 dyskeratosis congenita
+dyskinetic syndrome
 dysmorphic syndrome
 dysostosis multiplex
 dyspareunia. psychogenic
 dyspepsia
+dysplastic nevus
 dyspraxia syndrome
 dysthymic disorder
 dystocia
@@ -2050,6 +2189,7 @@ dystrophia myotonica
 e3 trisomy
 eagle.barret syndrome
 ear cancer
+ear tuberculosis
 early yaws
 east syndrome
 eating disorder
@@ -2069,6 +2209,7 @@ eccrine spiradenoma
 eccrine tumor
 echinococcal disease
 echinococcus granulosus
+echovirus meningitis
 eclampsia. postpartum
 eco syndrome
 ecthyma contagiosum
@@ -2117,6 +2258,7 @@ enchondromatosis .disorder.
 enchondromatosis. multiple
 endemic goiter
 endemic typhus
+endobronchial hamartoma
 endobronchial leiomyoma
 endobronchial lipoma
 endocardial fibroelastosis
@@ -2128,6 +2270,8 @@ endocervical adenocarcinoma
 endocervical carcinoma
 endocrine exophthalmos
 endocrine neoplasm
+endocrine syndrome
+endocrine tuberculosis
 endocrine tumor
 endocrine.cerebro.osteodysplasia syndrome
 endogenous depression
@@ -2149,6 +2293,7 @@ endometriosis interna
 endometriosis. myometrium
 endomyocardial fibrosis
 endomyocardial sclerosis
+endosteal hyperostosis
 endothelial dystrophy
 engelman.apos.s disease
 enlarged adenoids
@@ -2160,6 +2305,8 @@ enterocolitis necrotizing
 enterokinase deficiency
 enteropathy. exudative
 enterotoxemia
+enterovirus gastroenteritis
+enterovirus meningitis
 entomophthoromycosis
 entrapment neuropathy
 environmental illness
@@ -2176,6 +2323,7 @@ eosinophilic pneumonia
 ependymal neoplasm
 ependymal tumors
 ependymoma. anaplastic
+ephemeral fever
 epicardial tumor
 epicardium cancer
 epicardium lipoma
@@ -2213,6 +2361,7 @@ epiphyseal necrosis
 episkopi blindness
 episodic ataxia
 epithelial cancer
+epithelial carcinoma
 epithelial dysplasia
 epithelial ependymoma
 epithelial neoplasm
@@ -2227,10 +2376,12 @@ epithelioid sarcoma
 epithelioid thymoma
 epizootic stomatitis
 equatorial staphyloma
+equine encephalitis
 erdheim.chester disease
 erectile dysfunction
 erosive gastritis
 erosive gastropathy
+eruptive collagenoma
 erysipeloid .disorder.
 erythema infectiosum
 erythema multiforme
@@ -2252,6 +2403,7 @@ esophageal diverticulosis
 esophageal dysmotility
 esophageal leukoplakia
 esophageal lipoma
+esophageal metastasis
 esophageal moniliasis
 esophageal sarcoma
 esophageal thrush
@@ -2301,6 +2453,7 @@ exocervical carcinoma
 exocrine cancer
 exophthalmic goiter
 exophthalmic ophthalmoplegia
+experimental melanoma
 exposure keratitis
 exposure keratoconjunctivitis
 expressive agnosia
@@ -2309,6 +2462,7 @@ external stye
 extra.adrenal pheochromocytoma
 extracranial neuroblastoma
 extracutaneous mastocytoma
+extracutaneous melanoma
 extradural tumor
 extragonadal seminoma
 extrahepatic cholestasis
@@ -2340,6 +2494,7 @@ fabry.apos.s disease
 face neoplasm
 facial dermatosis
 facial hemiatrophy
+facial neoplasm
 facial neuralgia
 facial palsy
 facial paralysis
@@ -2353,6 +2508,7 @@ faciooculoacousticorenal syndrome
 faciopalatoosseous syndrome
 factitious disorder
 fahr disease
+failed induction
 fairbank.keats syndrome
 faisalabad histiocytosis
 falcine meningioma
@@ -2374,6 +2530,7 @@ familial hypertryptophanemia
 familial hypoalphalipoproteinemia
 familial hypobetalipoproteinemia
 familial hypophosphataemia
+familial hypophosphatemia
 familial hypospadias
 familial hypotransferrinemia
 familial melanoma
@@ -2401,6 +2558,8 @@ farcy pipes
 farmer lung
 farmer.apos.s lung
 farmers lung
+fascia disease
+fasciolopsis buski
 faucial diphtheria
 fazio.londe disease
 fbxl4 deficiency
@@ -2409,6 +2568,7 @@ feingold syndrome
 feline coryza
 feline influenza
 feline panleukemia
+feline panleukopenia
 fellman disease
 felty syndrome
 felty.apos.s syndrome
@@ -2420,6 +2580,7 @@ ferritin.related neurodegeneration
 ferroportin disease
 fetal adenoma
 fetal circulation
+fetal disease
 fetal distress
 fetal erythroblastosis
 fetal haemorrhage
@@ -2437,10 +2598,12 @@ fibroblastic osteosarcoma
 fibrochondrogenesis 1
 fibrochondrogenesis 2
 fibrocytic tumor
+fibroepithelial neoplasm
 fibroepithelial polyp
 fibroepithelial tumor
 fibrohistiocytic tumor
 fibrolamellar carcinoma
+fibromuscular dysplasia
 fibromyxoid sarcoma
 fibrosarcomatous osteosarcoma
 fibrosing cholangitis
@@ -2541,6 +2704,7 @@ fructokinase deficiency
 fructose.1.6.bisphosphatase deficiency
 fructose.1.6.diphosphatase deficiency
 fruit allergy
+fryns syndrome
 ftcd deficiency
 fuhrmann syndrome
 fukuhara syndrome
@@ -2633,6 +2797,8 @@ gastrointestinal carcinoma
 gastrointestinal disease
 gastrointestinal disorder
 gastrointestinal lymphoma
+gastrointestinal melanoma
+gastrointestinal mucormycosis
 gastrointestinal tuberculosis
 gastrointestinal tularemia
 gastrojejunal ulcer
@@ -2652,14 +2818,17 @@ generalized atherosclerosis
 generalized dystonia
 generalized erosion
 generalized glycogenosis
+generalized hyperhidrosis
 generalized lentiginosis
 generalized tuberculosis
 genetic disease
+genetic disorder
 geniculate ganglionitis
 geniculate neuralgia
 genital herpes
 genital syphilis
 genital warts
+genitourinary cancer
 genitourinary tuberculosis
 gentile syndrome
 geographic tongue
@@ -2684,6 +2853,7 @@ giant fibroadenoma
 giant hemangioma
 giant urticaria
 giant.cell thyroiditis
+giardia lamblia
 gibraltar fever
 gigantism
 gilbert syndrome
@@ -2769,11 +2939,16 @@ gonococcal bursitis
 gonococcal cervicitis
 gonococcal conjunctivitis
 gonococcal cystitis
+gonococcal endocarditis
 gonococcal endometritis
 gonococcal endophthalmia
 gonococcal epididymo.orchitis
 gonococcal iridocyclitis
 gonococcal keratitis
+gonococcal keratosis
+gonococcal meningitis
+gonococcal pericarditis
+gonococcal peritonitis
 gonococcal pharyngitis
 gonococcal proctitis
 gonococcal prostatitis
@@ -2790,6 +2965,7 @@ gorham.stout syndrome
 gorlin syndrome
 gouty arthritis
 gouty arthropathy
+gouty nephropathy
 gowers disease
 gpapp deficiency
 gracile syndrome
@@ -2840,6 +3016,7 @@ guttmacher syndrome
 gyrate atrophy
 h syndrome
 habitual aborter
+habitual abortion
 haemangiectatic hypertrophy
 haemangiomatous tumour
 haemangiopericytic meningioma
@@ -2851,6 +3028,7 @@ haglund.apos.s deformity
 haglund.apos.s disease
 hailey.hailey disease
 hair disease
+hair nevus
 hair.brain syndrome
 hairy leukoplakia
 hairy naevus
@@ -2864,8 +3042,10 @@ hallervorden.spatz syndrome
 hallucinogen abuse
 hallucinogen dependence
 halo nevi
+halo nevus
 hamartoma
 hamartoma .disorder.
+hamartoma moniliformis
 hamartomatous polyp
 hamman.rich disease
 hamman.rich syndrome
@@ -2900,6 +3080,7 @@ hb.s.hb.c disease
 hdr syndrome
 head neoplasm
 head.neck neoplasm
+hearing disease
 hearing disorder
 heart aneurysm
 heart attack
@@ -2915,6 +3096,7 @@ heart sarcoma
 heart.congenital defect
 heart.hand syndrome
 heartwater .disorder.
+heartwater disease
 heat rash
 hecht syndrome
 hecht.beals syndrome
@@ -2971,6 +3153,7 @@ henoch.schonlein purpura
 hepatic angioma
 hepatic angiomyolipoma
 hepatic cancer
+hepatic capillariasis
 hepatic coma
 hepatic disorder
 hepatic echinococcosis
@@ -3018,6 +3201,7 @@ hereditary retinoblastoma
 hereditary spherocytosis
 hereditary thrombasthenia.thrombocytopenia
 hereditary thrombocythemia
+hereditary trophedema
 hereditary trophoedeme
 hereditary xerocytosis
 heredopathia ophthalmootoencephalica
@@ -3045,6 +3229,7 @@ hiatal hernia
 hiatus hernia
 hidradenitis suppurativa
 hilar cholangiocarcinoma
+hip enthesopathy
 hirata disease
 hirschsprung disease
 hirschsprung.apos.s disease
@@ -3052,11 +3237,17 @@ his.werner disease
 histiocytic lymphoma
 histiocytoid hemangioma
 histiocytosis x
+histoplasmosis endocarditis
 histoplasmosis meningitis
 histoplasmosis pericarditis
+histoplasmosis pneumonia
 histoplasmosis retinitis
+hiv encephalopathy
+hiv enteropathy
 hiv infection
+hiv leukoencephalopathy
 hiv.associated dementia
+hiv.associated nephropathy
 hmc syndrome
 hmn i
 hmn ii
@@ -3141,6 +3332,7 @@ hydatidiform mole
 hydrocephalus. x.linked
 hydrolethalus syndrome
 hydrometrocolpos syndrome
+hydrops fetalis
 hyperalphalipoproteinemia 1
 hyperalphalipoproteinemia 2
 hyperamylasemia
@@ -3155,6 +3347,7 @@ hyperekplexia 1
 hyperekplexia 2
 hyperekplexia 3
 hyperekplexia 4
+hyperemesis gravidarum
 hyperemia eye
 hypereosinophilic syndrome
 hyperferritinemia.cataract syndrome
@@ -3244,10 +3437,12 @@ idiopathic aortitis
 idiopathic hyperckemia
 idiopathic hypertension
 idiopathic myocarditis
+idiopathic neuropathy
 idiopathic osteoporosis
 idiopathic purpura
 idiopathic scoliosis
 idiopathic steatorrhea
+idiopathic urticaria
 ifah syndrome
 ifngr2 deficiency
 ig.mediated mpgn
@@ -3265,6 +3460,7 @@ il12b deficiency
 il21r immunodeficiency
 il2ra deficiency
 il2rb deficiency
+ileal disease
 ileal neoplasm
 ileal tumor
 ileum cancer
@@ -3381,7 +3577,10 @@ infectious arthritis
 infectious arthropathy
 infectious diarrhea
 infectious disease
+infectious ectromelia
 infectious mononucleosis
+infectious myositis
+infectious myxomatosis
 infectious neuronitis
 infectious thyroiditis
 infective endocarditis
@@ -3398,12 +3597,17 @@ inflammatory spondylopathy
 influenza a
 influenza b
 influenza c
+influenza encephalopathy
+influenza myocarditis
+influenza myositis
 influenza pneumonia
 influenzal pneumonia
 infratentorial cancer
 inguinal hernia
 inh allergy
 inhalation anthrax
+inherited neuropathy
+inkoo encephalitis
 insular sclerosis
 insulin resistance
 integrative agnosia
@@ -3428,6 +3632,7 @@ interstitial nephritis
 intestinal atresia
 intestinal botulism
 intestinal cancer
+intestinal capillariasis
 intestinal coccidiosis
 intestinal cryptosporidiosis
 intestinal disease
@@ -3438,12 +3643,14 @@ intestinal obstruction
 intestinal perforation
 intestinal pseudo.obstruction
 intestinal schistosomiasis
+intestinal strongyloidiasis
 intestinal trichomoniasis
 intestinal tuberculosis
 intestinal tularaemia
 intestinal tumors
 intestinal volvulus
 intestine growth
+intra.abdominal lymphangioma
 intracortical osteosarcoma
 intracranial abscess
 intracranial aneurysm
@@ -3454,16 +3661,23 @@ intracranial embolism
 intracranial germinoma
 intracranial hypertension
 intracranial hypotension
+intracranial lipoma
 intracranial liposarcoma
+intracranial melanoma
 intracranial meningioma
+intracranial neoplasm
 intracranial pnet
 intracranial swelling
 intracranial thrombosis
 intracranial tuberculoma
 intracranial vasospasm
+intractable epilepsy
 intracystic papilloma
+intradermal nevus
 intraductal papilloma
 intraductal papillomatosis
+intraepidermal nevus
+intraepithelial neoplasm
 intrahepatic cholangiocarcinoma
 intrahepatic cholestasis
 intramuscular angioma
@@ -3475,6 +3689,7 @@ intraocular melanoma
 intraocular retinoblastoma
 intraorbital meningioma
 intraspinal tumor
+intraurothelial neoplasia
 intrauterine adhesions
 intrauterine synechiae
 intravascular angioleiomyoma
@@ -3483,10 +3698,13 @@ intravenous leiomyomatosis
 intraventricular meningioma
 intrinsic asthma
 intrinsic cardiomyopathy
+introverted personality
 invasive aspergillosis
+invasive carcinoma
 inverted papilloma
 involutional ectropion
 involutional entropion
+iodine deficiency
 iodine hypothyroidism
 iomid syndrome
 irid 1
@@ -3498,6 +3716,7 @@ iridoschisis .disorder.
 iris cancer
 iris disease
 iron disorder
+iron overload
 irradiation cystitis
 irregular astigmatism
 irritable colon
@@ -3551,6 +3770,7 @@ jeb.herlitz type
 jeb.nh gen
 jejunal adenocarcinoma
 jejunal cancer
+jejunal disease
 jejunal neoplasm
 jejunal somatostatinoma
 jejunal syndrome
@@ -3562,6 +3782,8 @@ jmp syndrome
 job syndrome
 job.apos.s syndrome
 johanson.blizzard syndrome
+joint derangement
+joint disorder
 joubert syndrome
 juvenile astrocytoma
 juvenile dermatomyositis
@@ -3690,6 +3912,7 @@ l.cpt1 deficiency
 l.glyceric aciduria
 l1 syndrome
 labium leporinum
+labor complications
 labor premature
 laboratory infection
 labour complications
@@ -3699,6 +3922,7 @@ labyrinthine hydrops
 lacrimal mucocele
 lacrimoauriculodentodigital syndrome
 lactating adenoma
+lactation disorder
 lactic acidosis
 lactose intolerance
 lad1 variant
@@ -3733,6 +3957,7 @@ larynx neoplasm
 larynx sarcoma
 lassa fever
 late neurosyphilis
+late pregnancy
 late syphilis
 late yaws
 late.onset lymphedema
@@ -3763,6 +3988,7 @@ legg.calve.perthes disease
 legg.calve.perthes symptom
 legionella infection
 legionella pneumonia
+legionella pneumophilia
 legionnaire.apos.s disease
 legionnaires.apos. disease
 legume allergy
@@ -3772,6 +3998,9 @@ leigh syndrome
 leiomyoma cutis
 leiomyomatous neoplasm
 leiomyomatous tumor
+leiomyosarcoma metastatic
+leiomyosarcoma nonmetastatic
+leiomyosarcoma recurrent
 lemierre syndrome
 lemierre.apos.s syndrome
 lennox syndrome
@@ -3779,6 +4008,7 @@ lennox.gastaut syndrome
 lens disease
 lens subluxation
 lens.induced iridocyclitis
+lentiginosis profusa
 lentiginosis. diffuse
 lentiginosis. generalized
 lentivirus disease
@@ -3792,14 +4022,18 @@ leptomeningeal angiomatosis
 leptomeningeal cyst
 leptomeningeal melanocytoma
 leptomeningeal melanomatosis
+leptomeningeal metastases
+leptomeningeal neoplasm
 leptomeningeal sarcoma
 leptomeninges sarcoma
+leptospiral meningitis
 leptospirosis icterohaemorrhagica
 leri.weill dyschondrosteosis
 lesch.nyhan syndrome
 letterer.siwe disease
 leukaemia myelogenous
 leukemia myelogenous
+leukemoid reaction
 leukocyte disease
 leukodystrophy. sudanophilic
 leukoencephalopathy
@@ -3857,10 +4091,16 @@ lipomatous medulloblastoma
 lipomatous neoplasm
 lipomatous tumor
 lipoprotein deficiencies
+liposarcoma metastatic
+liposarcoma nonmetastatic
+liposarcoma recurrent
 lison syndrome
 lissencephaly 2
 listeria infection
 listeria meningitis
+listeria meningoencephalitis
+listeria monocytogenes
+listeria septicaemia
 little.apos.s disease
 littles disease
 livedoid vasculitis
@@ -3878,9 +4118,11 @@ liver leiomyoma
 liver leiomyosarcoma
 liver lipoma
 liver lymphoma
+liver metastasis
 liver rhabdomyosarcoma
 liver sarcoma
 lloyd.apos.s syndrome
+loboa loboi
 lobstein.apos.s syndrome
 lobster.claw deformity
 lobular carcinoma
@@ -3894,6 +4136,7 @@ localised osteosarcoma
 localised scleroderma
 localized chondrosarcoma
 localized erosion
+localized lymphoma
 localized morphea
 localized osteosarcoma
 localized scleroderma
@@ -3931,7 +4174,9 @@ lung leiomyosarcoma
 lung lymphangioleiomyomatosis
 lung lymphoma
 lung meningioma
+lung metastasis
 lung neoplasm
+lung pap.ad
 lung sarcoidosis
 lung sarcoma
 lupus erythematosus
@@ -3951,6 +4196,7 @@ lymphangiectasis
 lymphangioendothelioma
 lymphangioendothelioma. nos
 lymphangiomyoma
+lymphangitis.associated rickettsiosis
 lymphatic disease
 lymphatic disorder
 lymphatic edema
@@ -3960,6 +4206,7 @@ lymphedema.distichiasis syndrome
 lymphoblastic leukaemia
 lymphoblastic leukemia
 lymphoblastic lymphoma
+lymphocutaneous sporotrichosis
 lymphocyte.predominant thymoma
 lymphocytic choriomeningitis
 lymphocytic colitis
@@ -3981,6 +4228,7 @@ lymphoplasmacytic leukaemia
 lymphoplasmacytic leukemia
 lymphoplasmacytic lymphoma
 lymphoplasmocyte.rich meningioma
+lymphoproliferative disease
 lymphoproliferative syndrome
 lynch syndrome
 lytico.bodig disease
@@ -4020,6 +4268,7 @@ mai lymphadenitis
 maine microphthalmos
 majewski syndrome
 majocchi.apos.s granuloma
+malabsorption syndrome
 malarial encephalitis
 malarial hemoglobinuria
 male hematocele
@@ -4028,6 +4277,7 @@ malignant acrospiroma
 malignant adenofibroma
 malignant adenoma
 malignant astrocytoma
+malignant catarrh
 malignant cystadenoma
 malignant ependymoma
 malignant epithelioma
@@ -4106,6 +4356,7 @@ mast.cell leukemia
 mast.cell sarcoma
 masters.allen syndrome
 mastitis carcinomatosa
+maternal distress
 maternal phenylketonuria
 maternal upd.20.
 maternity blues
@@ -4113,6 +4364,7 @@ mathematics disorder
 matthew.wood syndrome
 mature cataract
 mature teratoma
+maturing ganglioneuroma
 maxillary cancer
 maxillary neoplasm
 maxillary sinusitis
@@ -4141,6 +4393,8 @@ mediastinal neurilemmoma
 mediastinal tumor
 mediastinum angiosarcoma
 mediastinum cancer
+mediastinum chondroma
+mediastinum choriocarcinoma
 mediastinum ganglioneuroblastoma
 mediastinum leiomyoma
 mediastinum leiomyosarcoma
@@ -4151,6 +4405,7 @@ mediastinum rhabdomyosarcoma
 mediastinum sarcoma
 mediastinum seminoma
 mediastinum teratoma
+medical disorder
 mediterranean fever
 mednik syndrome
 medullary carcinoma
@@ -4162,6 +4417,7 @@ medulloblastoma. melanotic
 meester.loeys syndrome
 megakaryocytic myelosclerosis
 megakaryocytic myelosis
+megakaryocytic tumor
 megaloblastic anaemia
 megaloblastic anemia
 megdel syndrome
@@ -4175,6 +4431,7 @@ meige syndrome
 melanocytic mpnst
 melanocytic neoplasm
 melanocytic nevi
+melanocytic nevus
 melanoma.astrocytoma syndrome
 melanotic medulloblastoma
 melanotic neurilemmoma
@@ -4205,21 +4462,30 @@ meningeal neoplasm
 meningeal sarcoma
 meningeal sarcomatosis
 meningeal tuberculosis
+meninges gliomatosis
 meninges hemangiopericytoma
 meninges sarcoma
 meningioma. benign
 meningioma. chordoid
 meningioma. rhabdoid
+meningococcal carditis
+meningococcal encephalitis
+meningococcal endocarditis
 meningococcal meningitis
+meningococcal myocarditis
+meningococcal pericarditis
 meningococcal septicaemia
+meningococcal septicemia
 meningococcemia .disorder.
 meningothelial meningioma
 meningotheliomatous meningioma
 meningovascular neurosyphilis
 menkes disease
+menopausal syndrome
 menopause praecox
 menopause syndrome
 mental depression
+mental disorder
 mental retardation
 mepivacaine allergy
 meralgia paraesthetica
@@ -4228,28 +4494,41 @@ meropenem allergy
 merrem allergy
 merrf syndrome
 mesenchymal chondrosarcoma
+mesenchymal hamartoma
 mesenchymal tumor
 mesenchymoma. benign
 mesenchymoma. malignant
 mesenteric adenitis
 mesenteric lymphadenitis
+mesoblastic nephroma
 mesoectodermal dysplasia
 mesonephric adenoma
 mesonephric neoplasm
+mesonephric tumor
 mesonephroma. benign
 mesonephroma. malignant
+mesothelial neoplasm
 mesothelial tumor
 metabolic acidosis
 metabolic disease
 metabolic encephalopathy
 metachromatic leukodystrophy
+metagonimus yokogawai
 metal allergy
 metanephric adenofibroma
 metanephric adenoma
 metaphyseal dysplasia
+metaplastic carcinoma
 metaplastic meningioma
+metastatic adenocarcinoma
 metastatic carcinoma
+metastatic chondrosarcoma
+metastatic fibrosarcoma
+metastatic melanoma
+metastatic meningioma
+metastatic mpnst
 metastatic neuroblastoma
+metastatic osteosarcoma
 metatropic dwarfism
 metatropic dysplasia
 metatypical carcinoma
@@ -4304,6 +4583,7 @@ mite infestation
 mite.borne rickettsiosis
 mite.borne typhus
 mitochondrial cytopathy
+mitochondrial disease
 mitochondrial encephalomyopathy
 mitochondrial myopathy
 mitral regurgitation
@@ -4353,6 +4633,7 @@ monocytic leukemia
 monodermal teratoma
 monofixation syndrome
 monogenic disease
+monomorphic ptld
 mononen.karnes.senac syndrome
 mononeuritis multiplex
 monosomy 10qter
@@ -4405,11 +4686,13 @@ mucinous ascites
 mucinous cystadenocarcinoma
 mucinous cystadenofibroma
 mucinous cystadenoma
+mucinous neoplasm
 mucinous tumor
 muckle.wells syndrome
 mucocutaneous leishmaniasis
 mucocutaneous.lymphangitic paracoccidioidomycosis
 mucoepidermoid carcinoma
+mucoepidermoid tumor
 mucolipidosis ii
 mucolipidosis iii
 mucopolysaccharidosis i
@@ -4445,6 +4728,7 @@ multifocal dystonia
 multilocular hydatid
 multinodular goiter
 multiple lipomatosis
+multiple meningiomas
 multiple myeloma
 multiple ostechondromas
 multiple sclerosis
@@ -4454,6 +4738,7 @@ murcs association
 murine typhus
 muscle cancer
 muscle neoplasm
+muscle syphilis
 muscle wasting
 muscle.liver.brain.eye nanism
 muscular atrophy
@@ -4474,6 +4759,7 @@ myelodysplastic syndrome
 myelodysplastic.myeloproliferative neoplasm
 myeloid leukaemia
 myeloid leukemia
+myeloid metaplasia
 myeloid neoplasm
 myeloid sarcoma
 myeloma. solitary
@@ -4575,6 +4861,7 @@ neonatal polycythemia
 neonatal tetanus
 neonatal thyrotoxicosis
 neoplasm. urethra
+neoplastic disease
 neoprene allergy
 neotropical echinococcosis
 neovascular glaucoma
@@ -4600,12 +4887,15 @@ nephronophthisis 9
 nephropathia epidemica
 nephrosis.microcephaly syndrome
 nephrotic syndrome
+nerve deafness
 nescav syndrome
 netherton syndrome
 neural neoplasm
+neural nevus
 neural tumor
 neuralgic amyotrophy
 neuroaxonal dystrophy
+neuroblastic tumor
 neurocirculatory asthenia
 neurodegeneration. pla2g6.associated
 neurodegenerative disease
@@ -4613,6 +4903,7 @@ neuroectodermal tumor
 neuroendocrine carcinoma
 neuroendocrine neoplasm
 neuroendocrine tumor
+neuroepithelial neoplasm
 neurofibromatosis 1
 neurofibromatosis 2
 neurofibromatosis.noonan syndrome
@@ -4620,6 +4911,7 @@ neurogenic arthropathy
 neurogenic bladder
 neurogenic bowel
 neuroglial tumor
+neurological disorder
 neuromuscular disease
 neuromyelitis optica
 neurooculocardiogenitourinary syndrome
@@ -4654,6 +4946,9 @@ niikawa.kuroki syndrome
 nipah virus
 nipple carcinoma
 nivelon.nivelon.mabille syndrome
+nocardial cellulitis
+nocardial keratitis
+nocardial pneumonia
 nocturnal asthma
 nocturnal myoclonus
 nodular episcleritis
@@ -4662,6 +4957,7 @@ nodular ganglioneuroblastoma
 nodular goiter
 nodular goitre
 nodular hidradenoma
+nodular lymphoma
 nodular medulloblastoma
 nodular melanoma
 nodular prostate
@@ -4676,6 +4972,7 @@ non.hodgkin lymphoma
 non.ketotic hyperglycinemia
 non.langerhans.cell histiocytosis
 non.lymphocytic leukemia
+non.metastatic fibrosarcoma
 non.metastatic leiomyosarcoma
 non.metastatic liposarcoma
 non.neoplastic nevus
@@ -4694,7 +4991,9 @@ nonparalytic poliomyelitis
 nonphotosensitive trichothiodystrophy
 nonpigmented nevus
 nonpyogenic meningitis
+nonresectable hepatoblastoma
 nonsyndromic deafness
+nonsyndromic epilepsy
 nontoxic goiter
 noonan syndrome
 noradrenaline deficiency
@@ -4702,6 +5001,7 @@ norepinephrine deficiency
 norman.roberts syndrome
 normocalcemic pseudohypoparathyroidism
 normocytic anemia
+norovirus gastroenteritis
 norovirus infection
 norrie disease
 norrie.warburg disease
@@ -4717,12 +5017,14 @@ nut allergy
 nutmeg liver
 nutrition disease
 nutritional atrophy
+nutritional cardiomyopathy
 nutritional disorder
 nutritional marasmus
 o.apos.nyong.apos.nyong fever
 obliterative bronchiolitis
 obrisnksy syndrome
 obsessive.compulsive disorder
+obstructed labor
 obstructive hydrocephalus
 obstructive hyperbilirubinemia
 obstructive jaundice
@@ -4730,6 +5032,7 @@ obstructive nephropathy
 obstructive uropathy
 occupational asthma
 occupational dermatitis
+occupational disease
 occupational disorder
 occupational eczema
 ochoa syndrome
@@ -4781,6 +5084,7 @@ ohaha syndrome
 ohdo syndrome
 okihiro syndrome
 olecranon bursitis
+olfaction disorder
 olfactory esthesioneuroblastoma
 olfactory neuroblastoma
 oligochiasmatic infertility
@@ -4796,6 +5100,8 @@ omani type
 omenn syndrome
 omodysplasia 1
 omodysplasia 2
+onchocerca volvulus
+oncocytic neoplasm
 oncocytic tumor
 ondine curse
 ondine syndrome
@@ -4870,6 +5176,7 @@ osseous hemangiosarcoma
 osseous tumor
 ossifying fibroma
 ossifying fibromyxoma
+osteitis condensans
 osteitis deformans
 osteitis fibrosa
 osteoarticular tuberculosis
@@ -4880,6 +5187,7 @@ osteochondromatosis syndrome
 osteochondromuscular dystrophy
 osteoclast.poor osteopetrosis
 osteogenesis imperfecta
+osteogenic neoplasm
 osteogenic sarcoma
 osteogenic tumor
 osteoglophonic dwarfism
@@ -4915,6 +5223,7 @@ ovarian endometriosis
 ovarian gonadoblastoma
 ovarian lymphoma
 ovarian melanoma
+ovarian metastasis
 ovarian mmmt
 ovarian neoplasm
 ovary adenocarcinoma
@@ -4928,6 +5237,7 @@ ovine rinderpest
 ox40 deficiency
 oxalosis i
 oxirane allergy
+oxyphilic adenocarcinoma
 oxyphilic adenoma
 p2y12 defect
 p450scc deficiency
@@ -4994,9 +5304,11 @@ papillon.leage.psaume syndrome
 papillon.lefevre disease
 papillon.lefvre syndrome
 papillorenal syndrome
+papillotubular adenocarcinoma
 pappataci fever
 papular atrichia
 paracoccidioidal mycosis
+parainfluenzal pneumonia
 paralysis agitans
 paralytic ileus
 paralytic lagophthalmos
@@ -5008,6 +5320,7 @@ paramyotonia congenita
 paraneoplastic pemphigus
 paraneoplastic polyneuropathy
 paranoid schizophrenia
+paranoid state
 parapharyngeal meningioma
 paraphilia disorder
 paraphrenia
@@ -5017,6 +5330,7 @@ paraplegia. lower
 paraproteinemia
 paraproteinemia .disorder.
 parasagittal meningioma
+parasite.related carcinoma
 parasitic conjunctivitis
 parastremmatic dwarfism
 parastremmatic dysplasia
@@ -5075,9 +5389,11 @@ pearly disease
 pearson syndrome
 pediatric angiosarcoma
 pediatric astrocytoma
+pediatric craniopharyngioma
 pediatric ependymoma
 pediatric fibrosarcoma
 pediatric hemangiosarcoma
+pediatric leiomyosarcoma
 pediatric liposarcoma
 pediatric lymphoma
 pediatric medulloblastoma
@@ -5085,6 +5401,7 @@ pediatric meningioma
 pediatric mpnst
 pediatric oligodendroglioma
 pediatric osteosarcoma
+pediatric rhabdomyosarcoma
 pediculosis capitis
 pediculosis pubis
 pediculus capitis
@@ -5094,6 +5411,7 @@ peho syndrome
 pelger.huet anomaly
 peliosis hepatis
 pelizaeus.merzbacher disease
+pelvic cancer
 pelvic cellulitis
 pelvic lipomatosis
 pelvic varices
@@ -5138,6 +5456,7 @@ pericarditis.arthropathy.camptodactyly syndrome
 pericardium cancer
 pericardium disease
 pericardium leiomyoma
+perinatal disease
 perineural angioma
 periocular meningioma
 periodontal disease
@@ -5147,6 +5466,8 @@ periosteal chondrosarcoma
 periosteal osteosarcoma
 peripartum cardiomyopathy
 peripheral cholangiocarcinoma
+peripheral dysostosis
+peripheral enthesopathy
 peripheral neuritis
 peripheral neuroblastoma
 peripheral neurofibromatosis
@@ -5175,6 +5496,7 @@ personality disorder
 perthe.apos.s disease
 perthes disease
 pertussis pneumonia
+pestis minor
 petechial fever
 peters anomaly
 peters.plus syndrome
@@ -5197,6 +5519,7 @@ pharc syndrome
 pharyngeal cancer
 pharyngeal disease
 pharyngeal disorder
+pharyngeal gonorrhea
 pharyngeal neoplasm
 pharyngo.conjunctival fever
 pharyngoconjunctival fever
@@ -5251,6 +5574,7 @@ pilocytic astrocytoma
 piloid astrocytoma
 pilomatricoma. malignant
 pilomyxoid astrocytoma
+pilosebaceous hamartoma
 pin iii
 pinched nerve
 pineal choriocarcinoma
@@ -5262,6 +5586,7 @@ pingelapese blindness
 pink eye
 pinkus tumor
 pinkus.apos. disease
+pinna disease
 pinta disease
 pinworm infection
 piperacillin allergy
@@ -5275,6 +5600,7 @@ pituitary apoplexy
 pituitary cancer
 pituitary carcinoma
 pituitary disease
+pituitary dwarfism
 pituitary gigantism
 pituitary hypofunction
 pituitary hypoplasia
@@ -5288,6 +5614,7 @@ pityriasis circinata
 pityriasis linguae
 pityriasis rosea
 pityriasis versicolor
+pityrosporum furfur
 pk deficiency
 placenta accreta
 placenta cancer
@@ -5301,7 +5628,9 @@ placental hemangioma
 placental infarct
 placental infarction
 placental insufficiency
+placental necrosis
 placental tumors
+plague meningitis
 plantar fasciitis
 plantar wart
 plaque sporotrichosis
@@ -5310,6 +5639,7 @@ plasmacytic leukaemia
 plasmacytic leukemia
 plasmacytic tumor
 plasmacytoma. extramedullary
+plasmacytoma.like ptld
 platelet disorder
 pleomorphic adenoma
 pleomorphic carcinoma
@@ -5340,6 +5670,9 @@ plummer disease
 plummer.apos.s disease
 pmp2.related cmt1
 pneumococcal meningitis
+pneumococcal peritonitis
+pneumococcal pneumonia
+pneumococcal septicemia
 pneumococcus pneumonia
 pneumocystis pneumonia
 pneumocystosis pneumonia
@@ -5370,6 +5703,7 @@ polycythemia. nephrogenous
 polycythemia. secondary
 polyepiphyseal dysplasia
 polygenic disease
+polyglandular dysfunction
 polymyalgia rheumatica
 polymyositis
 polynesian bronchiectasis
@@ -5382,8 +5716,10 @@ polysomatising disorder
 pompe.apos.s disease
 pontiac fever
 pontocerebellar hypoplasia
+popliteal cyst
 poradenitis inguinale
 porcine polioencephalomyelitis
+port.wine stain
 portal cirrhosis
 portal hypertension
 portal.systemic encephalopathy
@@ -5408,8 +5744,10 @@ postdysenteric arthropathy
 postencephalitic parkinsonism
 posterior cyclitis
 posterior scleritis
+posterior synechiae
 posterior uveitis
 postgastrectomy syndrome
+postherpetic polyneuropathy
 postinfectious encephalitis
 postinfectious polyneuritis
 postinfective encephalitis
@@ -5423,12 +5761,14 @@ postpartum gonorrhea
 postpartum hypopituitarism
 postpartum malaria
 postpartum syphilis
+postpericardiotomy syndrome
 postphlebitic syndrome
 postpolio syndrome
 postpoliomyelitis syndrome
 postsurgical hypoinsulinemia
 postsurgical hypothyroidism
 postural albuminuria
+postural kyphosis
 postvaccinal encephalomyelitis
 postvaricella encephalitis
 potassium deficiency
@@ -5446,6 +5786,7 @@ prader.willi syndrome
 pre.eclamptic toxaemia
 pre.malignant neoplasm
 preauricular cyst
+precipitate labor
 precocious puberty
 prediabetes syndrome
 prediabetic state
@@ -5488,6 +5829,7 @@ primary polycythemia
 primary syphilis
 primary thrombocytopenia
 primary thrombocytosis
+primary tuberculosis
 primary.progressive ms
 primbactam allergy
 primordial dwarfism
@@ -5507,6 +5849,8 @@ proliferative fasciitis
 proliferative glomerulonephritis
 proliferative polycythaemia
 proliferative vitreoretinopathy
+prolonged labor
+prolonged pregnancy
 proloprim allergy
 prolymphocytic leukemia
 propionic acidemia
@@ -5564,6 +5908,10 @@ pseudoglycogenosis ii
 pseudohyperkalemia edinburgh
 pseudomembranous colitis
 pseudomembranous conjunctivitis
+pseudomonal pneumonia
+pseudomonas endocarditis
+pseudomonas keratitis
+pseudomonas septicemia
 pseudomucinous cystadenocarcinoma
 pseudomyxoma peritonei
 pseudorabies
@@ -5600,6 +5948,7 @@ psychogenic tics
 psychogenic vaginismus
 psychologic dyspareunia
 psychologic vaginismus
+psychomotor disease
 psychomotor disorder
 psychomotor epilepsy
 psychopathic personality
@@ -5611,12 +5960,17 @@ psychotic disorder
 pterygoid.levator synkinesis
 pts deficiency
 pudendal ulcer
+puerperal disease
 puerperal disorder
+pulmonary actinomycosis
 pulmonary adenoma
 pulmonary adenomatosis
 pulmonary anthrax
 pulmonary aspergilloma
 pulmonary blastoma
+pulmonary blastomycosis
+pulmonary capillariasis
+pulmonary cryptococcosis
 pulmonary echinococcosis
 pulmonary edema
 pulmonary embolism
@@ -5635,6 +5989,8 @@ pulmonary leiomyosarcoma
 pulmonary lymphangioleiomyomatosis
 pulmonary lymphoma
 pulmonary meningioma
+pulmonary mucormycosis
+pulmonary paracoccidioidomycosis
 pulmonary paragonimiasis
 pulmonary pneumocystosis
 pulmonary regurg.
@@ -5642,6 +5998,8 @@ pulmonary regurgitation
 pulmonary sarcoidosis
 pulmonary sarcoma
 pulmonary siderosis
+pulmonary sporotrichosis
+pulmonary syphilis
 pulmonary tuberculosis
 pulmonary tularemia
 pulmonic insufficiency
@@ -5657,6 +6015,7 @@ punctate keratitis
 pupil disease
 pupillary disorder
 puppetlike syndrome
+pure bac
 pure hypercholesterolaemia
 pure hypercholesterolemia
 puretic syndrome
@@ -5672,6 +6031,7 @@ purulent pleuritis
 pyeloureteritis cystica
 pyle.apos.s disease
 pyle.cohn syndrome
+pyles dysplasia
 pyloric stenosis
 pylorus cancer
 pyoderma gangrenosum
@@ -5703,6 +6063,7 @@ raynaud.apos.s disease
 raynaud.apos.s syndrome
 raynaud.claes syndrome
 reactive arthritis
+reactive confusion
 reactive depression
 reading disorder
 receptive amusia
@@ -5725,9 +6086,14 @@ rectum lymphoma
 rectum neoplasm
 rectum rhabdomyosarcoma
 rectum sarcoma
+recurrent chondrosarcoma
+recurrent hepatoblastoma
 recurrent hypersomnia
 recurrent miscarriage
+recurrent nephroblastoma
+recurrent nevus
 recurrent nsclc
+recurrent osteosarcoma
 refetoff syndrome
 reflex epilepsy
 reflux esophagitis
@@ -5736,29 +6102,38 @@ refractive amblyopia
 refractive error
 refsum disease
 refsum.apos.s disease
+regional neuroblastoma
 regressing melanoma
 regressing naevus
+regressing nevus
 regular astigmatism
 reifenstein syndrome
 reinhoff syndrome
 reiter disease
 reiter.apos.s disease
+relapsed angiosarcoma
 relapsed chondrosarcoma
 relapsed hemangiosarcoma
 relapsed hepatoblastoma
 relapsed hepatoma
 relapsed leiomyosarcoma
 relapsed liposarcoma
+relapsed medulloblastoma
+relapsed meningioma
 relapsed mpnst
+relapsed neuroblastoma
 relapsed osteosarcoma
+relapsed retinoblastoma
 relapsed rhabdomyosarcoma
 relapsing fever
+relapsing pancreatitis
 relapsing polychondritis
 relapsing.remitting ms
 remnant hyperlipidemia
 renal adenoma
 renal adysplasia
 renal agenesis
+renal aminoaciduria
 renal angiomyolipoma
 renal aplasia
 renal atherosclerosis
@@ -5778,6 +6153,7 @@ renal osteodystrophy
 renal rickets
 renal sarcoma
 renal sclerosis
+renal syphilis
 renal tuberculosis
 renal.hepatic.pancreatic dysplasia
 renal.retinal syndrome
@@ -5786,6 +6162,7 @@ renovascular hypertension
 renpenning syndrome
 reoviridae disease
 reproductive tumor
+resectable hepatoblastoma
 resectable hepatoma
 residual schizophrenia
 respiratory allergy
@@ -5799,6 +6176,7 @@ reticulohistiocytic granuloma
 retina lymphoma
 retinal break
 retinal cancer
+retinal defect
 retinal degeneration
 retinal detachment
 retinal dialysis
@@ -5842,11 +6220,15 @@ rhabdoid cancer
 rhabdoid meningioma
 rhabdoid sarcoma
 rhabdoid tumor
+rhabdomyosarcoma recurrent
 rheumatic carditis
+rheumatic chorea
 rheumatic disease
 rheumatic endocarditis
 rheumatic fever
 rheumatic myocarditis
+rheumatic pericarditis
+rheumatic pneumonia
 rheumatism
 rheumatoid arthritis
 rheumatoid lung
@@ -5854,7 +6236,9 @@ rheumatoid myocarditis
 rheumatoid pneumoconiosis
 rhinitis sicca
 rhinitis. atrophic
+rhinocerebral mucormycosis
 rhinopharyngitis mutilans
+rhinosporidium seeberi
 rhinotracheitis
 rhodesian trypanosomiasis
 rhus dermatitis
@@ -5864,6 +6248,7 @@ richner.hanhart syndrome
 richter syndrome
 richter.apos.s syndrome
 rickettsia infection
+rickettsial pneumonia
 rickettsiosis
 riddle syndrome
 rieger.apos.s anomaly
@@ -5898,6 +6283,7 @@ rosenberg.chutorian syndrome
 rosenthal.apos.s disease
 roseola infantum
 rotavirus enteritis
+rotavirus gastroenteritis
 rotavirus infection
 rothmund.thomson syndrome
 roundworm infection
@@ -5909,6 +6295,7 @@ ruijs.aalfs syndrome
 rumination disorder
 runny nose
 ruvalcaba.myhre.smith syndrome
+s.t syndrome
 sa node
 sacral agenesis
 sacrum chordoma
@@ -5921,6 +6308,9 @@ saldino.noonan syndrome
 salivary cyst
 salmonella gastroenteritis
 salmonella infection
+salmonella meningitis
+salmonella pneumonia
+salmonella septicemia
 salonen.herva.norio syndrome
 salt.and.pepper syndrome
 sandfly fever
@@ -5929,6 +6319,7 @@ sandrow syndrome
 sanfilippo.apos.s syndrome
 sanjad.sakati syndrome
 sapho syndrome
+sapovirus gastroenteritis
 sarcoid meningitis
 sarcoma botryoides
 sarcomatoid carcinoma
@@ -5957,7 +6348,9 @@ schilling.apos.s leukemia
 schimke syndrome
 schimmelpenning syndrome
 schinzel syndrome
+schistosoma bovis
 schistosoma haematobium
+schistosoma mattheii
 schistosomiasis japonica
 schizoaffective disorder
 schizophrenia 1
@@ -5978,6 +6371,7 @@ schizophrenia 6
 schizophrenia 7
 schizophrenia 8
 schizophrenia 9
+schizophrenia simplex
 schizophreniform disorder
 schlichting dystrophy
 schmidt syndrome
@@ -6035,9 +6429,12 @@ seborrhoeic dermatitis
 seborrhoeic eczema
 seckel syndrome
 secondary carcinoma
+secondary cardiomyopathy
+secondary chondrosarcoma
 secondary encephalitis
 secondary hyperparathyroidism
 secondary hypertension
+secondary myelofibrosis
 secondary parkinsonism
 secondary polycythemia
 secondary syphilis
@@ -6068,12 +6465,14 @@ senile vaginitis
 senior.loken syndrome
 sennetsu ehrlichiosis
 sennetsu fever
+sensation disorder
 sensenbrenner syndrome
 sensitive dentin
 sensorineural deafness
 sensory neuropathy
 sepn1.related myopathy
 septal defect
+septic abortion
 septic arthritis
 septic myocarditis
 septicemic plague
@@ -6086,6 +6485,8 @@ serous cystadenocarcinoma
 serous cystadenoma
 serous cystoma
 serous labyrinthitis
+serous neoplasm
+serratia septicemia
 serum hepatitis
 sesame syndrome
 settle tumor
@@ -6132,6 +6533,7 @@ shy.drager syndrome
 si deficiency
 sicca syndrome
 sick.euthyroid syndrome
+sickle.cell crisis
 sickle.cell trait
 siderius.hamel syndrome
 sideroblastic anemia
@@ -6150,6 +6552,7 @@ simple microphthalmos
 simple phobia
 simple schizophrenia
 singapore ear
+sinonasal papilloma
 sinuatrial node
 sipple syndrome
 situs ambiguus
@@ -6164,6 +6567,7 @@ skeletal disease
 skeletal dysplasia
 skeletal sarcoma
 skeletal tuberculosis
+skin abnormality
 skin angiokeratoma
 skin angiosarcoma
 skin atrophy
@@ -6176,6 +6580,7 @@ skin hemangioma
 skin inflammation
 skin lipoma
 skin lymphangiosarcoma
+skin lymphoma
 skin melanoma
 skin meningioma
 skin neoplasm
@@ -6212,6 +6617,7 @@ solar keratosis
 solar retinitis
 solar retinopathy
 soldiers heart
+solid carcinoma
 solitary mastocytoma
 solitary myeloma
 solitary plasmacytoma
@@ -6221,6 +6627,7 @@ somatisation disorder
 somatization disorder
 somatoform disorder
 somatosensory agnosia
+somatosensory disorder
 somatotroph adenoma
 sommer.young.wee.frye syndrome
 sotos syndrome
@@ -6253,6 +6660,7 @@ spinal cancer
 spinal chordoma
 spinal disease
 spinal dysraphism
+spinal enthesopathy
 spinal meningioma
 spinal neoplasm
 spinal polio
@@ -6261,6 +6669,7 @@ spindled mesothelioma
 spinocerebellar ataxia
 spirillary fever
 spirochetal jaundice
+spitz nevus
 spitzoid melanoma
 spleen angiosarcoma
 spleen cancer
@@ -6291,6 +6700,7 @@ sponge kidney
 spongiform encephalopathy
 spongioblastoma multiforme
 spongiotic dermatitis
+spontaneous abortion
 sporadic hypogammaglobulinemia
 sporadic typhus
 spotted fever
@@ -6299,6 +6709,11 @@ squamoid thymoma
 squamous blepharitis
 squamous carcinoma
 squamous papillomatosis
+staphylococcal enterocolitis
+staphylococcal meningitis
+staphylococcal pneumonia
+staphylococcal septicemia
+staphylococcus gastroenteritis
 staphyloma posticum
 star syndrome
 stargardt disease
@@ -6347,8 +6762,14 @@ strawberry nevus
 strept throat
 streptobacillary fever
 streptococcal angina
+streptococcal erysipelas
 streptococcal meningitis
+streptococcal pharyngitis
+streptococcal pneumonia
+streptococcal septicemia
+streptococcus impetigo
 streptococcus infection
+streptococcus lymphangitis
 streptococcus pneumonia
 streptomycin ototoxicity
 streptomycin.induced deafness
@@ -6357,6 +6778,7 @@ stress ulcer
 striatonigral degeneration
 stripper.apos.s asthma
 stromal dystrophy
+stromal neoplasm
 stromal sarcoma
 stromal tumors
 stromme syndrome
@@ -6411,6 +6833,7 @@ summerskill.walshe.tygstrup syndrome
 superficial keratitis
 superficial mycosis
 supernumerary digit
+suppressed lactation
 suppression amblyopia
 suppurative cholangitis
 suppurative labyrinthitis
@@ -6440,6 +6863,7 @@ sweet syndrome
 sweet.apos.s syndrome
 swimmer.apos.s ear
 swimmer.apos.s exostosis
+swine erysipelas
 swine influenza
 swyer syndrome
 sydenham.apos.s chorea
@@ -6461,10 +6885,16 @@ synovial sarcoma
 synovioma. benign
 synovium cancer
 synovium neoplasm
+syphilitic alopecia
 syphilitic aortitis
 syphilitic chancre
 syphilitic encephalitis
+syphilitic endocarditis
+syphilitic episcleritis
 syphilitic meningitis
+syphilitic myocarditis
+syphilitic pericarditis
+syphilitic peritonitis
 syringocystadenoma papilliferum
 syringomatous carcinoma
 systemic candidiasis
@@ -6474,13 +6904,16 @@ systemic mycosis
 systemic scleroderma
 systemic sclerosis
 t.cell leukemia
+t.cell neoplasm
 t2.high asthma
 t2.low asthma
 tabes dorsalis
 tach syndrome
 tactile agnosia
 tactile epilepsy
+taenia .disorder.
 taenia infestation
+taeniarhynchus saginatus
 taeniasis. unspecified
 taiga encephalitis
 takayasu arteritis
@@ -6521,6 +6954,7 @@ teschen disease
 testicular cancer
 testicular choriocarcinoma
 testicular disease
+testicular dysfunction
 testicular feminization
 testicular fibroma
 testicular gonadoblastoma
@@ -6553,6 +6987,7 @@ thbd.related coagulopathy
 thiamine deficiency
 thiamine.responsive myelodysplasia
 thiopental allergy
+thiourea tasting
 thistle disease
 thomas.apos. syndrome
 thomsen disease
@@ -6568,6 +7003,7 @@ thost.unna syndrome
 threadworm infection
 three.day sickness
 three.day stiffsickness
+throat carcinoma
 thromboangiitis obliterans
 thrombocytic leukaemia
 thrombomodulin.related coagulopathy
@@ -6619,6 +7055,7 @@ tick typhus
 tick.borne encephalitis
 tick.borne fever
 tick.borne rickettsiosis
+tickborne fever
 tietz syndrome
 tietze syndrome
 tietze.apos.s disease
@@ -6659,6 +7096,8 @@ tongue. fissured
 tonic.clonic epilepsy
 tonne.kalscheuer syndrome
 tonsil cancer
+tonsillar aspergillosis
+tooth abnormality
 tooth agenesis
 tooth ankylosis
 tooth disease
@@ -6676,6 +7115,7 @@ toxic labyrinthitis
 toxic maculopathy
 toxic megacolon
 toxic myocarditis
+toxic myopathy
 toxic pneumonitis
 toxic shock
 toxicodendron dermatitis
@@ -6683,6 +7123,9 @@ toxocara infection
 toxoplasma chorioretinitis
 toxoplasma conjunctivitis
 toxoplasma encephalitis
+toxoplasma hepatitis
+toxoplasma myocarditis
+toxoplasma pneumonia
 tpmt deficiency
 trabecular adenocarcinoma
 trabecular adenoma
@@ -6695,6 +7138,8 @@ tracheal cancer
 tracheal disease
 tracheal lymphoma
 tracheal stenosis
+tracheal tuberculosis
+tracheobronchial tuberculosis
 trachoma dubium
 transcortical apraxia
 transcortin deficiency
@@ -6705,6 +7150,7 @@ transient leukemia
 transitional carcinoma
 transitional meningioma
 transitional papilloma
+transplant.related disease
 transthyretin amyloidosis
 transverse myelitis
 transvestic fetishism
@@ -6730,8 +7176,14 @@ trichomonal prostatitis
 trichomonal urethritis
 trichomonal vulvovaginitis
 trichomonas balanoposthitis
+trichomonas cystitis
 trichomonas infection
+trichomonas prostatitis
+trichomonas urethritis
+trichomonas vaginitis
+trichostrongylus species
 trichuriasis infection
+trichuris trichura
 tricuspid atresia
 tricuspid disease
 tricuspid incompetence
@@ -6759,6 +7211,7 @@ trisomy 3q29
 trisomy 5p13
 trisomy xp11.22.p11.23
 tritan defect
+trivittatus encephalitis
 trophoblastic neoplasm
 trophoblastic tumor
 tropical pyomyositis
@@ -6767,6 +7220,7 @@ tropical steatorrhea
 tropical typhus
 troyer syndrome
 true microcephaly
+trypanosoma meningitis
 tsh resistance
 tsutsugamushi disease
 tsutsugamushi fever
@@ -6775,16 +7229,21 @@ tuberculoid leprosy
 tuberculosis cutis
 tuberculous adenitis
 tuberculous ascites
+tuberculous bronchiectasis
 tuberculous bronchopneumonia
 tuberculous cystitis
 tuberculous empyema
+tuberculous encephalitis
 tuberculous epididymitis
 tuberculous lymphadenopathy
+tuberculous meningitis
+tuberculous myelitis
 tuberculous oophoritis
 tuberculous pericarditis
 tuberculous peritonitis
 tuberculous pleurisy
 tuberculous pleuritis
+tuberculous pneumonia
 tuberculous pneumothorax
 tuberculous salpingitis
 tuberose sclerosis
@@ -6812,6 +7271,8 @@ ulcerative blepharitis
 ulcerative colitis
 ulcerative cystitis
 ulcerative esophagitis
+ulcerative ileocolitis
+ulcerative proctitis
 ulcerative proctosigmoiditis
 ulcerative stomatitis
 ulceroglandular tularemia
@@ -6872,10 +7333,12 @@ urethral stricture
 urethral syndrome
 urinary obstruction
 urinary schistosomiasis
+urinary tuberculosis
 urination disorder
 urocanase deficiency
 urocanic aciduria
 urofacial syndrome
+urogenital abnormality
 urogenital trichomonas
 urogenital tuberculosis
 urothelial papilloma
@@ -6928,6 +7391,7 @@ variegate porphyria
 variola major
 variola minor
 vasa praevia
+vasa previa
 vascular cancer
 vascular dementia
 vascular disease
@@ -6953,6 +7417,7 @@ veno.occlusive disease
 venous ectasia
 venous hemangioma
 venous insufficiency
+venous problem
 venous varices
 ventilation pneumonitis
 verma.naumoff syndrome
@@ -6970,6 +7435,7 @@ vesico.ureteral reflux
 vesicoureteral reflux
 vesicular pharyngitis
 vesicular rickettsiosis
+vessel leiomyosarcoma
 vestibular disease
 vestibular neurilemmoma
 vestibular neuritis
@@ -6979,6 +7445,7 @@ vestibular schwannoma
 vexas syndrome
 vibratory urticaria
 vibrio cholerae
+vibrio gastroenteritis
 vici syndrome
 viljoen.smart syndrome
 villonodular synovitis
@@ -6996,6 +7463,7 @@ viral encephalitis
 viral esophagitis
 viral exanthem
 viral gastritis
+viral gastroenteritis
 viral hepatitis
 viral infection
 viral labyrinthitis
@@ -7008,13 +7476,16 @@ virus.genital herpes
 visceral heterotaxy
 visceral leishmaniasis
 visceral myopathy
+vision disorder
 vision impairment
 vision loss
 visna
 visual agnosia
+visual alteration
 visual disorder
 visual epilepsy
 visual impairment
+vitamin deficiency
 vitiliginous choroiditis
 vitreoretinal dystrophies
 vitreoretinal dystrophy
@@ -7047,6 +7518,7 @@ vulvar leiomyoma
 vulvar leiomyosarcoma
 vulvar liposarcoma
 vulvar melanoma
+vulvar metastasis
 vulvar neoplasm
 vulvar sarcoma
 vulvar syringoma
@@ -7070,6 +7542,7 @@ warfarin sensitivity
 warts.hypogammaglobulinemia.infections.myelokathexis syndrome
 warty carcinoma
 wasting disease
+wasting syndrome
 water clefts
 waterhouse.friderichsen syndrome
 watering eye
@@ -7182,7 +7655,9 @@ xxy syndrome
 xxy trisomy
 xylocaine allergy
 y.linked deafness
+yaws hyperkeratosis
 yellow fever
+yersinia enterocolitica
 yersinia enterocolitis
 yersiniosis .ambiguous.
 yersiniosis .disorder.
