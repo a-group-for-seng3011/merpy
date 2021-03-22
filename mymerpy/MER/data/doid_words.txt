@@ -10718,56 +10718,56 @@ infantile.onset multisystem inflammatory disease
 infantile.onset x.linked spinal muscular atrophy
 infarct of liver
 infarction of testis
-infection by anisakis larva
-infection by babesia
-infection by blastomyces dermatitidis
-infection by cladosporium werneckii
-infection by cryptosporidium
-infection by dematiacious fungi
-infection by dictyocaulus .disorder.
-infection by dipetalonema
-infection by dipetalonema perstans
-infection by dirofilaria
-infection by dracunculus medinensis
-infection by echinochasmus
-infection by encephalitozoon
-infection by fasciola
-infection by fasciolopsis buski
-infection by giardia lamblia
-infection by isospora belli and isospora hominis
-infection by legionella pneumophilia
-infection by listeria monocytogenes
-infection by loboa loboi
-infection by metagonimus yokogawai
-infection by microspora
-infection by microsporea
-infection by microsporida
-infection by oesophagostomum
-infection by onchocerca volvulus
-infection by opisthorchis
-infection by opisthorchis viverrini .disorder.
-infection by paragonimus
-infection by pityrosporum furfur
-infection by pneumocystis carinii .disorder.
-infection by rhinosporidium seeberi
-infection by schistosoma bovis
-infection by schistosoma bovis .disorder.
-infection by schistosoma mattheii
-infection by schistosoma mattheii .disorder.
-infection by sparganum
-infection by strongyloides
-infection by strongylus equinus .disorder.
-infection by taenia .disorder.
-infection by taeniarhynchus saginatus
-infection by theileria
-infection by toxascaris
-infection by trichostrongylus
-infection by trichostrongylus species
-infection by trichuris trichura
-infection by trypanosoma equiperdum .disorder.
-infection by visceral leishmaniasis
-infection by wuchereria bancrofti .disorder.
-infection by yersinia enterocolitica .disorder.
+anisakis larva
+babesia
+blastomyces dermatitidis
+cladosporium werneckii
+cryptosporidium
+dematiacious fungi
+dictyocaulus .disorder.
+dipetalonema
+dipetalonema perstans
+dirofilaria
+dracunculus medinensis
+echinochasmus
+encephalitozoon
+fasciola
+fasciolopsis buski
+giardia lamblia
+isospora belli and isospora hominis
+legionella pneumophilia
+listeria monocytogenes
+loboa loboi
+metagonimus yokogawai
+microspora
+microsporea
+microsporida
+oesophagostomum
+onchocerca volvulus
+opisthorchis
+opisthorchis viverrini .disorder.
+paragonimus
+pityrosporum furfur
+pneumocystis carinii .disorder.
+rhinosporidium seeberi
+schistosoma bovis
+schistosoma bovis .disorder.
+schistosoma mattheii
+schistosoma mattheii .disorder.
+sparganum
+strongyloides
+strongylus equinus .disorder.
+taenia .disorder.
+taeniarhynchus saginatus
+theileria
+toxascaris
+trichostrongylus
+trichostrongylus species
+trichuris trichura
+trypanosoma equiperdum .disorder.
+visceral leishmaniasis
+wuchereria bancrofti .disorder.
+yersinia enterocolitica .disorder.
 infection due to aspergillus
 infection due to clostridium botulinum
 infection due to clostridium tetani
@@ -10791,10 +10791,10 @@ infectious bovine rhinotracheitis
 infectious bovine rhinotracheitis .disorder.
 infectious canine hepatitis
 infectious colitis. enteritis and gastroenteritis
-infectious disease by fasciolopsis
-infectious disease by gnathostoma
-infectious disease by setaria
-infectious disease by yersinia enterocolitica
+fasciolopsis
+gnathostoma
+setaria
+yersinia enterocolitica
 infectious disease of the breast and nipple associated with childbirth
 infectious ectromelia
 infectious myositis
