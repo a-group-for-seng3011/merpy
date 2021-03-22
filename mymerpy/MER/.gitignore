@@ -2,3 +2,5 @@
 *~
 data/*.py
 data/*.owl
+data/*.sh
+data/test*
