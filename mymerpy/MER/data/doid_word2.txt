@@ -7676,3 +7676,4 @@ zlotogora.zilberman.tenenbaum syndrome
 zollinger.ellison syndrome
 zunich.kaye syndrome
 zygodactyly 1
+candida auris
