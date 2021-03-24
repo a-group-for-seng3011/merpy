@@ -1,6 +1,9 @@
 2019.ncov
 coronavirus
 cvdpv2
+amoeba
+amoebae
+shewanella
 sars.cov.2
 2.methyl.3.hydroxybutyricacidemia
 3.methylcrotonylglycinuria
@@ -2923,7 +2926,6 @@ mannosidosis
 mansonelliasis
 marasmus
 marburg
-march
 mastitis
 mastocytoma
 mastocytosis
@@ -4516,6 +4518,7 @@ veods
 ves
 vesiculitis
 vibriosis
+vibrio
 vipoma
 vitiligo
 vkcfd
