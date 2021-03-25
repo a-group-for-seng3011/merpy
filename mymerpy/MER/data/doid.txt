@@ -465,18 +465,18 @@ activated pi3k-delta syndrome
 activated protein c resistance
 activation-induced cytidine deaminase deficiency
 active cochlear meniere disease
-active cochlear meniere&apos;s disease
+active cochlear meniere's disease
 active cochleovestibular meniere disease
-active cochleovestibular meniere&apos;s disease
-active meniere&apos;s disease, cochlear
-active meniere&apos;s disease, cochleovestibular
-active meniere&apos;s disease, vestibular
+active cochleovestibular meniere's disease
+active meniere's disease, cochlear
+active meniere's disease, cochleovestibular
+active meniere's disease, vestibular
 active peptic ulcer disease
 active rheumatic fever with myocarditis
 active rickets
 active stage trachoma
 active vestibular meniere disease
-active vestibular meniere&apos;s disease
+active vestibular meniere's disease
 acute acalculous cholecystitis
 acute adenitis
 acute adult t-cell leukemia-lymphoma
@@ -512,7 +512,7 @@ acute bronchitis and bronchiolitis
 acute canaliculitis
 acute canaliculitis, lacrimal
 acute cervicitis
-acute chagas&apos; disease with heart involvement
+acute chagas' disease with heart involvement
 acute chemical fume pulmonary edema
 acute chemical pulmonary edema
 acute chest syndrome
@@ -737,8 +737,8 @@ acute suppurative otitis media with tympanic membrane intact
 acute suppurative otitis media without spontaneous rupture of ear drum
 acute suppurative otitis media without spontaneous rupture of ear drum (disorder)
 acute suppurative thyroiditis
-acute swimmer&apos;s ear
-acute swimmers&apos; ear
+acute swimmer's ear
+acute swimmers' ear
 acute syphilitic meningitis (secondary)
 acute t cell leukaemia
 acute t cell leukemia
@@ -784,7 +784,7 @@ adamantinoid basal cell epithelioma
 adamantinoma
 adamantinoma of long bones
 adamantinous craniopharyngioma
-adamantinous rathke&apos;s pouch tumor
+adamantinous rathke's pouch tumor
 adams oliver syndrome
 adams-oliver syndrome
 adcl
@@ -794,15 +794,15 @@ adcl3
 adcme
 addison disease
 addison disease, chronic adrenal insufficiency
-addison&apos;s anaemia
-addison&apos;s disease
+addison's anaemia
+addison's disease
 adem
 ademoma - breast
 adenine phosphoribosyltransferase deficiency
 adenitis
 adenoacanthoma
 adenocarcinoma
-adenocarcinoma arising in barrett&apos;s mucosa
+adenocarcinoma arising in barrett's mucosa
 adenocarcinoma cervix uteri
 adenocarcinoma in a polyp
 adenocarcinoma in adenomatous polyp
@@ -822,7 +822,7 @@ adenocarcinoma of anal ducts
 adenocarcinoma of anal gland
 adenocarcinoma of anus
 adenocarcinoma of anus within anorectal fistula
-adenocarcinoma of bartholin&apos;s gland
+adenocarcinoma of bartholin's gland
 adenocarcinoma of bladder
 adenocarcinoma of breast
 adenocarcinoma of cardia of stomach
@@ -848,7 +848,7 @@ adenocarcinoma of the adnexa
 adenocarcinoma of the anal canal
 adenocarcinoma of the anus
 adenocarcinoma of the anus within anorectal fistula
-adenocarcinoma of the bartholin&apos;s gland
+adenocarcinoma of the bartholin's gland
 adenocarcinoma of the colon
 adenocarcinoma of the distal 1/3 of the common bile duct
 adenocarcinoma of the endometrium
@@ -1003,9 +1003,9 @@ adhesive otitis media
 adiaphoresis
 adiaspiromycosis
 adie syndrome
-adie&apos;s pupil or syndrome
-adie&apos;s pupil syndrome
-adie&apos;s syndrome
+adie's pupil or syndrome
+adie's pupil syndrome
+adie's syndrome
 adiposis dolorosa
 adiposogenital syndrome
 adjustment disease
@@ -1157,7 +1157,7 @@ adult myxoid chondrosarcoma
 adult nephroblastoma
 adult oligodendroglioma
 adult onset dermatomyositis
-adult onset still&apos;s disease
+adult onset still's disease
 adult papillary meningioma
 adult pineal parenchymal neoplasm
 adult pineal parenchymal tumor
@@ -1171,7 +1171,7 @@ adult primary cholangiocellular carcinoma
 adult primary hepatocellular carcinoma
 adult primary liver cancer
 adult progeria
-adult rathke&apos;s pouch tumor
+adult rathke's pouch tumor
 adult rds
 adult respiratory distress syndrome
 adult rhabdomyosarcoma
@@ -1204,7 +1204,7 @@ adult-onset multiple mtdna deletion syndrome due to dguok deficiency
 adult-onset primary lateral sclerosis
 adult-onset severe asthma
 adult-onset still disease
-adult-onset still&apos;s disease
+adult-onset still's disease
 adult-onset type ii citrullinemia
 advanced adult primary hepatocellular carcinoma
 advanced adult primary hepatoma
@@ -1232,7 +1232,7 @@ african endomyocardial fibrosis
 african histoplasmosis
 african horse sickness
 african iron overload
-african lymphadenopathic kaposi&apos;s sarcoma
+african lymphadenopathic kaposi's sarcoma
 african sleeping sickness
 african swine fever
 african swine fever
@@ -1284,7 +1284,7 @@ agoraphobia
 agps deficiency
 agranulocytosis
 agraphia
-agricultural workers&apos; disease
+agricultural workers' disease
 ahc
 ahds
 ahl
@@ -1316,25 +1316,25 @@ aids related carcinoma of the uterine cervix
 aids related complex
 aids retinopathy
 aids wasting syndrome
-aids with kaposi&apos;s sarcoma (disorder)
+aids with kaposi's sarcoma (disorder)
 aids-associated nephropathy
 aids-like syndrome
 aids-related anal cancer
 aids-related cervical cancer
-aids-related cervical kaposi&apos;s sarcoma
+aids-related cervical kaposi's sarcoma
 aids-related cryptococcosis
 aids-related cryptosporidiosis
 aids-related cystoisosporiasis
 aids-related cytomegalovirus enterocolitis
 aids-related enterocolitis
-aids-related gastric kaposi&apos;s sarcoma
+aids-related gastric kaposi's sarcoma
 aids-related herpes zoster
 aids-related human papillomavirus infectious disease
 aids-related idiopathic thrombocytopenic purpura
 aids-related isosporiasis
-aids-related kaposi&apos;s sarcoma
-aids-related kaposi&apos;s sarcoma of cervix
-aids-related kaposi&apos;s sarcoma of stomach
+aids-related kaposi's sarcoma
+aids-related kaposi's sarcoma of cervix
+aids-related kaposi's sarcoma of stomach
 aids-related nephropathy
 aids-related oropharyngeal candidiasis
 aids-related pelvic inflammatory disease
@@ -1371,8 +1371,8 @@ albinism-deafness of tietz
 albright hereditary osteodystrophy
 albright hereditary osteodystrophy type 3
 albright hereditary osteodystrophy-like syndrome
-albright&apos;s hereditary osteodystrophy
-albright&apos;s hereditary osteodystrophy-like syndrome
+albright's hereditary osteodystrophy
+albright's hereditary osteodystrophy-like syndrome
 alcapa
 alcaptonuria
 alcohol abuse
@@ -1417,7 +1417,7 @@ aleukocytosis
 aleutian disease
 aleutian mink disease
 alexander disease
-alexander&apos;s disease
+alexander's disease
 alexia
 alexithymia
 alfi syndrome
@@ -1496,12 +1496,12 @@ alopecia universalis congenita
 alopecia-mental retardation syndrome
 alopecia-mental retardation syndrome 1
 alopecia-mental retardation syndrome 2
-alper&apos;s syndrome
+alper's syndrome
 alpers disease
 alpers progressive infantile poliodystrophy
 alpers syndrome
 alpers syndrome
-alpers&apos; disease or gray-matter degeneration
+alpers' disease or gray-matter degeneration
 alpers-huttenlocher syndrome
 alpha 1-antitrypsin deficiency
 alpha chain disease
@@ -1634,38 +1634,38 @@ alzheimer disease, familial 7
 alzheimer disease, familial 8
 alzheimer disease, familial4
 alzheimer disease-2
-alzheimer&apos;s disease
-alzheimer&apos;s disease 1
-alzheimer&apos;s disease 1, early onset
-alzheimer&apos;s disease 10
-alzheimer&apos;s disease 10, early onset
-alzheimer&apos;s disease 11
-alzheimer&apos;s disease 11, late onset
-alzheimer&apos;s disease 12
-alzheimer&apos;s disease 13
-alzheimer&apos;s disease 13, late onset
-alzheimer&apos;s disease 14
-alzheimer&apos;s disease 14, late onset
-alzheimer&apos;s disease 15
-alzheimer&apos;s disease 15, late onset
-alzheimer&apos;s disease 16
-alzheimer&apos;s disease 16, late onset
-alzheimer&apos;s disease 17
-alzheimer&apos;s disease 18
-alzheimer&apos;s disease 18, late onset
-alzheimer&apos;s disease 19
-alzheimer&apos;s disease 2
-alzheimer&apos;s disease 3
-alzheimer&apos;s disease 4
-alzheimer&apos;s disease 4, early onset
-alzheimer&apos;s disease 5
-alzheimer&apos;s disease 5, late onset
-alzheimer&apos;s disease 6
-alzheimer&apos;s disease 7
-alzheimer&apos;s disease 8
-alzheimer&apos;s disease 8, late onset
-alzheimer&apos;s disease 9
-alzheimer&apos;s disease 9, late onset
+alzheimer's disease
+alzheimer's disease 1
+alzheimer's disease 1, early onset
+alzheimer's disease 10
+alzheimer's disease 10, early onset
+alzheimer's disease 11
+alzheimer's disease 11, late onset
+alzheimer's disease 12
+alzheimer's disease 13
+alzheimer's disease 13, late onset
+alzheimer's disease 14
+alzheimer's disease 14, late onset
+alzheimer's disease 15
+alzheimer's disease 15, late onset
+alzheimer's disease 16
+alzheimer's disease 16, late onset
+alzheimer's disease 17
+alzheimer's disease 18
+alzheimer's disease 18, late onset
+alzheimer's disease 19
+alzheimer's disease 2
+alzheimer's disease 3
+alzheimer's disease 4
+alzheimer's disease 4, early onset
+alzheimer's disease 5
+alzheimer's disease 5, late onset
+alzheimer's disease 6
+alzheimer's disease 7
+alzheimer's disease 8
+alzheimer's disease 8, late onset
+alzheimer's disease 9
+alzheimer's disease 9, late onset
 alzheimers dementia
 amacr deficiency
 amaurosis congenita of leber i
@@ -1872,7 +1872,7 @@ anal canal and perianal gland carcinoma
 anal canal cancer
 anal canal carcinoma
 anal canal paget disease
-anal canal paget&apos;s disease
+anal canal paget's disease
 anal canal squamous cell carcinoma
 anal cancer
 anal carcinoma
@@ -1889,7 +1889,7 @@ anal gland adenocarcinoma
 anal gland neoplasm
 anal glands adenocarcinoma
 anal intraepithelial neoplasia grade iii
-anal kaposi&apos;s sarcoma
+anal kaposi's sarcoma
 anal margin basal cell carcinoma
 anal margin carcinoma
 anal margin squamous cell carcinoma
@@ -1898,7 +1898,7 @@ anal neoplasm
 anal neuroendocrine tumor
 anal neuroendocrine tumour
 anal paget disease
-anal paget&apos;s disease
+anal paget's disease
 anal spasm
 anal squamous cell carcinoma
 anal tumors
@@ -1935,9 +1935,9 @@ anaplastic oligoastrocytoma (morphologic abnormality)
 anaplastic oligodendroglioma
 anaplastic oligodendroglioma, idh-mutant and 1p/19q-codeleted
 anaplastic pleomorphic xanthoastrocytoma
-anaplastic renal wilm&apos;s tumor
+anaplastic renal wilm's tumor
 anaplastic renal wilms tumor
-anaplastic renal wilms&apos; tumor
+anaplastic renal wilms' tumor
 anaplastic rhabdomyosarcoma
 anaplastic secondary supratentorial astrocytic neoplasm
 anaplastic seminoma
@@ -2000,7 +2000,7 @@ aneurysmal lesion of coronary artery
 aneurysms-osteoarthritis syndrome
 angelman syndrome
 angelucci syndrome
-angelucci&apos;s syndrome
+angelucci's syndrome
 angiitis
 angina - vincents
 angina at rest
@@ -2111,7 +2111,7 @@ anogenital warts
 anomalous a-v excitation
 anomalous atrioventricular excitation
 anomalous left coronary artery from the pulmonary artery
-anomaly, rieger&apos;s
+anomaly, rieger's
 anomia
 anomic aphasia
 anonychia congenita
@@ -2346,7 +2346,7 @@ arbovirus hemorrhagic fever
 arc syndrome
 arca1
 arcc1
-archer&apos;s elbow
+archer's elbow
 arci
 arci1
 arci10
@@ -2495,14 +2495,14 @@ arthropathy associated with hematological disorder
 arthropathy associated with hypersensitivity reaction
 arthropathy associated with neurological disorder
 arthropathy due to hypersensitivity reaction
-arthropathy in behcet&apos;s syndrome involving ankle and foot
-arthropathy in behcet&apos;s syndrome involving forearm
-arthropathy in behcet&apos;s syndrome involving hand
-arthropathy in behcet&apos;s syndrome involving lower leg
-arthropathy in behcet&apos;s syndrome involving multiple sites
-arthropathy in behcet&apos;s syndrome involving pelvic region and thigh
-arthropathy in behcet&apos;s syndrome involving shoulder region
-arthropathy in behcet&apos;s syndrome involving upper arm
+arthropathy in behcet's syndrome involving ankle and foot
+arthropathy in behcet's syndrome involving forearm
+arthropathy in behcet's syndrome involving hand
+arthropathy in behcet's syndrome involving lower leg
+arthropathy in behcet's syndrome involving multiple sites
+arthropathy in behcet's syndrome involving pelvic region and thigh
+arthropathy in behcet's syndrome involving shoulder region
+arthropathy in behcet's syndrome involving upper arm
 arthropathy nos, of the hand (disorder)
 arthropathy of the hand
 arthropathy-camptodactyly syndrome
@@ -2583,8 +2583,8 @@ asfarviridae infectious disease
 asian desert cutaneous leishmaniasis
 askin tumor
 askin tumour
-askin&apos;s tumor
-askin&apos;s tumour
+askin's tumor
+askin's tumour
 asm
 asocial personality
 aspartylglucosaminidase deficiency
@@ -2664,7 +2664,7 @@ atherosclerosis
 atherosclerosis of aorta
 atherosclerosis of renal artery
 athetoid dyskinetic cerebral palsy
-athlete&apos;s foot
+athlete's foot
 atlantic cod allergy
 atlantic salmon allergy
 atll
@@ -2785,7 +2785,7 @@ atypical depressive disorder
 atypical familial juvenile hyperuricemic nephropathy
 atypical fjhn
 atypical follicular adenoma
-atypical gaucher&apos;s disease due to saposin c deficiency
+atypical gaucher's disease due to saposin c deficiency
 atypical hemolytic-uremic syndrome
 atypical hereditary sensory neuropathy
 atypical interstitial pneumonia of cattle (disorder)
@@ -2814,7 +2814,7 @@ auditory dysfunction (disorder)
 auditory system benign neoplasm
 auditory system cancer
 auditory system disease
-aujeszky&apos;s disease
+aujeszky's disease
 auna1
 aunx1
 auricular cancer
@@ -3279,10 +3279,10 @@ autosomal dominant parkinson disease 17
 autosomal dominant parkinson disease 3
 autosomal dominant parkinson disease 4
 autosomal dominant parkinson disease 8
-autosomal dominant parkinson&apos;s disease 1
-autosomal dominant parkinson&apos;s disease 22
-autosomal dominant parkinson&apos;s disease 4
-autosomal dominant parkinson&apos;s disease 8
+autosomal dominant parkinson's disease 1
+autosomal dominant parkinson's disease 22
+autosomal dominant parkinson's disease 4
+autosomal dominant parkinson's disease 8
 autosomal dominant pha 1
 autosomal dominant pituitary dwarfism due to isolated growth hormone deficiency
 autosomal dominant polycystic kidney
@@ -3568,10 +3568,10 @@ autosomal recessive early-onset parkinson disease 15
 autosomal recessive early-onset parkinson disease 23
 autosomal recessive early-onset parkinson disease 6
 autosomal recessive early-onset parkinson disease 7
-autosomal recessive early-onset parkinson&apos;s disease 15
-autosomal recessive early-onset parkinson&apos;s disease 23
-autosomal recessive early-onset parkinson&apos;s disease 6
-autosomal recessive early-onset parkinson&apos;s disease 7
+autosomal recessive early-onset parkinson's disease 15
+autosomal recessive early-onset parkinson's disease 23
+autosomal recessive early-onset parkinson's disease 6
+autosomal recessive early-onset parkinson's disease 7
 autosomal recessive emery-dreifuss muscular dystrophy 3
 autosomal recessive hyaline body myopathy
 autosomal recessive hyper-ige syndrome with atypical mycobacteriosis
@@ -3595,7 +3595,7 @@ autosomal recessive isolated ectopia lentis 2
 autosomal recessive isolated growth hormone deficiency
 autosomal recessive juvenile onset parkinson disease 9
 autosomal recessive juvenile parkinson disease 2
-autosomal recessive juvenile parkinson&apos;s disease 2
+autosomal recessive juvenile parkinson's disease 2
 autosomal recessive lethal chondrodystrophy with congenital hydrops
 autosomal recessive limb-girdle muscular dystrophy
 autosomal recessive limb-girdle muscular dystrophy due to ispd deficiency
@@ -3758,7 +3758,7 @@ autosomal recessive palmoplantar hyperkeratosis and congenital alopecia
 autosomal recessive palmoplantar keratoderma and congenital alopecia
 autosomal recessive parkinson disease 14
 autosomal recessive parkinson disease 9
-autosomal recessive parkinson&apos;s disease 14
+autosomal recessive parkinson's disease 14
 autosomal recessive pericentral pigmentary retinopathy
 autosomal recessive pha 1
 autosomal recessive polycystic kidney
@@ -3989,7 +3989,7 @@ b-lymphoblastic leukemia/lymphoma, bcr-abl1–like
 b2m deficiency
 b7 deficiency
 baastrup syndrome
-baastrup&apos;s syndrome
+baastrup's syndrome
 babesiasis
 babesiosis
 babinski-froelich syndrome
@@ -4035,8 +4035,8 @@ bagassosis
 baillarger syndrome
 bainbridge-ropers syndrome
 bairnsdale ulcer
-baker&apos;s cyst
-baker&apos;s disease
+baker's cyst
+baker's disease
 bakrania-ragge syndrome
 bakwin-krida syndrome
 balamuthia mandrillaris infectious disease
@@ -4056,7 +4056,7 @@ balloon cell nevus
 balloon cell nevus (morphologic abnormality)
 balo concentric sclerosis
 balo disease
-balo&apos;s concentric sclerosis
+balo's concentric sclerosis
 bamberger-marie disease
 bamble disease
 bamforth-lazarus syndrome
@@ -4070,13 +4070,13 @@ band-like calcification with simplified gyration and polymicrogyria
 band-shaped and whorled microcystic
 band-shaped keratopathy
 banf
-bang&apos;s disease
+bang's disease
 bangungut
 banna virus encephalitis
 bannayan-riley-ruvalcaba syndrome
 bannayan-zonana syndrome
 bannwarth syndrome
-bannworth&apos;s syndrome
+bannworth's syndrome
 bantu siderosis
 baraitser syndrome
 baraitser-brett-piesowicz syndrome
@@ -4110,16 +4110,16 @@ bardet-biedl syndrome 9
 bare lymphocyte syndrome type i
 bare lymphocyte syndrome type ii
 baritosis
-barlow&apos;s syndrome
+barlow's syndrome
 barmah forest virus disease
 barre-lieou syndrome
 barrett adenocarcinoma
 barrett esophagus
-barrett&apos;s adenocarcinoma
-barrett&apos;s esophagus
-barrett&apos;s esophagus with esophagitis
-barrett&apos;s oesophagus
-barrett&apos;s ulcer of esophagus
+barrett's adenocarcinoma
+barrett's esophagus
+barrett's esophagus with esophagitis
+barrett's oesophagus
+barrett's ulcer of esophagus
 barretts syndrome
 bart-pumphrey syndrome
 barth syndrome
@@ -4133,21 +4133,21 @@ bartholin gland carcinoma
 bartholin gland neoplasm
 bartholin gland squamous cell carcinoma
 bartholin gland transitional cell carcinoma
-bartholin&apos;s cyst
-bartholin&apos;s duct cyst
-bartholin&apos;s gland adenocarcinoma
-bartholin&apos;s gland adenoid cystic carcinoma
-bartholin&apos;s gland adenoma
-bartholin&apos;s gland adenomyoma
-bartholin&apos;s gland adenosquamous carcinoma
-bartholin&apos;s gland benign neoplasm
-bartholin&apos;s gland cancer
-bartholin&apos;s gland cancer
-bartholin&apos;s gland carcinoma
-bartholin&apos;s gland disease
-bartholin&apos;s gland small cell carcinoma
-bartholin&apos;s gland squamous cell carcinoma
-bartholin&apos;s gland transitional cell carcinoma
+bartholin's cyst
+bartholin's duct cyst
+bartholin's gland adenocarcinoma
+bartholin's gland adenoid cystic carcinoma
+bartholin's gland adenoma
+bartholin's gland adenomyoma
+bartholin's gland adenosquamous carcinoma
+bartholin's gland benign neoplasm
+bartholin's gland cancer
+bartholin's gland cancer
+bartholin's gland carcinoma
+bartholin's gland disease
+bartholin's gland small cell carcinoma
+bartholin's gland squamous cell carcinoma
+bartholin's gland transitional cell carcinoma
 bartonella infectious disease
 bartonelliasis
 bartonellosis
@@ -4172,7 +4172,7 @@ bartter syndrome type 3
 bartter syndrome type 4a
 bartter syndrome, type 4b, digenic
 bartter syndrome, type 5, antenatal, transient
-bartter&apos;s syndrome
+bartter's syndrome
 basal cell cancer
 basal cell carcinoma
 basal cell carcinoma - adamantinoid
@@ -4208,7 +4208,7 @@ basaloid squamous cell carcinoma of head and neck
 basaloid squamous cell carcinoma of the head and neck
 basaloid squamous cell skin carcinoma
 basan syndrome
-basedow&apos;s disease
+basedow's disease
 basidiobolomycosis
 basilar artery insufficiency
 basilar artery occlusion
@@ -4286,25 +4286,25 @@ beals-hecht syndrome
 beare-stevenson cutis gyrata syndrome
 beaver feaver
 becker muscular dystrophy
-becker&apos;s disease
+becker's disease
 beckwith-wiedemann syndrome
 bedsore
 beef tapeworm infection
 beemer-langer syndrome
 behcet syndrome
 behcet syndrome arthropathy
-behcet&apos;s disease
-behcet&apos;s syndrome
-behcet&apos;s syndrome arthropathy
-behet&apos;s syndrome
+behcet's disease
+behcet's syndrome
+behcet's syndrome arthropathy
+behet's syndrome
 behr syndrome
 behrs
 bejel
 bekhterev syndrome
-bekhterev&apos;s disease
+bekhterev's disease
 bell palsy
-bell&apos;s (facial) palsy
-bell&apos;s palsy
+bell's (facial) palsy
+bell's palsy
 benign adenoma of prostate
 benign adenomyoepithelioma of the breast
 benign adult familial myoclonic epilepsy
@@ -4435,7 +4435,7 @@ berardinelli-seip congenital lipodystrophy type 4 with muscular dystrophy
 berardinelli-seip congenital lipodystrophy, type 1
 berardinelli-seip syndrome
 berdon syndrome
-berger&apos;s iga or igg nephropathy
+berger's iga or igg nephropathy
 beriberi
 berlin breakage syndrome
 bernard - soulier thrombopathy
@@ -4445,7 +4445,7 @@ bernard-soulier syndrome
 bernard-soulier syndrome type a2
 berylliosis
 beryllium poisoning
-besnier&apos;s prurigo
+besnier's prurigo
 best disease
 best macular dystrophy
 bestiality
@@ -4483,10 +4483,10 @@ bhmed
 bicipital tenosynovitis
 bicuspid aortic valve disease
 bids syndrome
-biermer&apos;s anaemia
-biermer&apos;s anemia
+biermer's anaemia
+biermer's anemia
 bietti crystalline corneoretinal dystrophy
-bietti&apos;s crystalline dystrophy
+bietti's crystalline dystrophy
 bilateral acoustic neurinoma
 bilateral acoustic neurofibromatosis
 bilateral acoustic schwannomas
@@ -4561,12 +4561,12 @@ bipolar disorder
 bipolar disorder manic phase
 bipolar i disorder
 bipolar ll disorder
-bird breeder&apos;s lung
+bird breeder's lung
 bird fancier lung
-bird fancier&apos;s lung
+bird fancier's lung
 bird flu
-bird-fancier&apos;s lung
-bird-fanciers&apos; lung
+bird-fancier's lung
+bird-fanciers' lung
 bird-headed dwarfism
 birdshot chorioretinitis
 birdshot chorioretinopathy
@@ -4640,8 +4640,8 @@ bladder urothelial papillary carcinoma
 bladder verrucous squamous cell carcinoma
 bland-white-garland syndrome
 blastema predominant kidney adenosarcoma
-blastema predominant kidney wilms&apos; tumor
-blastema predominant kidney wilms&apos; tumour
+blastema predominant kidney wilms' tumor
+blastema predominant kidney wilms' tumour
 blastema predominant renal wilms tumor
 blastema predominant renal wilms tumour
 blastocystis hominis infectious disease
@@ -4677,7 +4677,7 @@ blepharophimosis-intellectual disability syndrome, sbbys type
 blepharoptosis
 blepharospasm
 blessig cysts
-blessig&apos;s cysts
+blessig's cysts
 blind hypertensive eye
 blind hypotensive eye
 blind loop syndrome
@@ -4706,7 +4706,7 @@ blood vessel tumour disorder
 bloom syndrome
 bloom-torre-machacek syndrome
 blount disease
-blount&apos;s disease
+blount's disease
 bls, type i
 blsi
 blsii
@@ -4758,7 +4758,7 @@ bone disease
 bone dysplasia-medullary fibrosarcoma syndrome
 bone epithelioid hemangioma
 bone ewing sarcoma
-bone ewing&apos;s sarcoma
+bone ewing's sarcoma
 bone giant cell sarcoma
 bone giant cell tumor
 bone giant cell tumour
@@ -4768,7 +4768,7 @@ bone inflammation disease
 bone inflammatory disease
 bone leiomyosarcoma
 bone localized ewing sarcoma
-bone localized ewing&apos;s sarcoma
+bone localized ewing's sarcoma
 bone lymphoma
 bone marrow cancer
 bone marrow disease
@@ -4777,13 +4777,13 @@ bone marrow fibrosis
 bone marrow neoplasm
 bone marrow tansplantation nephropathy
 bone marrow tumor
-bone metastatic ewing&apos;s sarcoma
+bone metastatic ewing's sarcoma
 bone modeling defect of hands and feet
 bone necrosis
 bone neoplasm
 bone osteosarcoma
 bone peripheral neuroepithelioma
-bone recurrent ewing&apos;s sarcoma
+bone recurrent ewing's sarcoma
 bone recurrent pnet
 bone remodeling disease
 bone resorption disease
@@ -4838,7 +4838,7 @@ botulism
 botulism poisoning
 bouba
 boucher-neuhauser syndrome
-bourneville&apos;s disease
+bourneville's disease
 boutonneuse disease
 boutonneuse fever
 bovine anaplasmosis
@@ -4853,12 +4853,12 @@ bovine tuberculosis (disorder)
 bovine virus diarrhea-mucosal disease
 bowel dysfunction
 bowen hutterite syndrome
-bowen&apos;s disease of penis
-bowen&apos;s disease, clonal
+bowen's disease of penis
+bowen's disease, clonal
 bowen-conradi hutterite syndrome
 bowen-conradi syndrome
 bowman membrane folds or rupture
-bowman&apos;s membrane folds or rupture
+bowman's membrane folds or rupture
 boyadjiev-jabs syndrome
 bpan
 bpgm deficiency
@@ -5070,9 +5070,9 @@ bric2
 brida
 bridges-good syndrome
 brill zinsser disease
-brill&apos;s disease
+brill's disease
 brill-zinsser disease
-briquet&apos;s disorder
+briquet's disorder
 brittle bone disease
 brittle cornea syndrome 1
 brittle cornea syndrome 2
@@ -5126,9 +5126,9 @@ brown induration
 brown lung
 brown shrimp allergy
 brown tendon sheath syndrome
-brown&apos;s (tendon) sheath syndrome
-brown&apos;s sheath syndrome
-brown&apos;s tendon sheath syndrome
+brown's (tendon) sheath syndrome
+brown's sheath syndrome
+brown's tendon sheath syndrome
 brown-sequard syndrome
 brown-squard syndrome
 brown-vialetto-van laere syndrome
@@ -5158,9 +5158,9 @@ brunner syndrome
 brunzell syndrome agpat2-related
 brunzell syndrome bscl2-related
 bruton agammaglobulinemia tyrosine kinase deficiency
-bruton&apos;s agammaglobulinaemia
-bruton&apos;s sex-linked agammaglobulinemia
-bruton&apos;s type agammaglobulinemia
+bruton's agammaglobulinaemia
+bruton's sex-linked agammaglobulinemia
+bruton's type agammaglobulinemia
 bruton-type agammaglobulinemia
 bruxism
 bruxism - teeth grinding
@@ -5177,7 +5177,7 @@ btp1 syndrome
 btps1
 bubonic plague
 budd-chiari syndrome
-buerger&apos;s disease
+buerger's disease
 bulbar polio
 bulbar poliomyelitis
 bulbomembranous urethral cancer
@@ -5200,28 +5200,28 @@ burkholderia cepacia complex infectious disease
 burkholderia cepacia infectious disease
 burkitt lymphoma
 burkitt lymphoma/leukaemia
-burkitt&apos;s lymphoma
-burkitt&apos;s lymphoma of intra-abdominal lymph nodes (disorder)
-burkitt&apos;s lymphoma of intrapelvic lymph nodes (disorder)
-burkitt&apos;s lymphoma of intrathoracic lymph nodes (disorder)
-burkitt&apos;s lymphoma of lymph nodes of axilla and upper limb (disorder)
-burkitt&apos;s lymphoma of lymph nodes of head, face and neck (disorder)
-burkitt&apos;s lymphoma of lymph nodes of inguinal region and lower limb (disorder)
-burkitt&apos;s lymphoma of lymph nodes of multiple sites (disorder)
-burkitt&apos;s lymphoma of spleen (disorder)
-burkitt&apos;s tumor
-burkitt&apos;s tumor of spleen (disorder)
-burkitt&apos;s tumor or lymphoma
-burkitt&apos;s tumor or lymphoma extranodal and solid organ sites
-burkitt&apos;s tumor or lymphoma involving intra-abdominal lymph nodes
-burkitt&apos;s tumor or lymphoma involving intrapelvic lymph nodes
-burkitt&apos;s tumor or lymphoma involving intrathoracic lymph nodes
-burkitt&apos;s tumor or lymphoma involving lymph nodes of axilla and upper limb
-burkitt&apos;s tumor or lymphoma involving lymph nodes of head, face and neck
-burkitt&apos;s tumor or lymphoma involving lymph nodes of head, face, and neck
-burkitt&apos;s tumor or lymphoma involving lymph nodes of inguinal region and lower limb
-burkitt&apos;s tumor or lymphoma involving lymph nodes of multiple sites
-burkitt&apos;s tumor or lymphoma involving spleen
+burkitt's lymphoma
+burkitt's lymphoma of intra-abdominal lymph nodes (disorder)
+burkitt's lymphoma of intrapelvic lymph nodes (disorder)
+burkitt's lymphoma of intrathoracic lymph nodes (disorder)
+burkitt's lymphoma of lymph nodes of axilla and upper limb (disorder)
+burkitt's lymphoma of lymph nodes of head, face and neck (disorder)
+burkitt's lymphoma of lymph nodes of inguinal region and lower limb (disorder)
+burkitt's lymphoma of lymph nodes of multiple sites (disorder)
+burkitt's lymphoma of spleen (disorder)
+burkitt's tumor
+burkitt's tumor of spleen (disorder)
+burkitt's tumor or lymphoma
+burkitt's tumor or lymphoma extranodal and solid organ sites
+burkitt's tumor or lymphoma involving intra-abdominal lymph nodes
+burkitt's tumor or lymphoma involving intrapelvic lymph nodes
+burkitt's tumor or lymphoma involving intrathoracic lymph nodes
+burkitt's tumor or lymphoma involving lymph nodes of axilla and upper limb
+burkitt's tumor or lymphoma involving lymph nodes of head, face and neck
+burkitt's tumor or lymphoma involving lymph nodes of head, face, and neck
+burkitt's tumor or lymphoma involving lymph nodes of inguinal region and lower limb
+burkitt's tumor or lymphoma involving lymph nodes of multiple sites
+burkitt's tumor or lymphoma involving spleen
 burn-mckeown syndrome
 burning mouth syndrome
 bursa syphilis
@@ -5231,9 +5231,9 @@ bursitis of elbow region
 burton skeletal dysplasia
 burton syndrome
 buruli ulcer disease
-buschke&apos;s scleredema
+buschke's scleredema
 buschke-ollendorff syndrome
-busse-buschke&apos;s disease
+busse-buschke's disease
 butterfly-shaped pigmentary maculary dystrophy 1
 butterfly-shaped pigmentary maculary dystrophy 2
 bwcns
@@ -5330,7 +5330,7 @@ california virus encephalitis
 calja
 callous ulcer
 calvarial doughnut lesions with bone fragility
-calve - perthes&apos; disease
+calve - perthes' disease
 camoquin allergy
 campomelic dysplasia
 camptodactyly-arthropathy-coxa vara-pericarditis syndrome
@@ -5423,8 +5423,8 @@ capillary leak syndrome
 capillary lymphangioma
 capillary pneumonia
 caplan syndrome
-caplan&apos;s disease
-caplan&apos;s syndrome
+caplan's disease
+caplan's syndrome
 caplans syndrome
 capnocytophaga canimorsus endocarditis
 capnocytophaga canimorsus infectious disease
@@ -5520,7 +5520,7 @@ carcinoma of ampulla of vater
 carcinoma of anal margin
 carcinoma of anus
 carcinoma of appendix
-carcinoma of bartholin&apos;s gland
+carcinoma of bartholin's gland
 carcinoma of body of stomach
 carcinoma of breast
 carcinoma of cardia of stomach
@@ -5602,7 +5602,7 @@ cardiac arrest
 cardiac failure congestive
 cardiac fibrosarcoma
 cardiac granular cell neoplasm
-cardiac kaposi&apos;s sarcoma
+cardiac kaposi's sarcoma
 cardiac malformation, cleft lip/palate, microcephaly, and digital anomalies
 cardiac sarcoidosis
 cardiac sarcoma
@@ -5688,7 +5688,7 @@ carpal tunnel median neuropathy
 carpal tunnel syndrome
 carpenter syndrome
 carrion disease
-carrion&apos;s disease
+carrion's disease
 cartilage cancer
 cartilage development disorder
 cartilage disease
@@ -6074,7 +6074,7 @@ central nervous system hemangiopericytoma
 central nervous system hematologic cancer
 central nervous system hereditary degenerative disease
 central nervous system immature teratoma
-central nervous system kaposi&apos;s sarcoma
+central nervous system kaposi's sarcoma
 central nervous system leiomyoma
 central nervous system leiomyosarcoma
 central nervous system leukemia
@@ -6306,7 +6306,7 @@ cervical sympathetic paralysis
 cervical verrucous carcinoma
 cervical warty squamous cell carcinoma
 cervical wilms tumor
-cervical wilms&apos; tumor
+cervical wilms' tumor
 cervicitis
 cervicocranial syndrome
 cervicofacial actinomycosis
@@ -6350,26 +6350,26 @@ cgd2
 cgl2
 chagas cardiomyopathy
 chagas disease
-chagas&apos; cardiomyopathy
-chagas&apos; disease
-chagas&apos; disease cardiomyopathy
-chagas&apos; disease with digestive system involvement
-chagas&apos; disease with heart involvement
-chagas&apos; disease with heart involvement (disorder)
-chagas&apos; disease with nervous system involvement
-chagas&apos; disease with other organ involvement
+chagas' cardiomyopathy
+chagas' disease
+chagas' disease cardiomyopathy
+chagas' disease with digestive system involvement
+chagas' disease with heart involvement
+chagas' disease with heart involvement (disorder)
+chagas' disease with nervous system involvement
+chagas' disease with other organ involvement
 chalazion
 chanarin-dorfman syndrome
 chancre of yaws
 chancroid
 chandler syndrome
-chandler&apos;s syndrome
+chandler's syndrome
 chapare hemorrhagic fever
 char syndrome
 character disorder
-charcot&apos;s arthropathy
-charcot&apos;s joint
-charcot&apos;s syndrome
+charcot's arthropathy
+charcot's joint
+charcot's syndrome
 charcot-marie-tooth disease
 charcot-marie-tooth disease and deafness
 charcot-marie-tooth disease axonal type 2c
@@ -6987,7 +6987,7 @@ chronic brain syndrome (disorder)
 chronic bronchitis
 chronic canaliculitis
 chronic cervicitis
-chronic chagas&apos; disease with heart involvement
+chronic chagas' disease with heart involvement
 chronic cholangitis
 chronic cholecystitis
 chronic closed-angle glaucoma
@@ -7288,7 +7288,7 @@ classic congenital mesoblastic nephroma
 classic dengue
 classic galactosemia
 classic hemophilia a
-classic kaposi&apos;s sarcoma
+classic kaposi's sarcoma
 classic migraine
 classic mmd
 classic multiminicore disease
@@ -7393,8 +7393,8 @@ clostridium difficile intestinal infectious disease
 clostridium perfringens food poisoning
 clostridium perfringens gastroenteritis
 clouston syndrome
-clouston&apos;s hidrotic ectodermal dysplasia
-clouston&apos;s syndrome
+clouston's hidrotic ectodermal dysplasia
+clouston's syndrome
 cloves syndrome
 clped1
 clubfoot
@@ -7607,12 +7607,12 @@ coach syndrome
 coagulation factor deficiency
 coagulation protein disease
 coagulation protein disease
-coal miner&apos;s pneumoconiosis
-coal workers&apos; lung
-coal workers&apos; pneumoconiosis
+coal miner's pneumoconiosis
+coal workers' lung
+coal workers' pneumoconiosis
 coats disease
-coats&apos; disease
-coats&apos; syndrome
+coats' disease
+coats' syndrome
 cob1
 cobalamin c deficiency
 cobalamin d deficiency
@@ -7631,13 +7631,13 @@ coccidioidal meningitis
 coccidioidomycosis
 coccidiosis
 coccygeal hypermobility syndrome
-cochlear active mnire&apos;s disease
+cochlear active mnire's disease
 cochlear disease
-cochleovestibular active mnire&apos;s disease
+cochleovestibular active mnire's disease
 cockade nevus
 cockade nevus (disorder)
 cockayne syndrome
-cockayne&apos;s syndrome
+cockayne's syndrome
 cocoon syndrome
 cod1
 cod2
@@ -7671,7 +7671,7 @@ cog7-cdg
 cog8-cdg
 cogan corneal dystrophy
 cogan syndrome
-cogan&apos;s syndrome
+cogan's syndrome
 cogan-reese syndrome
 cognitive disease
 cognitive disorder
@@ -7749,7 +7749,7 @@ colonic epidermoid carcinoma
 colonic ganglioneuroma
 colonic hamartomatous polyp
 colonic inflammatory polyp
-colonic kaposi&apos;s sarcoma
+colonic kaposi's sarcoma
 colonic l-cell glucagon-like peptide producing tumor
 colonic leiomyoma
 colonic leiomyosarcoma
@@ -8611,7 +8611,7 @@ conjunctival disease
 conjunctival epidermoid carcinoma
 conjunctival folliculosis
 conjunctival intraepithelial neoplasm
-conjunctival kaposi&apos;s sarcoma
+conjunctival kaposi's sarcoma
 conjunctival melanoma
 conjunctival nevus
 conjunctival pigmentation
@@ -8628,7 +8628,7 @@ conjunctivitis due to acquired toxoplasmosis (disorder)
 conjunctivitis due to toxoplasmosis
 conjunctivochalasis
 conn syndrome
-conn&apos;s syndrome
+conn's syndrome
 connective and soft tissue disease
 connective and soft tissue disorder
 connective and soft tissue neoplasm
@@ -8638,7 +8638,7 @@ connective tissue disease
 connective tissue disease overlap syndrome
 connective tissue disorder
 connective tissue neoplasm
-conor and bruch&apos;s disease
+conor and bruch's disease
 conradi-hunermann syndrome
 constant exophthalmos
 constipation
@@ -8697,7 +8697,7 @@ conversion hysteria or reaction
 conversion hysterical neurosis
 convulsions in newborn
 convulsions in the newborn (disorder)
-cooley&apos;s anemia
+cooley's anemia
 copan
 copd
 copper deficiency myelopathy
@@ -8741,10 +8741,10 @@ cordx2
 cordx3
 core binding factor acute myeloid leukemia
 coredialysis
-corino de andrade&apos;s disease
-cork-handlers&apos; disease
-cork-handlers&apos; disease or lung
-cork-handlers&apos; lung
+corino de andrade's disease
+cork-handlers' disease
+cork-handlers' disease or lung
+cork-handlers' lung
 cornea cancer
 cornea plana
 cornea squamous cell carcinoma
@@ -8773,7 +8773,7 @@ corneal endothelial dystrophy 1, autosomal dominant
 corneal endothelial dystrophy and perceptive deafness
 corneal epidermoid carcinoma
 corneal intraepithelial neoplasm
-corneal kaposi&apos;s sarcoma
+corneal kaposi's sarcoma
 corneal neovascularization
 corneal oedema
 corneal opacification and other ocular anomalies
@@ -8817,7 +8817,7 @@ corpus callosum oligodendroglioma
 corpus callosum, agenesis of, with mental retardation, ocular coloboma and micrognathia
 corpus luteum cyst
 corpus uteri cancer
-corrigan&apos;s disease
+corrigan's disease
 cors1
 cors2
 cortical blindness
@@ -8848,7 +8848,7 @@ costalchondritis
 costeff optic atrophy syndrome
 costeff syndrome
 costello syndrome
-costen&apos;s syndrome
+costen's syndrome
 costochondral junction syndrome
 costochondritis
 costovertebral segmentation defect-mesomelia syndrome
@@ -9013,12 +9013,12 @@ critical illness myopathy
 critical illness polyneuropathy
 crmo
 crohn disease
-crohn&apos;s associated gastritis
-crohn&apos;s colitis
-crohn&apos;s disease
-crohn&apos;s disease of colon
-crohn&apos;s disease of large bowel
-crohn&apos;s ileitis
+crohn's associated gastritis
+crohn's colitis
+crohn's disease
+crohn's disease of colon
+crohn's disease of large bowel
+crohn's ileitis
 cronkhite-canada syndrome
 cross dresser
 crossed eyes
@@ -9026,7 +9026,7 @@ croup
 croup syndrome
 crouzon syndrome
 crouzon syndrome-acanthosis nigricans syndrome
-crouzon&apos;s disease
+crouzon's disease
 crouzon-dermoskeletal syndrome
 crouzonodermoskeletal syndrome
 crustacean allergy
@@ -9159,7 +9159,7 @@ cts - carpal tunnel syndrome
 cucumis melo fruit allergy
 culler-jones syndrome
 curling ulcer
-curling&apos;s ulcers
+curling's ulcers
 currarino syndrome
 currarino triad
 current pressure-sensitive neuropathy
@@ -9168,9 +9168,9 @@ curry-hall syndrome
 cushing syndrome
 cushing syndrome due to ectopic acth secretion
 cushing syndrome due to macronodular adrenal hyperplasia
-cushing&apos;s symphalangism
-cushing&apos;s syndrome
-cushing&apos;s syndrome
+cushing's symphalangism
+cushing's syndrome
+cushing's syndrome
 cutaneous actinomycosis
 cutaneous adenocystic carcinoma
 cutaneous amebiasis
@@ -9190,7 +9190,7 @@ cutaneous fibrous tissue neoplasm
 cutaneous ganglioneuroma
 cutaneous glomangioma
 cutaneous hyperpigmentation with hypertrichosis, hepatosplenomegaly, heart anomalies, and hypogonadism with or without hearing loss
-cutaneous kaposi&apos;s sarcoma
+cutaneous kaposi's sarcoma
 cutaneous leiomyoma
 cutaneous leiomyosarcoma
 cutaneous leishmaniasis
@@ -9211,7 +9211,7 @@ cutaneous mucoepidermoid carcinoma
 cutaneous mucormycosis
 cutaneous mycosis
 cutaneous paget disease
-cutaneous paget&apos;s disease
+cutaneous paget's disease
 cutaneous papilloma
 cutaneous plague
 cutaneous porphyria
@@ -9267,8 +9267,8 @@ cylindrical spirals myopathy
 cylindroma
 cyprinus carpio fish allergy
 cysrd
-cyst of bartholin&apos;s gland
-cyst of bartholin&apos;s gland duct
+cyst of bartholin's gland
+cyst of bartholin's gland duct
 cyst of central nervous system (disorder)
 cyst of prostate
 cyst of the breast
@@ -9361,7 +9361,7 @@ d-tga
 d1 trisomy
 d2hga1
 d2hga2
-da costa&apos;s syndrome
+da costa's syndrome
 da1
 da10
 da1a
@@ -9391,7 +9391,7 @@ danio rerio allergy
 dann-epstein-sohar syndrome
 danon disease
 danubian endemic familial nephropathy
-darier&apos;s disease
+darier's disease
 darier-white disease
 dark dot disease
 dartoic leiomyoma
@@ -9432,7 +9432,7 @@ de la chapelle syndrome
 de lange syndrome
 de morsier syndrome
 de quervain disease
-de quervain&apos;s thyroiditis
+de quervain's thyroiditis
 de sanctis-cacchione syndrome
 de toni-fanconi syndrome
 de vaal disease
@@ -9453,7 +9453,7 @@ deafness-onychoosteodystrophy-intellectual disability syndrome
 deafness-pili torti-hypogonadism syndrome
 deb, bullous dermolysis of the newborn
 deb-bdn
-debre&apos;s syndrome
+debre's syndrome
 debre-mollaret syndrome
 decam
 decubitus (pressure) ulcer
@@ -9671,7 +9671,7 @@ deltaretrovirus infectious disease
 deltavirus infectious disease
 delusional disorder
 dementia
-dementia in pick&apos;s disease
+dementia in pick's disease
 dementia with lewy bodies
 demyelinating disease
 demyelinating disease of central nervous system
@@ -9694,7 +9694,7 @@ dense body defect
 dent disease
 dent disease 1
 dent disease 2
-dent&apos;s disease
+dent's disease
 dental abscess
 dental anomalies and short stature
 dental caries
@@ -9921,10 +9921,10 @@ developmental disorder of mental health
 developmental dysplasia of the hip
 developmental expressive language disorder
 developmental verbal dyspraxia
-devergie&apos;s disease
-devic&apos;s disease
-devic&apos;s syndrome
-devil&apos;s grip
+devergie's disease
+devic's disease
+devic's syndrome
+devil's grip
 dextro-looped transposition of the great arteries
 dextro-looped transposition of the great arteries 1
 dextro-looped transposition of the great arteries 3
@@ -10299,7 +10299,7 @@ digenic waardenburg syndrome/albinism
 digenic waardenburg syndrome/ocular albinism
 digeorge sequence
 digeorge syndrome
-digeorge&apos;s syndrome
+digeorge's syndrome
 digestive system cancer
 digestive system disorder
 digital anomalies with short palpebral fissures and atresia of esophagus or duodenum
@@ -10374,8 +10374,8 @@ dile
 dioctophymiasis
 dipetalonema infectious disease
 dipetalonemiasis
-diphenylmethane-4,4&apos;-diisocyanate allergic asthma
-diphenylmethane-4,4&apos;-diisocyanate allergic contact dermatitis
+diphenylmethane-4,4'-diisocyanate allergic asthma
+diphenylmethane-4,4'-diisocyanate allergic contact dermatitis
 diphosphoglycerate mutase deficiency of erythrocyte
 diphtheria
 diphtheritic cystitis
@@ -10740,8 +10740,8 @@ double vision
 dourine
 dowling-degos disease
 down syndrome
-down&apos;s syndrome
-down&apos;s syndrome - trisomy 21
+down's syndrome
+down's syndrome - trisomy 21
 downs syndrome
 doyne honeycomb degeneration of retina
 doyne honeycomb retinal dystrophy
@@ -10760,7 +10760,7 @@ drd due to srd
 dream disease
 drepanocytosis
 dressler syndrome
-dressler&apos;s syndrome
+dressler's syndrome
 drooping eyelid
 drop metastatic tumor to the spinal cord
 drop secondary malignant neoplasm to the spinal cord
@@ -10831,12 +10831,12 @@ du pan syndrome
 dual-role transvestism
 duane anomaly with radial ray abnormalities and deafness
 duane retraction syndrome
-duane&apos;s syndrome
+duane's syndrome
 duane-radial ray syndrome
 dubin johnson syndrome
 dubin-johnson syndrome
 dubowitz syndrome
-dubowitz&apos;s syndrome
+dubowitz's syndrome
 duchenne muscular dystrophy
 duchenne-like autosomal recessive muscular dystrophy type 2
 duct carcinoma
@@ -10852,10 +10852,10 @@ ductal, lobular and medullary tumor (qualifier value)
 ductal, lobular, and medullary neoplasm
 ductus arteriosus, patent
 duffy linked cataract
-duhring&apos;s disease
+duhring's disease
 dumping (jejunal) syndrome
 dumping syndrome
-duncan&apos;s syndrome
+duncan's syndrome
 dunnigan syndrome
 duodenal adenocarcinoma
 duodenal atresia
@@ -10879,7 +10879,7 @@ duodenum disorder
 dup(4q) syndrome, partial
 duplication 22q11.2
 duplication 4q syndrome, partial
-dupuytren&apos;s contracture of foot
+dupuytren's contracture of foot
 durand-nicolas-favre disease
 dursun syndrome
 dusty cataract
@@ -11095,8 +11095,8 @@ early-onset myopathy-areflexia-respiratory distress-dysphagia syndrome
 early-onset parkinson disease
 early-onset parkinson disease 20
 early-onset parkinson disease 6
-early-onset parkinson&apos;s disease
-early-onset parkinson&apos;s disease 20
+early-onset parkinson's disease
+early-onset parkinson's disease 20
 early-onset parkinsonism-intellectual disability syndrome
 early-onset prion disease with prominent psychiatric features
 early-onset vitamin b6-dependent epilepsy
@@ -11104,7 +11104,7 @@ east african trypanosomiasis
 east syndrome
 eastern equine encephalitis
 eating disorder
-eaton&apos;s agent infection (disorder)
+eaton's agent infection (disorder)
 eaton-lambert syndrome
 ebd, bart type
 ebmd
@@ -11117,10 +11117,10 @@ ebsdm
 ebsmp
 ebsog
 ebstein anomaly
-ebstein&apos;s anomaly
-ebstein&apos;s anomaly of common atrioventricular valve
-ebstein&apos;s anomaly of right atrioventricular valve
-ebstein&apos;s anomaly of tricuspid valve
+ebstein's anomaly
+ebstein's anomaly of common atrioventricular valve
+ebstein's anomaly of right atrioventricular valve
+ebstein's anomaly of tricuspid valve
 ebv infection
 ebv related carcinoma
 ebv related clonal ptld
@@ -11336,8 +11336,8 @@ ehlers-danlos syndrome, type 3
 ehlers-danlos syndrome, type 5
 ehrlich tumor carcinoma
 ehrlich tumour carcinoma
-ehrlich&apos;s tumor
-ehrlich&apos;s tumour
+ehrlich's tumor
+ehrlich's tumour
 ehrlichia ewingii ehrlichiosis
 ehrlichiosis
 ehrlichiosis chafeensis
@@ -11446,7 +11446,7 @@ encephalitis due to congenital syphilis
 encephalitis following immunization procedures
 encephalitis lethargica
 encephalitis periaxialis concentrica
-encephalitis periaxialis, schilder&apos;s
+encephalitis periaxialis, schilder's
 encephalitozoonosis
 encephaloclastic proliferative vasculopathy
 encephalofacial angiomatosis
@@ -11467,7 +11467,7 @@ end plate acetylcholinesterase deficiency
 end stage renal disease
 end stage renal failure
 end-stage kidney disease
-endemic african kaposi&apos;s sarcoma
+endemic african kaposi's sarcoma
 endemic flea-borne typhus
 endemic goiter
 endemic typhus
@@ -11578,7 +11578,7 @@ enfl3
 enfl4
 enfl5
 engel congenital myasthenic syndrome
-engelman&apos;s disease
+engelman's disease
 enhanced s-cone syndrome
 enlarged adenoids
 enlarged angioscotoma
@@ -11676,7 +11676,7 @@ epicondylitis
 epidemic (louse-borne) typhus
 epidemic encephalitis
 epidemic hemorrhagic conjunctivitis
-epidemic kaposi&apos;s sarcoma
+epidemic kaposi's sarcoma
 epidemic keratoconjunctivitis
 epidemic louse-borne typhus
 epidemic louse-borne typhus fever due to rickettsia prowazekii
@@ -11816,8 +11816,8 @@ epithelial predominant kidney adenosarcoma
 epithelial predominant pulmonary blastoma
 epithelial predominant renal wilms tumor
 epithelial predominant renal wilms tumour
-epithelial predominant wilms&apos; tumor
-epithelial predominant wilms&apos; tumour
+epithelial predominant wilms' tumor
+epithelial predominant wilms' tumour
 epithelial recurrent erosion dystrophy
 epithelial skin tumor
 epithelial tissue disease
@@ -11874,7 +11874,7 @@ equine encephalitis
 equine infectious anemia
 equine strongyle infectious disease
 equinovarus deformity of foot
-erb&apos;s muscular dystrophy
+erb's muscular dystrophy
 erdheim-chester disease
 erectile dysfunction
 ered
@@ -11939,7 +11939,7 @@ esophageal carcinoma
 esophageal disease
 esophageal diverticulosis
 esophageal dysmotility
-esophageal kaposi&apos;s sarcoma
+esophageal kaposi's sarcoma
 esophageal leukoplakia
 esophageal lipoma
 esophageal metastasis
@@ -12034,7 +12034,7 @@ eustachian salpingitis
 eustachian tube disease
 eustachian tube salpingitis
 euthyroid sick syndrome
-evans&apos; syndrome
+evans' syndrome
 eversion of lacrimal punctum
 everted margin
 evr1
@@ -12047,13 +12047,13 @@ evr7
 evrx
 ewing sarcoma
 ewing sarcoma of bone
-ewing&apos;s family localized tumor
-ewing&apos;s family recurrent tumor
-ewing&apos;s sarcoma of bone
-ewing&apos;s sarcoma, metastatic
-ewing&apos;s sarcoma/bone peripheral primitive neuroectodermal tumor
-ewing&apos;s sarcoma/peripheral primitive neuroectodermal tumor
-ewing&apos;s tumor
+ewing's family localized tumor
+ewing's family recurrent tumor
+ewing's sarcoma of bone
+ewing's sarcoma, metastatic
+ewing's sarcoma/bone peripheral primitive neuroectodermal tumor
+ewing's sarcoma/peripheral primitive neuroectodermal tumor
+ewing's tumor
 ewings sarcoma
 ewings sarcoma-primitive neuroectodermal tumor
 exaggerated placental site
@@ -12134,9 +12134,9 @@ extrahepatic biliary stasis
 extrahepatic cholestasis
 extrahepatic obstructive biliary disease
 extramammary paget disease
-extramammary paget&apos;s disease
-extramammary paget&apos;s disease
-extramammary paget&apos;s disease (morphologic abnormality)
+extramammary paget's disease
+extramammary paget's disease
+extramammary paget's disease (morphologic abnormality)
 extramedullary myeloid tumor
 extramedullary plasmacytoma
 extramucosal (perianal) adenocarcinoma
@@ -12146,10 +12146,10 @@ extraocular extension of melanoma
 extraocular retinoblastoma
 extraosseous chondrosarcoma
 extraosseous ewing sarcoma
-extraosseous ewing&apos;s sarcoma
-extraosseous ewing&apos;s sarcoma/peripheral primitive neuroectodermal tumor
-extraosseous ewing&apos;s tumor
-extraosseous ewing&apos;s tumour
+extraosseous ewing's sarcoma
+extraosseous ewing's sarcoma/peripheral primitive neuroectodermal tumor
+extraosseous ewing's tumor
+extraosseous ewing's tumour
 extraosseous ewings sarcoma-primitive neuroepithelial tumor
 extraosseous ewings sarcoma-primitive neuroepithelial tumour
 extraosseous osteosarcoma
@@ -12204,7 +12204,7 @@ fa3
 fa4
 fabaceae allergy
 fabry disease
-fabry&apos;s disease
+fabry's disease
 facb
 facc
 face
@@ -12542,7 +12542,7 @@ familial nephrotic syndrome
 familial nonpolyposis colon cancer type 1
 familial nonpolyposis colon cancer type 2
 familial orthostatic tachycardia due to norepinephrine transporter deficiency
-familial paget&apos;s disease of bone
+familial paget's disease of bone
 familial partial lipodystrophy
 familial partial lipodystrophy associated with cidec mutations
 familial partial lipodystrophy associated with lipe mutations
@@ -12657,8 +12657,8 @@ fanconi renotubular syndrome 4
 fanconi renotubular syndrome 5
 fanconi schlesinger syndrome
 fanconi syndrome
-fanconi&apos;s anaemia
-fanconi&apos;s anemia
+fanconi's anaemia
+fanconi's anemia
 fanconi-de toni syndrome
 fanconi-de-toni syndrome
 fanconi-like syndrome
@@ -12679,7 +12679,7 @@ farber lipogranulomatosis
 farcy pipes
 farfantepenaeus aztecus allergy
 farmer lung
-farmer&apos;s lung
+farmer's lung
 farmers lung
 fascia disease
 fasciitis
@@ -12767,7 +12767,7 @@ feline panleukopenia
 feline viral rhinotracheitis
 fellman disease
 felty syndrome
-felty&apos;s syndrome
+felty's syndrome
 female breast axillary tail cancer
 female breast cancer
 female breast carcinoma
@@ -12962,7 +12962,7 @@ fic1 deficiency
 fiebre maculosa
 fiebre manchada
 fiedler myocarditis
-fiedler&apos;s myocarditis
+fiedler's myocarditis
 fiessinger leroy reiter syndrome
 fif
 fifth digit syndrome
@@ -12977,7 +12977,7 @@ filarial elephantiasis
 filarial infectious disease and dracontiasis
 filariasis
 filariasis ozzardi infection
-filatov&apos;s disease
+filatov's disease
 filippi syndrome
 filoviridae infectious disease
 fim
@@ -13000,7 +13000,7 @@ fisf
 fish allergy
 fish tapeworm
 fish-odor syndrome
-fisher&apos;s syndrome
+fisher's syndrome
 fissure in ano
 fissure of nipple associated with childbirth
 fissure of tongue
@@ -13018,7 +13018,7 @@ flat retinoschisis
 flaviviridae infectious disease
 flavivirus infectious disease
 flavoquine allergy
-flax-dressers&apos; disease
+flax-dressers' disease
 flea typhus
 flea-borne rickettsiosis
 flea-borne rickettsiosis
@@ -13112,10 +13112,10 @@ follicular low grade b-cell lymphoma (disorder)
 follicular lymphoma
 follicular lymphoma
 follicular mucinosis
-follicular non-hodgkin&apos;s lymphoma (disorder)
+follicular non-hodgkin's lymphoma (disorder)
 follicular thyroid carcinoma
 folliculitis
-folling&apos;s disease
+folling's disease
 fong disease
 food allergy
 food hypersensitivity
@@ -13131,7 +13131,7 @@ foramen magnum meningioma
 foramen ovale patent
 fordyce angiokeratoma
 fordyce angiokeratoma of vulva
-fordyce&apos;s spot
+fordyce's spot
 fordyce-type angiokeratoma of scrotum
 foreign body granuloma of muscle
 forestier disease
@@ -13179,7 +13179,7 @@ franceschetti syndrome
 francois dyscephalic syndrome
 francois-neetens speckled corneal dystrophy
 frank-ter haar syndrome
-franklin&apos;s disease
+franklin's disease
 fraser syndrome
 fraser syndrome 1
 fraser syndrome 2
@@ -13211,17 +13211,17 @@ french settlement disease
 frey syndrome
 frfb
 fried syndrome
-fried&apos;s tooth and nail syndrome
+fried's tooth and nail syndrome
 friedreich ataxia
 friedreich ataxia 1
 friedreich ataxia 1
 friedreich ataxia 2
-friedreich&apos;s ataxia
-friedreich&apos;s tabes
+friedreich's ataxia
+friedreich's tabes
 froehlich syndrome
-froehlich&apos;s syndrome
+froehlich's syndrome
 froelich syndrome
-froelich&apos;s syndrome
+froelich's syndrome
 frontal convexity meningioma
 frontal lobe epilepsy
 frontal lobe neoplasm
@@ -13280,13 +13280,13 @@ ftdmnd
 fth1-associated iron overload
 fth1-related iron overload
 fths
-fuch&apos;s heterochromic iridocyclitis
+fuch's heterochromic iridocyclitis
 fuchs uveitis syndrome
-fuchs&apos; corneal dystrophy
-fuchs&apos; endothelial corneal dystrophy
-fuchs&apos; endothelial dystrophy
-fuchs&apos; heterochromic cyclitis
-fuchs&apos; heterochromic uveitis
+fuchs' corneal dystrophy
+fuchs' endothelial corneal dystrophy
+fuchs' endothelial dystrophy
+fuchs' heterochromic cyclitis
+fuchs' heterochromic uveitis
 fucosidosis
 fuhrmann syndrome
 fukuhara syndrome
@@ -13326,7 +13326,7 @@ ga1
 gaba aminotransferase deficiency
 gabeb
 gadus morhua fish allergy
-gaisbock&apos;s syndrome
+gaisbock's syndrome
 gait apraxia
 galactocele
 galactokinase deficiency
@@ -13366,7 +13366,7 @@ gallbladder carcinoma
 gallbladder carcinoma in situ
 gallbladder carcinoma unresectable
 gallbladder disease
-gallbladder kaposi&apos;s sarcoma
+gallbladder kaposi's sarcoma
 gallbladder leiomyoma
 gallbladder leiomyosarcoma
 gallbladder lipoma
@@ -13462,7 +13462,7 @@ gastric g-cell gastrin producing tumor
 gastric gastrinoma
 gastric hemangioma
 gastric intestinal type adenocarcinoma
-gastric kaposi&apos;s sarcoma
+gastric kaposi's sarcoma
 gastric leiomyoma
 gastric leiomyosarcoma
 gastric liposarcoma
@@ -13490,7 +13490,7 @@ gastrinoma of duodenum
 gastritis
 gastro-esophageal adenocarcinoma
 gastro-esophageal reflux
-gastroduodenal crohn&apos;s disease
+gastroduodenal crohn's disease
 gastroduodenitis
 gastroenteritis
 gastroenteritis - bact.
@@ -13538,11 +13538,11 @@ gaucher disease, collodion type
 gaucher disease, juvenile and adult, cerebral
 gaucher disease, noncerebral juvenile
 gaucher disease, subacute neuronopathic type
-gaucher&apos;s disease
-gaucher&apos;s disease perinatal lethal
-gaucher&apos;s disease type i
-gaucher&apos;s disease type ii
-gaucher&apos;s disease type iii
+gaucher's disease
+gaucher's disease perinatal lethal
+gaucher's disease type i
+gaucher's disease type ii
+gaucher's disease type iii
 gba deficiency
 gbm
 gd i
@@ -13770,10 +13770,10 @@ gibraltar fever
 gidid
 gigantism
 gilbert syndrome
-gilbert&apos;s disease
-gilbert&apos;s syndrome
+gilbert's disease
+gilbert's syndrome
 gilbert-meulengracht syndrome
-gilchrist&apos;s disease
+gilchrist's disease
 gilles de la tourette syndrome
 gillespie syndrome
 gingival disease
@@ -13803,7 +13803,7 @@ glandular tularemia
 glandular-alveolar pattern testicular yolk sac tumor
 glans penis cancer
 glanzmann thrombasthenia
-glanzmann&apos;s thrombasthenia
+glanzmann's thrombasthenia
 glass syndrome
 glassy cell variant cervical adenosquamous carcinoma
 glaucoma
@@ -13884,7 +13884,7 @@ glomus tumour of skin
 gloomy face syndrome
 glossitis
 glossitis areata exfoliativa
-glossitis, hunter&apos;s
+glossitis, hunter's
 glossopharyngeal motor neuropathy
 glossopharyngeal nerve disease
 glossopharyngeal nerve neoplasm
@@ -14038,7 +14038,7 @@ goldberg-maxwell syndrome
 goldberg-shprintzen megacolon syndrome
 goldberg-shprintzen syndrome
 goldenhar syndrome
-golfer&apos;s elbow
+golfer's elbow
 goltz syndrome
 goltz-gorlin syndrome
 gonadal disease
@@ -14102,7 +14102,7 @@ goodpasture syndrome
 gordon holmes syndrome
 gordon syndrome
 gorham disease
-gorham&apos;s disease
+gorham's disease
 gorham-stout syndrome
 gorlin syndrome
 gorlin syndrome ii
@@ -14188,9 +14188,9 @@ granulosa cell tumor, adult type
 granulosa cell tumour of testis
 granulosa cell tumour, sarcomatoid
 grasbeck-imerslund syndrome
-grave&apos;s disease
+grave's disease
 graves disease
-graves&apos; disease
+graves' disease
 gravidic intrahepatic cholestasis
 gray platelet syndrome
 gray zone lymphoma
@@ -14200,7 +14200,7 @@ green mud crab allergy
 greenberg dysplasia
 greenberg skeletal dysplasia
 greig cephalopolysyndactyly syndrome
-greig&apos;s syndrome
+greig's syndrome
 greither disease
 grid2-related spinocerebellar ataxia
 grinding teeth
@@ -14262,7 +14262,7 @@ guam disease
 guanidinoacetate methyltransferase deficiency
 guibaud-vainsel syndrome
 guillain-barre syndrome
-guinon&apos;s disease
+guinon's disease
 gulf war syndrome
 gum cancer
 gum disease
@@ -14320,8 +14320,8 @@ haemopneumothorax
 haemosiderosis
 hagedoom syndrome
 hageman factor deficiency
-haglund&apos;s deformity
-haglund&apos;s disease
+haglund's deformity
+haglund's disease
 hailey-hailey disease
 hair disease
 hair follicle neoplasm
@@ -14345,7 +14345,7 @@ hairy tongue
 hajdu-cheney syndrome
 halasz syndrome
 hallerman - streiff syndrome
-hallermann&apos;s syndrome
+hallermann's syndrome
 hallermann-streiff syndrome
 hallervorden-spatz disease
 hallervorden-spatz syndrome
@@ -14395,7 +14395,7 @@ hantavirus infectious disease
 hantavirus pulmonary syndrome
 happle syndrome
 happy puppet syndrome
-harada&apos;s disease
+harada's disease
 harboyan syndrome
 hard palate cancer
 hard syndrome
@@ -14405,15 +14405,15 @@ harjola-marable syndrome
 harlequin ichthyosis
 harlequin type ichthyosis congenita
 harlequin type ichthyosis fetalis
-harper&apos;s syndrome
+harper's syndrome
 harper-young myopath
 harper-young myopathy
 hartnup disease
 has_obsolescence_reason
 hashimoto thyroiditis
-hashimoto&apos;s disease
-hashimoto&apos;s syndrome
-hashimoto&apos;s thyroiditis
+hashimoto's disease
+hashimoto's syndrome
+hashimoto's thyroiditis
 hauptmann-thannhauser muscular dystrophy
 haverhill fever
 haw river syndrome
@@ -14481,11 +14481,11 @@ heavy chain disease
 hecht syndrome
 hecht-beals syndrome
 heck disease
-heck&apos;s disease
+heck's disease
 heco
 hed1
 heel spur
-heerfordt&apos;s syndrome
+heerfordt's syndrome
 heimler syndrome 1
 heimler syndrome 2
 heinz body anemia
@@ -14498,7 +14498,7 @@ helicobacter pylori-related carcinoma
 helicobacter pylori-related gastric adenocarcinoma
 helicobacter-associated gastritis (disorder)
 helicoid peripapillary chorioretinal degeneration
-heller&apos;s syndrome
+heller's syndrome
 hellp syndrome
 helminth infection
 helminthiasis
@@ -14655,7 +14655,7 @@ hemorrhagic varicella pneumonitis
 hemorrhoid
 hemorrhoidal disease
 hemosiderosis
-hench&apos;s syndrome
+hench's syndrome
 hench-rosenberg syndrome
 henipavirus infectious disease
 hennekam lymphangiectasia-lymphedema syndrome
@@ -15009,8 +15009,8 @@ hereditary trophoedeme
 hereditary urogenital adysplasia
 hereditary wilms tumor
 hereditary wilms tumour
-hereditary wilms&apos; tumor
-hereditary wilms&apos; tumour
+hereditary wilms' tumor
+hereditary wilms' tumour
 hereditary woolly hair syndrome
 hereditary wooly hair syndrome
 hereditary xerocytosis
@@ -15094,7 +15094,7 @@ herpetic vulvovaginitis
 herpetic vulvovaginitis
 herpetic vulvovaginitis (disorder)
 herpetic whitlow
-hers&apos; disease
+hers' disease
 herxheimer disease
 heterolobosea infectious disease
 heterophyes infectious disease
@@ -15174,7 +15174,7 @@ hippel lindau syndrome
 hirata disease
 hirschsprung disease
 hirschsprung disease mental retardation syndrome
-hirschsprung&apos;s disease
+hirschsprung's disease
 hirudiniasis
 his-werner disease
 histidine metabolism disease
@@ -15224,7 +15224,7 @@ histoplasmosis with pneumonia (disorder)
 histoplasmosis with retinitis
 histrionic personality disorder
 hiv associated cognitive and motor complex
-hiv disease resulting in kaposi&apos;s sarcoma (disorder)
+hiv disease resulting in kaposi's sarcoma (disorder)
 hiv encephalopathy
 hiv enteropathy
 hiv infection
@@ -15335,213 +15335,213 @@ hodgkin lymphoma, lymphocyte depletion
 hodgkin lymphoma, lymphocyte-rich
 hodgkin lymphoma, lymphocytic-histiocytic predominance
 hodgkin paragranuloma
-hodgkin&apos;s disease, lymphocyte predominance
-hodgkin&apos;s disease, lymphocytic depletion
-hodgkin&apos;s disease, lymphocytic depletion of intra-abdominal lymph nodes
-hodgkin&apos;s disease, lymphocytic depletion of intra-abdominal lymph nodes (disorder)
-hodgkin&apos;s disease, lymphocytic depletion of intrapelvic lymph nodes
-hodgkin&apos;s disease, lymphocytic depletion of intrapelvic lymph nodes (disorder)
-hodgkin&apos;s disease, lymphocytic depletion of lymph nodes of axilla and upper limb (disorder)
-hodgkin&apos;s disease, lymphocytic depletion of lymph nodes of axilla and/or upper limb (disorder)
-hodgkin&apos;s disease, lymphocytic depletion of lymph nodes of head, face and neck (disorder)
-hodgkin&apos;s disease, lymphocytic depletion of lymph nodes of head, face and/or neck (disorder)
-hodgkin&apos;s disease, lymphocytic depletion of lymph nodes of inguinal region and lower limb (disorder)
-hodgkin&apos;s disease, lymphocytic depletion of lymph nodes of inguinal region and/or lower limb (disorder)
-hodgkin&apos;s disease, lymphocytic depletion of lymph nodes of multiple sites
-hodgkin&apos;s disease, lymphocytic depletion of lymph nodes of multiple sites (disorder)
-hodgkin&apos;s disease, lymphocytic depletion of spleen
-hodgkin&apos;s disease, lymphocytic depletion of spleen (disorder)
-hodgkin&apos;s disease, lymphocytic depletion, involving intra-abdominal lymph nodes
-hodgkin&apos;s disease, lymphocytic depletion, involving intrapelvic lymph nodes
-hodgkin&apos;s disease, lymphocytic depletion, involving lymph nodes of axilla and upper limb
-hodgkin&apos;s disease, lymphocytic depletion, involving lymph nodes of head, face and neck
-hodgkin&apos;s disease, lymphocytic depletion, involving lymph nodes of head, face, and neck
-hodgkin&apos;s disease, lymphocytic depletion, involving lymph nodes of inguinal region and lower limb
-hodgkin&apos;s disease, lymphocytic depletion, involving lymph nodes of multiple sites
-hodgkin&apos;s disease, lymphocytic depletion, involving spleen
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance involving intra-abdominal lymph nodes
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance involving intrapelvic lymph nodes
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance involving intrathoracic lymph nodes
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance involving lymph nodes of axilla and upper limb
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance involving lymph nodes of head, face and neck
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance involving lymph nodes of head, face, and neck
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance involving lymph nodes of inguinal region and lower limb
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance involving lymph nodes of multiple sites
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance involving spleen
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance of intra-abdominal lymph nodes (disorder)
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance of intra-abdominal lymph nodes [dup] (disorder)
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance of intrapelvic lymph nodes (disorder)
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance of intrapelvic lymph nodes [dup] (disorder)
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance of intrathoracic lymph nodes (disorder)
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance of intrathoracic lymph nodes [dup] (disorder)
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance of lymph nodes of axilla and upper limb (disorder)
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance of lymph nodes of axilla and/or upper limb (disorder)
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance of lymph nodes of head, face and neck (disorder)
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance of lymph nodes of head, face and/or neck (disorder)
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region and lower limb (disorder)
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region and/or lower limb (disorder)
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance of lymph nodes of multiple sites
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance of lymph nodes of multiple sites (disorder)
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance of spleen (disorder)
-hodgkin&apos;s disease, lymphocytic-histiocytic predominance, extranodal and solid organ sites
-hodgkin&apos;s disease, mixed cellularity
-hodgkin&apos;s disease, mixed cellularity of intra-abdominal lymph nodes
-hodgkin&apos;s disease, mixed cellularity of intra-abdominal lymph nodes (disorder)
-hodgkin&apos;s disease, mixed cellularity of intrapelvic lymph nodes
-hodgkin&apos;s disease, mixed cellularity of intrapelvic lymph nodes (disorder)
-hodgkin&apos;s disease, mixed cellularity of intrathoracic lymph nodes
-hodgkin&apos;s disease, mixed cellularity of intrathoracic lymph nodes (disorder)
-hodgkin&apos;s disease, mixed cellularity of lymph nodes of axilla and upper limb (disorder)
-hodgkin&apos;s disease, mixed cellularity of lymph nodes of axilla and/or upper limb (disorder)
-hodgkin&apos;s disease, mixed cellularity of lymph nodes of head, face and neck (disorder)
-hodgkin&apos;s disease, mixed cellularity of lymph nodes of head, face and/or neck (disorder)
-hodgkin&apos;s disease, mixed cellularity of spleen
-hodgkin&apos;s disease, mixed cellularity of spleen (disorder)
-hodgkin&apos;s disease, mixed cellularity, extranodal and solid organ sites
-hodgkin&apos;s disease, mixed cellularity, involving intra-abdominal lymph nodes
-hodgkin&apos;s disease, mixed cellularity, involving intrapelvic lymph nodes
-hodgkin&apos;s disease, mixed cellularity, involving intrathoracic lymph nodes
-hodgkin&apos;s disease, mixed cellularity, involving lymph nodes of axilla and upper limb
-hodgkin&apos;s disease, mixed cellularity, involving lymph nodes of head, face and neck
-hodgkin&apos;s disease, mixed cellularity, involving lymph nodes of head, face, and neck
-hodgkin&apos;s disease, mixed cellularity, involving lymph nodes of multiple sites
-hodgkin&apos;s disease, mixed cellularity, involving spleen
-hodgkin&apos;s disease, nodular sclerosis of intra-abdominal lymph nodes
-hodgkin&apos;s disease, nodular sclerosis of intra-abdominal lymph nodes (disorder)
-hodgkin&apos;s disease, nodular sclerosis of intrapelvic lymph nodes
-hodgkin&apos;s disease, nodular sclerosis of intrapelvic lymph nodes (disorder)
-hodgkin&apos;s disease, nodular sclerosis of intrathoracic lymph nodes
-hodgkin&apos;s disease, nodular sclerosis of intrathoracic lymph nodes (disorder)
-hodgkin&apos;s disease, nodular sclerosis of lymph nodes of axilla and upper limb (disorder)
-hodgkin&apos;s disease, nodular sclerosis of lymph nodes of axilla and/or upper limb (disorder)
-hodgkin&apos;s disease, nodular sclerosis of lymph nodes of head, face and neck (disorder)
-hodgkin&apos;s disease, nodular sclerosis of lymph nodes of head, face and/or neck (disorder)
-hodgkin&apos;s disease, nodular sclerosis of lymph nodes of inguinal region and lower limb (disorder)
-hodgkin&apos;s disease, nodular sclerosis of lymph nodes of inguinal region and/or lower limb (disorder)
-hodgkin&apos;s disease, nodular sclerosis of lymph nodes of multiple sites
-hodgkin&apos;s disease, nodular sclerosis of lymph nodes of multiple sites (disorder)
-hodgkin&apos;s disease, nodular sclerosis of spleen
-hodgkin&apos;s disease, nodular sclerosis of spleen (disorder)
-hodgkin&apos;s disease, nodular sclerosis, extranodal and solid organ sites
-hodgkin&apos;s disease, nodular sclerosis, involving intra-abdominal lymph nodes
-hodgkin&apos;s disease, nodular sclerosis, involving intrapelvic lymph nodes
-hodgkin&apos;s disease, nodular sclerosis, involving intrathoracic lymph nodes
-hodgkin&apos;s disease, nodular sclerosis, involving lymph nodes of axilla and upper limb
-hodgkin&apos;s disease, nodular sclerosis, involving lymph nodes of head, face and neck
-hodgkin&apos;s disease, nodular sclerosis, involving lymph nodes of inguinal region and lower limb
-hodgkin&apos;s disease, nodular sclerosis, involving lymph nodes of multiple sites
-hodgkin&apos;s disease, nodular sclerosis, involving spleen
-hodgkin&apos;s granuloma
-hodgkin&apos;s granuloma involving intra-abdominal lymph nodes
-hodgkin&apos;s granuloma involving intrapelvic lymph nodes
-hodgkin&apos;s granuloma involving intrathoracic lymph nodes
-hodgkin&apos;s granuloma involving lymph nodes of axilla and upper limb
-hodgkin&apos;s granuloma involving lymph nodes of head, face and neck
-hodgkin&apos;s granuloma involving lymph nodes of head, face, and neck
-hodgkin&apos;s granuloma involving lymph nodes of inguinal region and lower limb
-hodgkin&apos;s granuloma involving lymph nodes of multiple sites
-hodgkin&apos;s granuloma involving spleen
-hodgkin&apos;s granuloma of intra-abdominal lymph nodes (disorder)
-hodgkin&apos;s granuloma of intrapelvic lymph nodes
-hodgkin&apos;s granuloma of intrapelvic lymph nodes (disorder)
-hodgkin&apos;s granuloma of lymph nodes of axilla and upper limb (disorder)
-hodgkin&apos;s granuloma of lymph nodes of axilla and/or upper limb (disorder)
-hodgkin&apos;s granuloma of lymph nodes of head, face and neck (disorder)
-hodgkin&apos;s granuloma of lymph nodes of head, face and/or neck (disorder)
-hodgkin&apos;s granuloma of lymph nodes of inguinal region and lower limb (disorder)
-hodgkin&apos;s granuloma of lymph nodes of inguinal region and/or lower limb (disorder)
-hodgkin&apos;s granuloma of lymph nodes of multiple sites (disorder)
-hodgkin&apos;s granuloma of spleen
-hodgkin&apos;s granuloma of spleen (disorder)
-hodgkin&apos;s lymphocytic depletion of unspecified site
-hodgkin&apos;s lymphoma
-hodgkin&apos;s lymphoma, lymphocytic depletion
-hodgkin&apos;s lymphoma, lymphocytic depletion, involving intra-abdominal lymph nodes
-hodgkin&apos;s lymphoma, lymphocytic depletion, involving intrapelvic lymph nodes
-hodgkin&apos;s lymphoma, lymphocytic depletion, involving intrathoracic lymph nodes
-hodgkin&apos;s lymphoma, lymphocytic depletion, involving lymph nodes of axilla and upper limb
-hodgkin&apos;s lymphoma, lymphocytic depletion, involving lymph nodes of head, face, and neck
-hodgkin&apos;s lymphoma, lymphocytic depletion, involving lymph nodes of inguinal region and lower limb
-hodgkin&apos;s lymphoma, lymphocytic depletion, involving lymph nodes of multiple sites
-hodgkin&apos;s lymphoma, lymphocytic depletion, involving spleen
-hodgkin&apos;s lymphoma, lymphocytic-histiocytic predominance
-hodgkin&apos;s lymphoma, lymphocytic-histiocytic predominance involving intra-abdominal lymph nodes
-hodgkin&apos;s lymphoma, lymphocytic-histiocytic predominance involving intrapelvic lymph nodes
-hodgkin&apos;s lymphoma, lymphocytic-histiocytic predominance involving intrathoracic lymph nodes
-hodgkin&apos;s lymphoma, lymphocytic-histiocytic predominance involving lymph nodes of axilla and upper limb
-hodgkin&apos;s lymphoma, lymphocytic-histiocytic predominance involving lymph nodes of head, face, and neck
-hodgkin&apos;s lymphoma, lymphocytic-histiocytic predominance involving lymph nodes of inguinal region and lower limb
-hodgkin&apos;s lymphoma, lymphocytic-histiocytic predominance involving lymph nodes of multiple sites
-hodgkin&apos;s lymphoma, lymphocytic-histiocytic predominance involving spleen
-hodgkin&apos;s lymphoma, lymphocytic-histiocytic predominance, extranodal and solid organ sites
-hodgkin&apos;s lymphoma, mixed cellularity
-hodgkin&apos;s lymphoma, mixed cellularity, extranodal and solid organ sites
-hodgkin&apos;s lymphoma, mixed cellularity, involving intra-abdominal lymph nodes
-hodgkin&apos;s lymphoma, mixed cellularity, involving intrapelvic lymph nodes
-hodgkin&apos;s lymphoma, mixed cellularity, involving intrathoracic lymph nodes
-hodgkin&apos;s lymphoma, mixed cellularity, involving lymph nodes of axilla and upper limb
-hodgkin&apos;s lymphoma, mixed cellularity, involving lymph nodes of head, face, and neck
-hodgkin&apos;s lymphoma, mixed cellularity, involving lymph nodes of inguinal region and lower limb
-hodgkin&apos;s lymphoma, mixed cellularity, involving lymph nodes of multiple sites
-hodgkin&apos;s lymphoma, mixed cellularity, involving spleen
-hodgkin&apos;s lymphoma, nodular sclerosis
-hodgkin&apos;s lymphoma, nodular sclerosis, extranodal and solid organ sites
-hodgkin&apos;s lymphoma, nodular sclerosis, involving intra-abdominal lymph nodes
-hodgkin&apos;s lymphoma, nodular sclerosis, involving intrapelvic lymph nodes
-hodgkin&apos;s lymphoma, nodular sclerosis, involving intrathoracic lymph nodes
-hodgkin&apos;s lymphoma, nodular sclerosis, involving lymph nodes of axilla and upper limb
-hodgkin&apos;s lymphoma, nodular sclerosis, involving lymph nodes of head, face, and neck
-hodgkin&apos;s lymphoma, nodular sclerosis, involving lymph nodes of inguinal region and lower limb
-hodgkin&apos;s lymphoma, nodular sclerosis, involving lymph nodes of multiple sites
-hodgkin&apos;s lymphoma, nodular sclerosis, involving spleen
-hodgkin&apos;s paragranuloma
-hodgkin&apos;s paragranuloma involving intra-abdominal lymph nodes
-hodgkin&apos;s paragranuloma involving intrapelvic lymph nodes
-hodgkin&apos;s paragranuloma involving intrathoracic lymph nodes
-hodgkin&apos;s paragranuloma involving lymph nodes of axilla and upper limb
-hodgkin&apos;s paragranuloma involving lymph nodes of head, face and neck
-hodgkin&apos;s paragranuloma involving lymph nodes of head, face, and neck
-hodgkin&apos;s paragranuloma involving lymph nodes of inguinal region and lower limb
-hodgkin&apos;s paragranuloma involving lymph nodes of multiple sites
-hodgkin&apos;s paragranuloma involving spleen
-hodgkin&apos;s paragranuloma involving spleen
-hodgkin&apos;s paragranuloma of intra-abdominal lymph nodes (disorder)
-hodgkin&apos;s paragranuloma of intrapelvic lymph nodes (disorder)
-hodgkin&apos;s paragranuloma of intrathoracic lymph nodes (disorder)
-hodgkin&apos;s paragranuloma of lymph nodes of axilla and upper limb (disorder)
-hodgkin&apos;s paragranuloma of lymph nodes of axilla and/or upper limb (disorder)
-hodgkin&apos;s paragranuloma of lymph nodes of head, face and/or neck (disorder)
-hodgkin&apos;s paragranuloma of lymph nodes of head, face, and neck (disorder)
-hodgkin&apos;s paragranuloma of lymph nodes of inguinal region and lower limb (disorder)
-hodgkin&apos;s paragranuloma of lymph nodes of inguinal region and/or lower limb (disorder)
-hodgkin&apos;s paragranuloma of lymph nodes of multiple sites (disorder)
-hodgkin&apos;s paragranuloma of spleen
-hodgkin&apos;s paragranuloma of spleen (disorder)
-hodgkin&apos;s sarcoma
-hodgkin&apos;s sarcoma involving intra-abdominal lymph nodes
-hodgkin&apos;s sarcoma involving intrapelvic lymph nodes
-hodgkin&apos;s sarcoma involving intrathoracic lymph nodes
-hodgkin&apos;s sarcoma involving lymph nodes of axilla and upper limb
-hodgkin&apos;s sarcoma involving lymph nodes of head, face and neck
-hodgkin&apos;s sarcoma involving lymph nodes of head, face, and neck
-hodgkin&apos;s sarcoma involving lymph nodes of inguinal region and lower limb
-hodgkin&apos;s sarcoma involving lymph nodes of multiple sites
-hodgkin&apos;s sarcoma involving spleen
-hodgkin&apos;s sarcoma of intra-abdominal lymph nodes
-hodgkin&apos;s sarcoma of intra-abdominal lymph nodes (disorder)
-hodgkin&apos;s sarcoma of intrathoracic lymph nodes
-hodgkin&apos;s sarcoma of intrathoracic lymph nodes (disorder)
-hodgkin&apos;s sarcoma of lymph nodes of axilla and upper limb (disorder)
-hodgkin&apos;s sarcoma of lymph nodes of axilla and/or upper limb (disorder)
-hodgkin&apos;s sarcoma of lymph nodes of head, face and neck (disorder)
-hodgkin&apos;s sarcoma of lymph nodes of head, face and/or neck (disorder)
-hodgkin&apos;s sarcoma of lymph nodes of inguinal region and lower limb (disorder)
-hodgkin&apos;s sarcoma of lymph nodes of inguinal region and/or lower limb (disorder)
-hodgkin&apos;s sarcoma of lymph nodes of multiple sites (disorder)
-hodgkin&apos;s sarcoma of spleen
-hodgkin&apos;s sarcoma of spleen (disorder)
-hodgkin&apos;s, lymphocytic-histiocytic predominance of spleen (disorder)
-hodgkin&apos;s-like ptld
+hodgkin's disease, lymphocyte predominance
+hodgkin's disease, lymphocytic depletion
+hodgkin's disease, lymphocytic depletion of intra-abdominal lymph nodes
+hodgkin's disease, lymphocytic depletion of intra-abdominal lymph nodes (disorder)
+hodgkin's disease, lymphocytic depletion of intrapelvic lymph nodes
+hodgkin's disease, lymphocytic depletion of intrapelvic lymph nodes (disorder)
+hodgkin's disease, lymphocytic depletion of lymph nodes of axilla and upper limb (disorder)
+hodgkin's disease, lymphocytic depletion of lymph nodes of axilla and/or upper limb (disorder)
+hodgkin's disease, lymphocytic depletion of lymph nodes of head, face and neck (disorder)
+hodgkin's disease, lymphocytic depletion of lymph nodes of head, face and/or neck (disorder)
+hodgkin's disease, lymphocytic depletion of lymph nodes of inguinal region and lower limb (disorder)
+hodgkin's disease, lymphocytic depletion of lymph nodes of inguinal region and/or lower limb (disorder)
+hodgkin's disease, lymphocytic depletion of lymph nodes of multiple sites
+hodgkin's disease, lymphocytic depletion of lymph nodes of multiple sites (disorder)
+hodgkin's disease, lymphocytic depletion of spleen
+hodgkin's disease, lymphocytic depletion of spleen (disorder)
+hodgkin's disease, lymphocytic depletion, involving intra-abdominal lymph nodes
+hodgkin's disease, lymphocytic depletion, involving intrapelvic lymph nodes
+hodgkin's disease, lymphocytic depletion, involving lymph nodes of axilla and upper limb
+hodgkin's disease, lymphocytic depletion, involving lymph nodes of head, face and neck
+hodgkin's disease, lymphocytic depletion, involving lymph nodes of head, face, and neck
+hodgkin's disease, lymphocytic depletion, involving lymph nodes of inguinal region and lower limb
+hodgkin's disease, lymphocytic depletion, involving lymph nodes of multiple sites
+hodgkin's disease, lymphocytic depletion, involving spleen
+hodgkin's disease, lymphocytic-histiocytic predominance involving intra-abdominal lymph nodes
+hodgkin's disease, lymphocytic-histiocytic predominance involving intrapelvic lymph nodes
+hodgkin's disease, lymphocytic-histiocytic predominance involving intrathoracic lymph nodes
+hodgkin's disease, lymphocytic-histiocytic predominance involving lymph nodes of axilla and upper limb
+hodgkin's disease, lymphocytic-histiocytic predominance involving lymph nodes of head, face and neck
+hodgkin's disease, lymphocytic-histiocytic predominance involving lymph nodes of head, face, and neck
+hodgkin's disease, lymphocytic-histiocytic predominance involving lymph nodes of inguinal region and lower limb
+hodgkin's disease, lymphocytic-histiocytic predominance involving lymph nodes of multiple sites
+hodgkin's disease, lymphocytic-histiocytic predominance involving spleen
+hodgkin's disease, lymphocytic-histiocytic predominance of intra-abdominal lymph nodes (disorder)
+hodgkin's disease, lymphocytic-histiocytic predominance of intra-abdominal lymph nodes [dup] (disorder)
+hodgkin's disease, lymphocytic-histiocytic predominance of intrapelvic lymph nodes (disorder)
+hodgkin's disease, lymphocytic-histiocytic predominance of intrapelvic lymph nodes [dup] (disorder)
+hodgkin's disease, lymphocytic-histiocytic predominance of intrathoracic lymph nodes (disorder)
+hodgkin's disease, lymphocytic-histiocytic predominance of intrathoracic lymph nodes [dup] (disorder)
+hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of axilla and upper limb (disorder)
+hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of axilla and/or upper limb (disorder)
+hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of head, face and neck (disorder)
+hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of head, face and/or neck (disorder)
+hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region and lower limb (disorder)
+hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region and/or lower limb (disorder)
+hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of multiple sites
+hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of multiple sites (disorder)
+hodgkin's disease, lymphocytic-histiocytic predominance of spleen (disorder)
+hodgkin's disease, lymphocytic-histiocytic predominance, extranodal and solid organ sites
+hodgkin's disease, mixed cellularity
+hodgkin's disease, mixed cellularity of intra-abdominal lymph nodes
+hodgkin's disease, mixed cellularity of intra-abdominal lymph nodes (disorder)
+hodgkin's disease, mixed cellularity of intrapelvic lymph nodes
+hodgkin's disease, mixed cellularity of intrapelvic lymph nodes (disorder)
+hodgkin's disease, mixed cellularity of intrathoracic lymph nodes
+hodgkin's disease, mixed cellularity of intrathoracic lymph nodes (disorder)
+hodgkin's disease, mixed cellularity of lymph nodes of axilla and upper limb (disorder)
+hodgkin's disease, mixed cellularity of lymph nodes of axilla and/or upper limb (disorder)
+hodgkin's disease, mixed cellularity of lymph nodes of head, face and neck (disorder)
+hodgkin's disease, mixed cellularity of lymph nodes of head, face and/or neck (disorder)
+hodgkin's disease, mixed cellularity of spleen
+hodgkin's disease, mixed cellularity of spleen (disorder)
+hodgkin's disease, mixed cellularity, extranodal and solid organ sites
+hodgkin's disease, mixed cellularity, involving intra-abdominal lymph nodes
+hodgkin's disease, mixed cellularity, involving intrapelvic lymph nodes
+hodgkin's disease, mixed cellularity, involving intrathoracic lymph nodes
+hodgkin's disease, mixed cellularity, involving lymph nodes of axilla and upper limb
+hodgkin's disease, mixed cellularity, involving lymph nodes of head, face and neck
+hodgkin's disease, mixed cellularity, involving lymph nodes of head, face, and neck
+hodgkin's disease, mixed cellularity, involving lymph nodes of multiple sites
+hodgkin's disease, mixed cellularity, involving spleen
+hodgkin's disease, nodular sclerosis of intra-abdominal lymph nodes
+hodgkin's disease, nodular sclerosis of intra-abdominal lymph nodes (disorder)
+hodgkin's disease, nodular sclerosis of intrapelvic lymph nodes
+hodgkin's disease, nodular sclerosis of intrapelvic lymph nodes (disorder)
+hodgkin's disease, nodular sclerosis of intrathoracic lymph nodes
+hodgkin's disease, nodular sclerosis of intrathoracic lymph nodes (disorder)
+hodgkin's disease, nodular sclerosis of lymph nodes of axilla and upper limb (disorder)
+hodgkin's disease, nodular sclerosis of lymph nodes of axilla and/or upper limb (disorder)
+hodgkin's disease, nodular sclerosis of lymph nodes of head, face and neck (disorder)
+hodgkin's disease, nodular sclerosis of lymph nodes of head, face and/or neck (disorder)
+hodgkin's disease, nodular sclerosis of lymph nodes of inguinal region and lower limb (disorder)
+hodgkin's disease, nodular sclerosis of lymph nodes of inguinal region and/or lower limb (disorder)
+hodgkin's disease, nodular sclerosis of lymph nodes of multiple sites
+hodgkin's disease, nodular sclerosis of lymph nodes of multiple sites (disorder)
+hodgkin's disease, nodular sclerosis of spleen
+hodgkin's disease, nodular sclerosis of spleen (disorder)
+hodgkin's disease, nodular sclerosis, extranodal and solid organ sites
+hodgkin's disease, nodular sclerosis, involving intra-abdominal lymph nodes
+hodgkin's disease, nodular sclerosis, involving intrapelvic lymph nodes
+hodgkin's disease, nodular sclerosis, involving intrathoracic lymph nodes
+hodgkin's disease, nodular sclerosis, involving lymph nodes of axilla and upper limb
+hodgkin's disease, nodular sclerosis, involving lymph nodes of head, face and neck
+hodgkin's disease, nodular sclerosis, involving lymph nodes of inguinal region and lower limb
+hodgkin's disease, nodular sclerosis, involving lymph nodes of multiple sites
+hodgkin's disease, nodular sclerosis, involving spleen
+hodgkin's granuloma
+hodgkin's granuloma involving intra-abdominal lymph nodes
+hodgkin's granuloma involving intrapelvic lymph nodes
+hodgkin's granuloma involving intrathoracic lymph nodes
+hodgkin's granuloma involving lymph nodes of axilla and upper limb
+hodgkin's granuloma involving lymph nodes of head, face and neck
+hodgkin's granuloma involving lymph nodes of head, face, and neck
+hodgkin's granuloma involving lymph nodes of inguinal region and lower limb
+hodgkin's granuloma involving lymph nodes of multiple sites
+hodgkin's granuloma involving spleen
+hodgkin's granuloma of intra-abdominal lymph nodes (disorder)
+hodgkin's granuloma of intrapelvic lymph nodes
+hodgkin's granuloma of intrapelvic lymph nodes (disorder)
+hodgkin's granuloma of lymph nodes of axilla and upper limb (disorder)
+hodgkin's granuloma of lymph nodes of axilla and/or upper limb (disorder)
+hodgkin's granuloma of lymph nodes of head, face and neck (disorder)
+hodgkin's granuloma of lymph nodes of head, face and/or neck (disorder)
+hodgkin's granuloma of lymph nodes of inguinal region and lower limb (disorder)
+hodgkin's granuloma of lymph nodes of inguinal region and/or lower limb (disorder)
+hodgkin's granuloma of lymph nodes of multiple sites (disorder)
+hodgkin's granuloma of spleen
+hodgkin's granuloma of spleen (disorder)
+hodgkin's lymphocytic depletion of unspecified site
+hodgkin's lymphoma
+hodgkin's lymphoma, lymphocytic depletion
+hodgkin's lymphoma, lymphocytic depletion, involving intra-abdominal lymph nodes
+hodgkin's lymphoma, lymphocytic depletion, involving intrapelvic lymph nodes
+hodgkin's lymphoma, lymphocytic depletion, involving intrathoracic lymph nodes
+hodgkin's lymphoma, lymphocytic depletion, involving lymph nodes of axilla and upper limb
+hodgkin's lymphoma, lymphocytic depletion, involving lymph nodes of head, face, and neck
+hodgkin's lymphoma, lymphocytic depletion, involving lymph nodes of inguinal region and lower limb
+hodgkin's lymphoma, lymphocytic depletion, involving lymph nodes of multiple sites
+hodgkin's lymphoma, lymphocytic depletion, involving spleen
+hodgkin's lymphoma, lymphocytic-histiocytic predominance
+hodgkin's lymphoma, lymphocytic-histiocytic predominance involving intra-abdominal lymph nodes
+hodgkin's lymphoma, lymphocytic-histiocytic predominance involving intrapelvic lymph nodes
+hodgkin's lymphoma, lymphocytic-histiocytic predominance involving intrathoracic lymph nodes
+hodgkin's lymphoma, lymphocytic-histiocytic predominance involving lymph nodes of axilla and upper limb
+hodgkin's lymphoma, lymphocytic-histiocytic predominance involving lymph nodes of head, face, and neck
+hodgkin's lymphoma, lymphocytic-histiocytic predominance involving lymph nodes of inguinal region and lower limb
+hodgkin's lymphoma, lymphocytic-histiocytic predominance involving lymph nodes of multiple sites
+hodgkin's lymphoma, lymphocytic-histiocytic predominance involving spleen
+hodgkin's lymphoma, lymphocytic-histiocytic predominance, extranodal and solid organ sites
+hodgkin's lymphoma, mixed cellularity
+hodgkin's lymphoma, mixed cellularity, extranodal and solid organ sites
+hodgkin's lymphoma, mixed cellularity, involving intra-abdominal lymph nodes
+hodgkin's lymphoma, mixed cellularity, involving intrapelvic lymph nodes
+hodgkin's lymphoma, mixed cellularity, involving intrathoracic lymph nodes
+hodgkin's lymphoma, mixed cellularity, involving lymph nodes of axilla and upper limb
+hodgkin's lymphoma, mixed cellularity, involving lymph nodes of head, face, and neck
+hodgkin's lymphoma, mixed cellularity, involving lymph nodes of inguinal region and lower limb
+hodgkin's lymphoma, mixed cellularity, involving lymph nodes of multiple sites
+hodgkin's lymphoma, mixed cellularity, involving spleen
+hodgkin's lymphoma, nodular sclerosis
+hodgkin's lymphoma, nodular sclerosis, extranodal and solid organ sites
+hodgkin's lymphoma, nodular sclerosis, involving intra-abdominal lymph nodes
+hodgkin's lymphoma, nodular sclerosis, involving intrapelvic lymph nodes
+hodgkin's lymphoma, nodular sclerosis, involving intrathoracic lymph nodes
+hodgkin's lymphoma, nodular sclerosis, involving lymph nodes of axilla and upper limb
+hodgkin's lymphoma, nodular sclerosis, involving lymph nodes of head, face, and neck
+hodgkin's lymphoma, nodular sclerosis, involving lymph nodes of inguinal region and lower limb
+hodgkin's lymphoma, nodular sclerosis, involving lymph nodes of multiple sites
+hodgkin's lymphoma, nodular sclerosis, involving spleen
+hodgkin's paragranuloma
+hodgkin's paragranuloma involving intra-abdominal lymph nodes
+hodgkin's paragranuloma involving intrapelvic lymph nodes
+hodgkin's paragranuloma involving intrathoracic lymph nodes
+hodgkin's paragranuloma involving lymph nodes of axilla and upper limb
+hodgkin's paragranuloma involving lymph nodes of head, face and neck
+hodgkin's paragranuloma involving lymph nodes of head, face, and neck
+hodgkin's paragranuloma involving lymph nodes of inguinal region and lower limb
+hodgkin's paragranuloma involving lymph nodes of multiple sites
+hodgkin's paragranuloma involving spleen
+hodgkin's paragranuloma involving spleen
+hodgkin's paragranuloma of intra-abdominal lymph nodes (disorder)
+hodgkin's paragranuloma of intrapelvic lymph nodes (disorder)
+hodgkin's paragranuloma of intrathoracic lymph nodes (disorder)
+hodgkin's paragranuloma of lymph nodes of axilla and upper limb (disorder)
+hodgkin's paragranuloma of lymph nodes of axilla and/or upper limb (disorder)
+hodgkin's paragranuloma of lymph nodes of head, face and/or neck (disorder)
+hodgkin's paragranuloma of lymph nodes of head, face, and neck (disorder)
+hodgkin's paragranuloma of lymph nodes of inguinal region and lower limb (disorder)
+hodgkin's paragranuloma of lymph nodes of inguinal region and/or lower limb (disorder)
+hodgkin's paragranuloma of lymph nodes of multiple sites (disorder)
+hodgkin's paragranuloma of spleen
+hodgkin's paragranuloma of spleen (disorder)
+hodgkin's sarcoma
+hodgkin's sarcoma involving intra-abdominal lymph nodes
+hodgkin's sarcoma involving intrapelvic lymph nodes
+hodgkin's sarcoma involving intrathoracic lymph nodes
+hodgkin's sarcoma involving lymph nodes of axilla and upper limb
+hodgkin's sarcoma involving lymph nodes of head, face and neck
+hodgkin's sarcoma involving lymph nodes of head, face, and neck
+hodgkin's sarcoma involving lymph nodes of inguinal region and lower limb
+hodgkin's sarcoma involving lymph nodes of multiple sites
+hodgkin's sarcoma involving spleen
+hodgkin's sarcoma of intra-abdominal lymph nodes
+hodgkin's sarcoma of intra-abdominal lymph nodes (disorder)
+hodgkin's sarcoma of intrathoracic lymph nodes
+hodgkin's sarcoma of intrathoracic lymph nodes (disorder)
+hodgkin's sarcoma of lymph nodes of axilla and upper limb (disorder)
+hodgkin's sarcoma of lymph nodes of axilla and/or upper limb (disorder)
+hodgkin's sarcoma of lymph nodes of head, face and neck (disorder)
+hodgkin's sarcoma of lymph nodes of head, face and/or neck (disorder)
+hodgkin's sarcoma of lymph nodes of inguinal region and lower limb (disorder)
+hodgkin's sarcoma of lymph nodes of inguinal region and/or lower limb (disorder)
+hodgkin's sarcoma of lymph nodes of multiple sites (disorder)
+hodgkin's sarcoma of spleen
+hodgkin's sarcoma of spleen (disorder)
+hodgkin's, lymphocytic-histiocytic predominance of spleen (disorder)
+hodgkin's-like ptld
 hodgkin-like posttransplantation lymphoproliferative disease
 hodgkins lymphoma
 hog cholera (disorder)
@@ -15588,8 +15588,8 @@ hormone secretion by carcinoid tumors
 horn-kolb syndrome
 horned turban snail allergy
 horner syndrome
-horner&apos;s syndrome
-horton&apos;s disease
+horner's syndrome
+horton's disease
 hospital fever
 hourglass stricture or stenosis of stomach
 howell-evans syndrome
@@ -15705,15 +15705,15 @@ humeroradial synostosis
 humerospinal dysostosis
 humidifier lung
 hunter syndrome
-hunter&apos;s glossitis
-hunter&apos;s syndrome
+hunter's glossitis
+hunter's syndrome
 huntington disease
 huntington disease-like 1
 huntington disease-like 2
-huntington&apos;s chorea
-huntington&apos;s disease
-huntington&apos;s disease-like 1
-huntington&apos;s disease-like 2
+huntington's chorea
+huntington's disease
+huntington's disease-like 1
+huntington's disease-like 2
 huntington-like neurodegenerative disorder 1
 hurler disease mps type 1h
 hurler syndrome
@@ -16626,7 +16626,7 @@ impingement syndrome of shoulder region
 impotence
 impulse control disorder
 in situ carcinoma
-inactive meniere&apos;s disease
+inactive meniere's disease
 inad1
 inappropriate adh syndrome
 inborn amino acid transport disorder
@@ -16656,7 +16656,7 @@ inclusion body myopathy with early-onset paget disease of bone with or without f
 inclusion body myopathy with early-onset paget disease of bone with or without frontotemporal dementia 2
 inclusion body myopathy with early-onset paget disease of bone with or without frontotemporal dementia 3
 inclusion body myopathy with paget disease of bone and frontotemporal dementia
-inclusion body myopathy with paget&apos;s disease of bone and frontotemporal dementia
+inclusion body myopathy with paget's disease of bone and frontotemporal dementia
 inclusion body myositis
 inclusion conjunctivitis
 inclusion-cell disease
@@ -17078,7 +17078,7 @@ intestinal infectious disease due to clostridium difficile
 intestinal infectious disease due to enteroinvasive e. coli
 intestinal infectious disease due to escherichia coli
 intestinal infectious disease due to pseudomonas
-intestinal kaposi&apos;s sarcoma
+intestinal kaposi's sarcoma
 intestinal lipodystrophy
 intestinal moniliasis
 intestinal neuroendocrine benign tumor
@@ -17308,7 +17308,7 @@ islet cell tumor
 islet cell tumour
 ism
 isocyanates allergic asthma
-isolated (fiedler&apos;s) myocarditis
+isolated (fiedler's) myocarditis
 isolated anhidrosis with normal sweat glands
 isolated cleft palate
 isolated congenital adermatoglyphia
@@ -17371,22 +17371,22 @@ isthmus cancer
 itgcnu
 itm2b-related cerebral amyloid angiopathy 1
 itm2b-related cerebral amyloid angiopathy 2
-ito&apos;s nevus
+ito's nevus
 itpa-related encephalopathy
 ivemark syndrome
-ivemark&apos;s syndrome
+ivemark's syndrome
 ivic syndrome
-iwanoff&apos;s cysts
+iwanoff's cysts
 jaagziekte (disorder)
 jabs syndrome
 jaccoud syndrome
-jaccoud&apos;s syndrome
+jaccoud's syndrome
 jackson-lawler type pachyonychia congenita
 jackson-weiss syndrome
 jacobs syndrome
 jacobsen distal 11q deletion syndrome
 jacobsen syndrome
-jacquet&apos;s dermatitis
+jacquet's dermatitis
 jadassohn nevus phakomatosis
 jadassohn-lewandowsky syndrome
 jae1
@@ -17399,7 +17399,7 @@ jankovic-rivera syndrome
 jansen disease
 jansen metaphyseal chondrodysplasia
 jansen metaphyseal dysostosis
-jansen&apos;s metaphyseal chondrodysplasia
+jansen's metaphyseal chondrodysplasia
 janus kinase-3 deficiency
 japanese b encephalitis
 japanese encephalitis
@@ -17467,9 +17467,9 @@ jhh
 jmp syndrome
 jnp
 job syndrome
-job&apos;s syndrome
+job's syndrome
 johanson-blizzard syndrome
-johne&apos;s disease (disorder)
+johne's disease (disorder)
 joint ankylosis of the ankle and foot
 joint ankylosis of the ankle and/or foot
 joint ankylosis of the forearm
@@ -17579,7 +17579,7 @@ juvenile nephronophthisis 4
 juvenile neuronal ceroid lipofuscinosis
 juvenile neurosyphilis
 juvenile onset parkinson disease 19a
-juvenile onset parkinson&apos;s disease 19a
+juvenile onset parkinson's disease 19a
 juvenile osteochond-hip/pelvis
 juvenile osteochondritis of the spine
 juvenile osteochondrosis of foot
@@ -17607,7 +17607,7 @@ juvenile type testicular granulosa cell tumour
 juvenile xanthogranuloma
 juvenile-onset multiple carboxylase deficiency
 juvenile-onset parkinson disease
-juvenile-onset parkinson&apos;s disease
+juvenile-onset parkinson's disease
 juvenile-onset vitelliform macular dystrophy
 juxtacortical chondroma
 juxtacortical chondrosarcoma
@@ -17624,46 +17624,46 @@ kagami-ogata syndrome
 kahrizi syndrome
 kala-azar
 kallman syndrome
-kallman&apos;s syndrome
+kallman's syndrome
 kallmann syndrome
-kanner&apos;s syndrome
+kanner's syndrome
 kansl1-related intellectual disability syndrome
 kaolin pneumoconiosis
 kaolinosis
 kaposi sarcoma
-kaposi&apos;s sarcoma
-kaposi&apos;s sarcoma classical type
-kaposi&apos;s sarcoma of anus
-kaposi&apos;s sarcoma of central nervous system
-kaposi&apos;s sarcoma of conjunctiva
-kaposi&apos;s sarcoma of cornea
-kaposi&apos;s sarcoma of esophagus
-kaposi&apos;s sarcoma of gastrointestinal sites
-kaposi&apos;s sarcoma of heart
-kaposi&apos;s sarcoma of lung
-kaposi&apos;s sarcoma of lymph nodes
-kaposi&apos;s sarcoma of palate
-kaposi&apos;s sarcoma of penis
-kaposi&apos;s sarcoma of rectum
-kaposi&apos;s sarcoma of skin
-kaposi&apos;s sarcoma of soft tissue
-kaposi&apos;s sarcoma of soft tissues
-kaposi&apos;s sarcoma of the cns
-kaposi&apos;s sarcoma of the gallbladder
-kaposi&apos;s sarcoma of the prostate
-kaposi&apos;s sarcoma, lung
-kaposi&apos;s sarcoma, skin
-kaposi&apos;s sarcoma-associated herpesvirus (kshv)
+kaposi's sarcoma
+kaposi's sarcoma classical type
+kaposi's sarcoma of anus
+kaposi's sarcoma of central nervous system
+kaposi's sarcoma of conjunctiva
+kaposi's sarcoma of cornea
+kaposi's sarcoma of esophagus
+kaposi's sarcoma of gastrointestinal sites
+kaposi's sarcoma of heart
+kaposi's sarcoma of lung
+kaposi's sarcoma of lymph nodes
+kaposi's sarcoma of palate
+kaposi's sarcoma of penis
+kaposi's sarcoma of rectum
+kaposi's sarcoma of skin
+kaposi's sarcoma of soft tissue
+kaposi's sarcoma of soft tissues
+kaposi's sarcoma of the cns
+kaposi's sarcoma of the gallbladder
+kaposi's sarcoma of the prostate
+kaposi's sarcoma, lung
+kaposi's sarcoma, skin
+kaposi's sarcoma-associated herpesvirus (kshv)
 kartagener syndrome
-kartagener&apos;s syndrome
+kartagener's syndrome
 karyomegalic interstitial nephritis
 karyotype 45, x
-kast&apos;s syndrome
+kast's syndrome
 katayama fever
 kaufman mckusick syndrome
 kaufman oculocerebrofacial syndrome
 kawasaki disease
-kawasaki&apos;s disease
+kawasaki's disease
 kbg syndrome
 kcnq2-related epileptic encephalopathy
 kcnq2-related neonatal epileptic encephalopathy
@@ -17675,7 +17675,7 @@ keipert syndrome
 keller syndrome
 kelley-seegmiller syndrome
 kennedy disease
-kennedy&apos;s disease
+kennedy's disease
 kenny-caffey syndrome
 kenny-caffey syndrome type 1
 kenny-caffey syndrome type 2
@@ -17749,17 +17749,17 @@ kidney rhabdoid tumor
 kidney sarcoma
 kidney stones
 kimura disease
-kimura&apos;s disease
+kimura's disease
 kin
 kindler syndrome
-king&apos;s evil
+king's evil
 kinidin allergy
 kissing spine
 kjellin syndrome
 klatskin tumor
 klatskin tumour
-klatskin&apos;s tumor
-klatskin&apos;s tumour
+klatskin's tumor
+klatskin's tumour
 klebsiella infection
 klebsiella pneumonia
 kleefstra syndrome
@@ -17770,7 +17770,7 @@ klein-waardenburg syndrome
 kleine-levin syndrome
 kleptomania
 klinefelter syndrome
-klinefelter&apos;s syndrome
+klinefelter's syndrome
 klippel-feil and turner syndrome
 klippel-feil deformity, deafness and facial asymmetry
 klippel-feil syndrome
@@ -17789,8 +17789,8 @@ kniest dysplasia
 knuckle pads, leukonychia, and sensorineural deafness
 koberling-dunnigan syndrome
 kohler disease
-kohler&apos;s disease
-kohlschutter&apos;s syndrome
+kohler's disease
+kohlschutter's syndrome
 kohlschutter-tonz syndrome
 kok disease
 konigsmark syndrome
@@ -17799,11 +17799,11 @@ koolen-de vries syndrome
 koolen-de vries syndrome
 korean hemorrhagic fever
 korsakoff syndrome
-korsakoff&apos;s psychosis
-korsakoff&apos;s psychosis or syndrome
-korsakoff&apos;s syndrome
+korsakoff's psychosis
+korsakoff's psychosis or syndrome
+korsakoff's syndrome
 korsakov psychosis
-korsakov&apos;s psychosis
+korsakov's psychosis
 kos
 kos
 kostmann disease
@@ -17811,12 +17811,12 @@ kostmann syndrome
 kozlowski celermajer tink syndrome
 kpts
 krabbe disease
-krabbe&apos;s disease
-krabbe&apos;s leukodystrophy
+krabbe's disease
+krabbe's leukodystrophy
 kraurosis of penis
 krause-kivlin syndrome
 krebs 2 carcinoma
-krishaber&apos;s disease
+krishaber's disease
 krukenberg carcinoma
 krukenberg neoplasm
 krukenberg tumor
@@ -17825,8 +17825,8 @@ kufor-rakeb syndrome
 kugelberg-welander disease
 kuhnt-junius degeneration
 kummell disease
-kummell&apos;s disease
-kummell&apos;s spondylitis
+kummell's disease
+kummell's spondylitis
 kunjin encephalitis
 kuru
 kuru encephalopathy
@@ -17894,11 +17894,11 @@ lad1 variant
 lad1v
 lad3
 ladd syndrome
-laennec&apos;s cirrhosis
-laennec&apos;s cirrhosis, alcoholic
+laennec's cirrhosis
+laennec's cirrhosis, alcoholic
 lafora disease
 lafora progressive myoclonic epilepsy
-lafora&apos;s disease
+lafora's disease
 lagophthalmic keratitis
 lagophthalmos
 lah1
@@ -17919,7 +17919,7 @@ landau-kleffner syndrome
 landouzy dejerine muscular dystrophy
 landouzy-dejerine muscular dystrophy
 langer-giedion syndrome
-langerhan&apos;s cell histiocytosis
+langerhan's cell histiocytosis
 langerhans cell granulomatosis
 langerhans cell sarcoma
 langerhans-cell histiocytosis
@@ -17988,7 +17988,7 @@ lassa fever
 late congenital syphilis
 late neurosyphilis
 late onset parkinson disease
-late onset parkinson&apos;s disease
+late onset parkinson's disease
 late pregnancy
 late spondyloepiphyseal dysplasia
 late syphilis
@@ -18032,7 +18032,7 @@ lateral wall of bladder
 laterality sequence
 latex allergy
 lattice corneal dystrophy
-launois-bensaude&apos;s lipomatosis
+launois-bensaude's lipomatosis
 laurence-moon syndrome
 laurence-moon-biedl syndrome
 laurin-sandrow syndrome
@@ -18096,15 +18096,15 @@ leber hereditary optic neuropathy with demyelinating disease of cns
 leber optic atrophy and dystonia
 leber optic atrophy with dystonia
 leber plus disease
-leber&apos;s amaurosis
-leber&apos;s congenital amaurosis
-leber&apos;s disease
-leber&apos;s hereditary optic neuropathy
-leber&apos;s optic atrophy
+leber's amaurosis
+leber's congenital amaurosis
+leber's disease
+leber's hereditary optic neuropathy
+leber's optic atrophy
 lecd
 lecithin acyltransferase deficiency
 lecithin:cholesterol acyltransferase deficiency
-ledderhose&apos;s disease
+ledderhose's disease
 leech infestation
 leeches
 left bundle branch block
@@ -18119,8 +18119,8 @@ legionella
 legionella infection
 legionella pneumonia
 legionellosis
-legionnaire&apos;s disease
-legionnaires&apos; disease
+legionnaire's disease
+legionnaires' disease
 legume allergy
 lehman syndrome
 leigh disease
@@ -18180,7 +18180,7 @@ leiomyosarcoma recurrent
 leiomyosarcomas
 leishmaniasis
 lemierre syndrome
-lemierre&apos;s syndrome
+lemierre's syndrome
 lems
 lennox syndrome
 lennox-gastaut syndrome
@@ -18393,7 +18393,7 @@ lichen ruber planus
 lichen, ruber planus
 lichtenstein-knorr syndrome
 liddle syndrome
-liddle&apos;s syndrome
+liddle's syndrome
 lidocaine allergy
 lidoderm allergy
 lig4 syndrome
@@ -18540,7 +18540,7 @@ listeria meningoencephalitis
 listeria septicaemia
 listeriosis
 litopenaeus vannamei allergy
-little&apos;s disease
+little's disease
 littles disease
 littre gland carcinoma
 livedoid vasculitis
@@ -18569,7 +18569,7 @@ liver lymphoma
 liver metastasis
 liver rhabdomyosarcoma
 liver sarcoma
-lloyd&apos;s syndrome
+lloyd's syndrome
 lm - lactose malabsorption
 lmna-related congenital muscular dystrophy
 lmph1
@@ -18583,7 +18583,7 @@ lobar -pneumococcal -pneumonia
 lobar atrophy of brain
 lobar pneumonia (disorder)
 lobomycosis
-lobstein&apos;s syndrome
+lobstein's syndrome
 lobster-claw deformity
 lobular carcinoma
 lobular carcinoma in situ
@@ -18601,14 +18601,14 @@ localised osteogenic sarcoma
 localised osteosarcoma
 localised scleroderma
 localized anterior staphyloma
-localized askin&apos;s tumor
+localized askin's tumor
 localized benign fibrous mesothelioma
 localized chondrosarcoma
 localized erosion
 localized ewing sarcoma
-localized ewing&apos;s sarcoma
-localized ewing&apos;s sarcoma/peripheral primitive neuroectodermal tumor
-localized ewing&apos;s tumor
+localized ewing's sarcoma
+localized ewing's sarcoma/peripheral primitive neuroectodermal tumor
+localized ewing's tumor
 localized extrahepatic bile duct cancer
 localized extrahepatic bile duct carcinoma
 localized giant cell tumor of tenosynovium
@@ -18631,7 +18631,7 @@ localized resectable adult primary liver cancer
 localized resectable neuroblastoma
 localized salmonella infectious disease
 localized scleroderma
-localized skeletal ewing&apos;s sarcoma
+localized skeletal ewing's sarcoma
 localized unresectable adult liver carcinoma
 localized unresectable adult primary hepatoma
 localized unresectable adult primary liver cancer
@@ -18642,7 +18642,7 @@ locked-in state
 locked-in syndrome
 loeffler endocarditis
 loeffler syndrome
-loeffler&apos;s pneumonia
+loeffler's pneumonia
 loeys-dietz syndrome
 loeys-dietz syndrome 1
 loeys-dietz syndrome 2
@@ -18651,7 +18651,7 @@ loeys-dietz syndrome 4
 loeys-dietz syndrome 5
 loeys-dietz syndrome type 1c
 loeys-dietz syndrome with osteoarthritis
-loffler&apos;s syndrome
+loffler's syndrome
 loiasis
 loken senior syndrome
 long bone adamantinoma
@@ -18683,7 +18683,7 @@ lorain - levi dwarfism
 lord
 loss of labyrinthine reactivity, bilateral
 loss of labyrinthine reactivity, unilateral
-lou gehrig&apos;s disease
+lou gehrig's disease
 louis bar syndrome
 louisiana pneumonia
 louping ill
@@ -18740,7 +18740,7 @@ lsdmca3
 ltbl
 lubs x-linked mental retardation syndrome
 ludwig angina
-ludwig&apos;s angina
+ludwig's angina
 lujo hemorrhagic fever
 lumbar disc degeneration
 lumbar plexus neoplasm
@@ -18827,8 +18827,8 @@ lupus vulgaris
 lupus vulgaris (disorder)
 luteinizing hormone-releasing hormone deficiency with ataxia
 lutembacher syndrome
-lutembacher&apos;s anomaly
-lutembacher&apos;s syndrome
+lutembacher's anomaly
+lutembacher's syndrome
 luteoma
 luteoma of pregnancy
 luxation of eye
@@ -18843,12 +18843,12 @@ lymph node benign neoplasm
 lymph node cancer
 lymph node carcinoma
 lymph node disease
-lymph node kaposi&apos;s sarcoma
+lymph node kaposi's sarcoma
 lymph node neoplasm
 lymph node palisaded myofibroblastoma
 lymph node tuberculosis
 lymphadenitis
-lymphadenopathic kaposi&apos;s sarcoma
+lymphadenopathic kaposi's sarcoma
 lymphadenopathic mastocytosis with eosinophilia
 lymphangiectases (disorder)
 lymphangiectasis
@@ -18890,7 +18890,7 @@ lymphoblastic lymphoma
 lymphocele
 lymphocutaneous sporotrichosis
 lymphocyte function-associated antigen 1 immunodeficiency
-lymphocyte rich hodgkin&apos;s disease
+lymphocyte rich hodgkin's disease
 lymphocyte-depleted classical hodgkin lymphoma
 lymphocyte-predominant thymoma
 lymphocytic choriomeningitis
@@ -19039,7 +19039,7 @@ maculatum infection
 mad deficiency
 mad itch
 madd
-madelung&apos;s neck
+madelung's neck
 madras eye
 madura foot
 madura foot due to actinomadura
@@ -19062,7 +19062,7 @@ maine microphthalmos
 majewski osteodysplastic primordial dwarfism type ii
 majewski syndrome
 majewski syndrome
-majocchi&apos;s granuloma
+majocchi's granuloma
 major affective disorder 1
 major affective disorder 2
 major depressive disorder
@@ -19295,7 +19295,7 @@ malignant lymphangioendothelioma
 malignant lymphatic vessel tumor
 malignant lymphoma of breast
 malignant lymphoma of testis
-malignant lymphoma, burkitt&apos;s type
+malignant lymphoma, burkitt's type
 malignant lymphoma, follicle centre
 malignant lymphoma, nodular nos (morphologic abnormality)
 malignant mammary phyllodes tumor
@@ -19485,7 +19485,7 @@ malignant neoplasm of male genital organ
 malignant neoplasm of male genital organ or tract
 malignant neoplasm of male genital organs
 malignant neoplasm of mandible
-malignant neoplasm of meckel&apos;s diverticulum
+malignant neoplasm of meckel's diverticulum
 malignant neoplasm of meninges
 malignant neoplasm of meninges nos
 malignant neoplasm of meninges, unspecified
@@ -19607,7 +19607,7 @@ malignant neoplasm of vagina
 malignant neoplasm of vermilion border of lip
 malignant neoplasm of vestibule of mouth
 malignant neoplasm of vulva
-malignant neoplasm of waldeyer&apos;s ring
+malignant neoplasm of waldeyer's ring
 malignant neuroglial tumor
 malignant non-epithelial hepatic and intrahepatic bile duct neoplasm
 malignant non-seminomatous germ cell tumor of testis
@@ -19876,7 +19876,7 @@ malignant tumor of vallecula
 malignant tumor of vault of bladder
 malignant tumor of vestibule of mouth
 malignant tumor of vulva
-malignant tumor of waldeyer&apos;s ring
+malignant tumor of waldeyer's ring
 malignant tumor, fusiform cell type (morphologic abnormality)
 malignant tumor, giant cell type
 malignant tumour of acoustic vestibular nerve
@@ -19935,9 +19935,9 @@ malouf syndrome
 malposition and malpresentation of fetus
 malt lymphoma
 malt worker lung
-malt worker&apos;s lung
-malt workers&apos; lung
-malt-workers&apos; lung
+malt worker's lung
+malt workers' lung
+malt-workers' lung
 malta fever
 maltese fever
 malus domestica fruit allergy
@@ -19952,7 +19952,7 @@ mammary duct ectasia (disorder)
 mammary duct ectasia [ambiguous]
 mammary neoplasm
 mammary paget disease
-mammary paget&apos;s disease
+mammary paget's disease
 mammary signet ring cell carcinoma
 mammary tumor
 manchurian typhus
@@ -19984,13 +19984,13 @@ mansonella streptocerca infectious disease
 mansonelliasis
 mantle cell lymphoma
 maple bark disease
-maple bark stripper&apos;s disease
-maple bark stripper&apos;s lung
-maple bark strippers&apos; lung
-maple bark-strippers&apos; lung
+maple bark stripper's disease
+maple bark stripper's lung
+maple bark strippers' lung
+maple bark-strippers' lung
 maple syrup urine disease
-maple-bark strippers&apos; lung
-marable&apos;s syndrome
+maple-bark strippers' lung
+marable's syndrome
 marantic endocarditis
 marasmus
 marble bone
@@ -20004,7 +20004,7 @@ marden-walker-like syndrome
 marden-walker-like syndrome without psychmotor retardation
 marfan syndrome
 marfan syndrome type ii
-marfan&apos;s syndrome
+marfan's syndrome
 margarita type of ectodermal dysplasia
 marginal corneal ulcer
 marginal zone b-cell lymphoma
@@ -20156,7 +20156,7 @@ mc5dn3
 mc5dn4
 mc5dn6
 mcahs4
-mcardle&apos;s disease
+mcardle's disease
 mccabe disease
 mccchcm
 mccune albright syndrome
@@ -20272,9 +20272,9 @@ meckel syndrome 5
 meckel syndrome 6
 meckel syndrome 7
 meckel syndrome 8
-meckel&apos;s diverticulitis
-meckel&apos;s diverticulum
-meckel&apos;s diverticulum cancer
+meckel's diverticulitis
+meckel's diverticulum
+meckel's diverticulum cancer
 meckel-gruber syndrome
 meckel-gruber syndrome, type 1
 meckel-gruber syndrome, type 2
@@ -20470,7 +20470,7 @@ melanotic schwannoma
 melas syndrome
 meleda disease
 melioidosis
-melkersson&apos;s syndrome
+melkersson's syndrome
 melkersson-rosenthal syndrome
 melnick-fraser syndrome
 melnick-needles osteodysplasty
@@ -20497,11 +20497,11 @@ mendelian susceptibility to mycobacterial diseases due to partial interferon reg
 mendelian susceptibility to mycobacterial diseases due to partial irf8 deficiency
 mendelian susceptibility to mycobacterial diseases due to partial signal transducer and activator of transcription 1 deficiency
 mendelian susceptibility to mycobacterial diseases due to partial stat1 deficiency
-mendelson&apos;s syndrome
+mendelson's syndrome
 menetrier disease
 meniere disease
-meniere&apos;s disease
-meniere&apos;s disease in remission
+meniere's disease
+meniere's disease in remission
 meningeal capillary angiomatosis
 meningeal carcinomatosis
 meningeal hemangiopericytoma
@@ -20714,7 +20714,7 @@ metabolic syndrome x
 metacarpal 4-5 fusion
 metachondromatosis
 metachromatic leukodystrophy
-metachronous kidney wilms&apos; tumor
+metachronous kidney wilms' tumor
 metachronous osteosarcoma of the bone
 metachronous wilms tumor of the kidney
 metagonimiasis
@@ -20778,12 +20778,12 @@ metastatic endometrial carcinoma
 metastatic endometrioid carcinoma
 metastatic epithelioid cell sarcoma
 metastatic epithelioid sarcoma
-metastatic ewing&apos;s sarcoma
-metastatic ewing&apos;s sarcoma/peripheral primitive neuroectodermal tumor
-metastatic extra-osseous ewing&apos;s sarcoma
+metastatic ewing's sarcoma
+metastatic ewing's sarcoma/peripheral primitive neuroectodermal tumor
+metastatic extra-osseous ewing's sarcoma
 metastatic extraosseous chondrosarcoma
 metastatic extraskeletal chondrosarcoma
-metastatic extraskeletal ewing&apos;s sarcoma
+metastatic extraskeletal ewing's sarcoma
 metastatic extraskeletal osteogenic sarcoma
 metastatic extraskeletal osteosarcoma
 metastatic fibrosarcoma
@@ -21042,7 +21042,7 @@ migraine with aura
 migraine with or without aura
 migraine without aura
 mikulicz disease
-mikulicz&apos;s disease
+mikulicz's disease
 mild autosomal recessive form osteopetrosis
 mild cognitive impairment
 mild degree recurrent episode manic disorder
@@ -21066,8 +21066,8 @@ miliary tuberculosis
 milk allergic reaction
 milk allergy
 milker nodule
-milker&apos;s nodule
-milkers&apos; node
+milker's nodule
+milkers' node
 milkpox
 miller fisher syndrome
 miller syndrome
@@ -21076,9 +21076,9 @@ miller-dieker syndrome
 miller-fisher variant of guillain-barre syndrome
 miller-mckusick-malvaux syndrome
 milroy disease
-miner&apos;s elbow
+miner's elbow
 mineral metabolism disease
-miners&apos; elbow
+miners' elbow
 minimal change disease
 minimal change glomerulonephritis
 minimal gingival recession
@@ -21200,13 +21200,13 @@ mixed cell melanoma of choroid
 mixed cell type adenoma of parathyroid
 mixed cell type adenoma of the parathyroid gland
 mixed cell type cancer
-mixed cell type kidney wilms&apos; tumor
-mixed cell type kidney wilms&apos; tumour
+mixed cell type kidney wilms' tumor
+mixed cell type kidney wilms' tumour
 mixed cell type renal wilms tumor
 mixed cell type renal wilms tumour
 mixed cell type uveal melanoma
 mixed cell uveal melanoma
-mixed cellularity hodgkin&apos;s disease stage iii
+mixed cellularity hodgkin's disease stage iii
 mixed cerebral palsy
 mixed childhood rhabdomyosarcoma
 mixed choriocarcinoma and embryonal carcinoma of testis
@@ -21332,8 +21332,8 @@ mmd3
 mmep syndrome
 mmmt
 mmr deficiency
-mnire&apos;s disease in remission
-mnire&apos;s vertigo
+mnire's disease in remission
+mnire's vertigo
 mns
 moba
 mobitz (type) ii atrioventricular block
@@ -21384,7 +21384,7 @@ molar pregnancy
 molar pregnancy with choriocarcinoma
 mole nos
 mole of skin
-mollaret&apos;s meningitis
+mollaret's meningitis
 mollusc allergy
 molluscum contagiosum
 molybdenum cofactor deficiency
@@ -21471,7 +21471,7 @@ monosomy xp21
 monstrocellular sarcoma
 mood disorder
 mooren ulcer
-mooren&apos;s ulcer
+mooren's ulcer
 morbid obesity
 morbid obesity
 morbilli
@@ -21492,7 +21492,7 @@ mosaic variegated aneuploidy syndrome
 mosaic variegated aneuploidy syndrome 1
 mosaic variegated aneuploidy syndrome 2
 mosaic variegated aneuploidy syndrome 3
-moschcowitz&apos;s syndrome
+moschcowitz's syndrome
 moscow typhus
 mosquito-borne haemorrhagic fever
 mosquito-borne hemorrhagic fever
@@ -22059,7 +22059,7 @@ muscular dystrophy-dystroglycanopathy type b6
 musculoskeletal system benign neoplasm
 musculoskeletal system cancer
 musculoskeletal system disease
-mushroom workers&apos; lung
+mushroom workers' lung
 mutilating keratoderma of vohwinkel
 mutilating keratoderma plus deafness
 mutilating palmoplantar hyperkeratosis with periorificial keratotic plaques
@@ -22088,7 +22088,7 @@ mycobacterium infectious disease
 mycoplasma genitalium urethritis
 mycoplasma hyopneumoniae pneumonia
 mycoplasma infection (disorder)
-mycoplasma infection with eaton&apos;s agent
+mycoplasma infection with eaton's agent
 mycoplasma infection, unspecified (disorder)
 mycoplasma pneumonia
 mycoplasma pneumoniae pneumonia
@@ -22265,8 +22265,8 @@ myxomatous pattern testicular yolk sac tumor
 myxopapillary ependymoma
 myxosarcoma
 n syndrome
-n,n&apos;-diethylthiourea allergic contact dermatitis
-n,n&apos;-diphenylthiourea allergic contact dermatitis
+n,n'-diethylthiourea allergic contact dermatitis
+n,n'-diphenylthiourea allergic contact dermatitis
 n-acetyl-alpha-glucosaminidase deficiency
 n-acetylglucosamine-6-sulfatase deficiency
 n-alpha-acetyltransferase
@@ -22392,7 +22392,7 @@ negative-sense ssrna virus infection
 negative-sense ssrna virus infectious disease
 neill-dingwall syndrome
 nelson syndrome
-nelson&apos;s syndrome
+nelson's syndrome
 nem1
 nem10
 nem11
@@ -22552,7 +22552,7 @@ neoplasm of pineal gland
 neoplasm of pituitary gland
 neoplasm of placenta
 neoplasm of pleura
-neoplasm of rathke&apos;s pouch
+neoplasm of rathke's pouch
 neoplasm of rectosigmoid junction
 neoplasm of rectum
 neoplasm of renal pelvis
@@ -22926,10 +22926,10 @@ nevus, nos
 new world cutaneous leishmaniasis
 newborn respiratory distress syndrome
 newcastle disease
-newcastle&apos;s disease
+newcastle's disease
 newfoundland cone-rod dystrophy
 nezelof syndrome
-nezelof&apos;s syndrome
+nezelof's syndrome
 nf1
 nf1 microdeletion syndrome
 nf2
@@ -22957,7 +22957,7 @@ niemann-pick disease type b
 niemann-pick disease type c1
 niemann-pick disease type c2
 night blindness
-nightcliff gardener&apos;s disease
+nightcliff gardener's disease
 niikawa-kuroki syndrome
 nijmegen breakage syndrome
 ninth cranial nerve disease
@@ -23023,7 +23023,7 @@ nodular melanoma
 nodular non-suppurative febrile panniculitis
 nodular nonsuppurative panniculitis
 nodular prostate
-nodular sclerosis hodgkin&apos;s lymphoma stage iii
+nodular sclerosis hodgkin's lymphoma stage iii
 nodular tenosynovitis
 nodule of the thyroid gland
 nodule-thyroid, non tox
@@ -23068,7 +23068,7 @@ non-meningothelial mesenchymal tumor
 non-meningothelial mesenchymal tumour
 non-metastatic alveolar soft part sarcoma
 non-metastatic epithelioid cell sarcoma
-non-metastatic extraskeletal ewing&apos;s sarcoma
+non-metastatic extraskeletal ewing's sarcoma
 non-metastatic extraskeletal osteogenic sarcoma
 non-metastatic fibrosarcoma
 non-metastatic leiomyosarcoma
@@ -23173,8 +23173,8 @@ non-toxic uninodular goitre
 non-traumatic muscle tear
 non-traumatic tendon rupture
 nonaka myopathy
-nonanaplastic renal wilm&apos;s tumor
-nonanaplastic renal wilm&apos;s tumour
+nonanaplastic renal wilm's tumor
+nonanaplastic renal wilm's tumour
 nonanaplastic renal wilms tumor
 nonarteritic anterior ischaemic optic neuropathy
 nonarteritic anterior ischemic optic neuropathy
@@ -23193,7 +23193,7 @@ noninvasive malignant thymoma
 nonketotic hyperglycinemia
 nonmetastatic childhood soft tissue sarcoma
 nonmetastatic epithelioid sarcoma
-nonmetastatic extra-osseous ewing&apos;s sarcoma
+nonmetastatic extra-osseous ewing's sarcoma
 nonmetastatic extraskeletal osteosarcoma
 nonmetastatic gestational trophoblastic tumor
 nonmetastatic synovial sarcoma
@@ -23437,7 +23437,7 @@ nys5
 nys6
 nys7
 nystagmus associated with disorder of the vestibular system
-o&apos;nyong&apos;nyong fever
+o'nyong'nyong fever
 oas
 oat
 oat cell carcinoma
@@ -23666,7 +23666,7 @@ olivopontocerebellar atrophy
 olivopontocerebellar atrophy v
 ollier disease
 ollier disease
-ollier&apos;s disease
+ollier's disease
 olms
 olmsted syndrome
 omani type
@@ -23863,7 +23863,7 @@ organic acidemia
 organic aciduria
 organic anxiety disorder
 organic mental disorder
-organic writer&apos;s cramp
+organic writer's cramp
 organoid nevus phakomatosis
 organoid nevus syndrome
 orhtostatic intolerance
@@ -23932,7 +23932,7 @@ orthostatic intolerance due to net deficiency
 orthostatic proteinuria
 osebold-remondini syndrome
 osgood-schlatter disease
-osgood-schlatter&apos;s disease
+osgood-schlatter's disease
 osler hemorrhagic telangiectasia syndrome
 osler-vaquez syndrome
 osler-weber-rendu disease
@@ -23942,7 +23942,7 @@ osmotic diarrhea
 osseous epithelioid hemangioma
 osseous hemangioma
 osseous hemangiosarcoma
-osseous paget&apos;s disease
+osseous paget's disease
 osseous peripheral neuroepithelioma
 osseous tumor
 osseous vascular tumor
@@ -24056,8 +24056,8 @@ osteoporosis-pseudoglioma syndrome
 osteopsathyrosis
 osteosarcoma
 osteosarcoma arising in bone paget disease
-osteosarcoma arising in bone paget&apos;s disease
-osteosarcoma arising in osseous paget&apos;s disease
+osteosarcoma arising in bone paget's disease
+osteosarcoma arising in osseous paget's disease
 osteosarcoma of bone
 osteosarcoma of liver
 osteosarcoma of mediastinum
@@ -24236,8 +24236,8 @@ ovarian surface epithelial-stromal tumor
 ovarian surface papilloma
 ovarian transitional cell cancer
 ovarian transitional cell neoplasm
-ovarian wilms&apos; cancer
-ovarian wilms&apos; tumor
+ovarian wilms' cancer
+ovarian wilms' tumor
 ovarian yolk sac tumor
 ovarian yolk sac tumour
 ovary adenocarcinoma
@@ -24317,29 +24317,29 @@ paedophilia
 paganini-miozzo syndrome
 paget cell neoplasm
 paget disease of bone
-paget&apos;s bone disease
-paget&apos;s disease
-paget&apos;s disease and intraductal carcinoma of breast
-paget&apos;s disease and intraductal carcinoma of breast
-paget&apos;s disease and intraductal carcinoma of breast (morphologic abnormality)
-paget&apos;s disease and invasive ductal carcinoma of breast
-paget&apos;s disease of anal canal
-paget&apos;s disease of anus
-paget&apos;s disease of bone
-paget&apos;s disease of breast with infiltrating ductal carcinoma
-paget&apos;s disease of penis
-paget&apos;s disease of scrotum
-paget&apos;s disease of skin
-paget&apos;s disease of the anal canal
-paget&apos;s disease of the anus
-paget&apos;s disease of the breast
-paget&apos;s disease of the breast with intraductal carcinoma
-paget&apos;s disease of vulva
-paget&apos;s disease, extramammary, excluding paget&apos;s disease of bone (morphologic abnormality)
+paget's bone disease
+paget's disease
+paget's disease and intraductal carcinoma of breast
+paget's disease and intraductal carcinoma of breast
+paget's disease and intraductal carcinoma of breast (morphologic abnormality)
+paget's disease and invasive ductal carcinoma of breast
+paget's disease of anal canal
+paget's disease of anus
+paget's disease of bone
+paget's disease of breast with infiltrating ductal carcinoma
+paget's disease of penis
+paget's disease of scrotum
+paget's disease of skin
+paget's disease of the anal canal
+paget's disease of the anus
+paget's disease of the breast
+paget's disease of the breast with intraductal carcinoma
+paget's disease of vulva
+paget's disease, extramammary, excluding paget's disease of bone (morphologic abnormality)
 paid syndrome
 pain agnosia
 pain disorder
-palate kaposi&apos;s sarcoma
+palate kaposi's sarcoma
 palatoschisis
 pale (clear cell) acanthoma
 palindromic rheumatism
@@ -24373,9 +24373,9 @@ palmoplantar pustulosis
 palsy of conjugate gaze
 pancoast tumor
 pancoast tumour
-pancoast&apos;s syndrome
-pancoast&apos;s tumor
-pancoast&apos;s tumour
+pancoast's syndrome
+pancoast's tumor
+pancoast's tumour
 pancreas adenocarcinoma
 pancreas disease
 pancreas lymphoma
@@ -24501,7 +24501,7 @@ papillary necrosis
 papillary neoplasm of renal pelvis
 papillary pattern testicular yolk sac tumor
 papillary pseudomucinous cystadenoma
-papillary rathke&apos;s pouch tumor
+papillary rathke's pouch tumor
 papillary renal cell carcinoma
 papillary serous adenocarcinoma
 papillary serous carcinoma
@@ -24658,22 +24658,22 @@ parkinson disease
 parkinson disease 17
 parkinson disease 21
 parkinson disease 3
-parkinson&apos;s disease
-parkinson&apos;s disease 1
-parkinson&apos;s disease 14
-parkinson&apos;s disease 15
-parkinson&apos;s disease 17
-parkinson&apos;s disease 19a
-parkinson&apos;s disease 2
-parkinson&apos;s disease 20
-parkinson&apos;s disease 21
-parkinson&apos;s disease 22
-parkinson&apos;s disease 23
-parkinson&apos;s disease 3
-parkinson&apos;s disease 4
-parkinson&apos;s disease 6
-parkinson&apos;s disease 7
-parkinson&apos;s disease 8
+parkinson's disease
+parkinson's disease 1
+parkinson's disease 14
+parkinson's disease 15
+parkinson's disease 17
+parkinson's disease 19a
+parkinson's disease 2
+parkinson's disease 20
+parkinson's disease 21
+parkinson's disease 22
+parkinson's disease 23
+parkinson's disease 3
+parkinson's disease 4
+parkinson's disease 6
+parkinson's disease 7
+parkinson's disease 8
 parkinsonian-pyramidal syndrome
 parkinsonism
 parkinsonism with alveolar hypoventilation and mental depression
@@ -24748,7 +24748,7 @@ pasteurella pseudotuberculosis infection
 pasteurellosis
 pasture fever
 patau syndrome
-patau&apos;s syndrome
+patau's syndrome
 patella aplasia, coxa vara, and tarsal synostosis
 patellar tendinitis
 patellar tendonitis
@@ -24813,7 +24813,7 @@ pediatric cns embryonal cell carcinoma
 pediatric cns pnet
 pediatric cns teratoma
 pediatric craniopharyngioma
-pediatric crohn&apos;s disease
+pediatric crohn's disease
 pediatric desmoplastic small round cell tumor
 pediatric embryonal carcinoma of ovary
 pediatric embryonal rhabdomyosarcoma
@@ -24860,7 +24860,7 @@ pediatric ovarian germ cell neoplasm
 pediatric ovarian germ cell tumor
 pediatric ovarian yolk sac tumor
 pediatric pilocytic astrocytoma
-pediatric rathke&apos;s pouch tumor
+pediatric rathke's pouch tumor
 pediatric renal angiomyolipoma
 pediatric renal cell carcinoma
 pediatric renal tumor
@@ -24954,11 +24954,11 @@ penis basaloid carcinoma
 penis carcinoma
 penis carcinoma in situ
 penis herpetic infectious disease
-penis kaposi&apos;s sarcoma
+penis kaposi's sarcoma
 penis mixed squamous cell carcinoma
 penis non-invasive verrucous carcinoma
 penis paget disease
-penis paget&apos;s disease
+penis paget's disease
 penis papillary carcinoma
 penis sarcoma
 penis squamous cell carcinoma
@@ -25000,7 +25000,7 @@ periampullary adenoma
 perianal hematoma
 perianal skin carcinoma
 perianal skin paget disease
-perianal skin paget&apos;s disease
+perianal skin paget's disease
 perianal skin squamous cell carcinoma
 periapical abscess
 periapical granuloma
@@ -25201,7 +25201,7 @@ persistent sore throat
 persistent tuberculum impar
 persistent vitelline duct
 personality disorder
-perthe&apos;s disease
+perthe's disease
 perthes disease
 pertussis
 pertussis pneumonia
@@ -25233,11 +25233,11 @@ peutz-jeghers small bowel hamartoma
 peutz-jeghers syndrome
 pexpd
 peyronie disease
-peyronie&apos;s disease
-peyronie&apos;s fibromatosis
+peyronie's disease
+peyronie's fibromatosis
 pfe
 pfeiffer syndrome
-pfeiffer&apos;s disease
+pfeiffer's disease
 pfhb
 pfhb1a
 pfhb1b
@@ -25361,7 +25361,7 @@ phytosterolemia
 pica disease
 pick disease
 pick disease of brain
-pick&apos;s disease
+pick's disease
 picornaviridae infectious disease
 pid
 piebald trait
@@ -25372,7 +25372,7 @@ pierre robin malformation
 pierre robin sequence-congenital heart defect-talipes syndrome
 pierre robin syndrome-congenital heart defect-talipes syndrome
 pierson syndrome
-pigeon breeder&apos;s lung
+pigeon breeder's lung
 pigl-cdg
 pigment dispersion syndrome
 pigment dispersion syndrome of iris
@@ -25434,7 +25434,7 @@ pinguecula
 pink eye
 pinkeye
 pinkus tumor
-pinkus&apos; disease
+pinkus' disease
 pinna disease
 pinta disease
 pinworm infection
@@ -25486,7 +25486,7 @@ pituitary resistance to thyroid hormone
 pituitary stalk meningioma
 pituitary tumors, hormone producing
 pituitary-dependent cushing disease
-pituitary-dependent cushing&apos;s disease
+pituitary-dependent cushing's disease
 pityriasis capitis
 pityriasis circinata
 pityriasis linguae
@@ -25632,7 +25632,7 @@ plsdt
 plteid
 plum allergy
 plummer disease
-plummer&apos;s disease
+plummer's disease
 pmc
 pmcd
 pmd
@@ -25680,7 +25680,7 @@ pneumonia
 pneumonia due to adenovirus
 pneumonia due to anaerobes
 pneumonia due to chlamydia
-pneumonia due to eaton&apos;s agent
+pneumonia due to eaton's agent
 pneumonia due to escherichia coli
 pneumonia due to escherichia coli (disorder)
 pneumonia due to escherichia coli [e. coli]
@@ -25726,7 +25726,7 @@ poikiloderma with neutropenia
 poikiloderma with neutropenia, clericuzio type
 pokkuri death syndrome
 poland syndrome
-poland&apos;s syndactyly
+poland's syndactyly
 polioencephalitis
 poliomyelitis
 poliomyelitis suum
@@ -25823,7 +25823,7 @@ polysyndactyly with peculiars skull shape
 polysyndactyly, haas type
 polyvesicular vitelline pattern ovarian yolk sac tumor
 polyvesicular vitelline pattern testicular yolk sac tumor
-pompe&apos;s disease
+pompe's disease
 pompholyx
 pontiac fever
 pontocerebellar hypoplasia
@@ -26015,8 +26015,8 @@ potocki-lupski syndrome
 potocki-shaffer syndrome
 potter sequence
 potter syndrome
-potter&apos;s syndrome
-poultry worker&apos;s lung
+potter's syndrome
+poultry worker's lung
 powassan encephalitis
 poxviridae disease
 poxviridae infectious disease
@@ -26447,8 +26447,8 @@ primitive neuroectodermal tumor with leptomeningeal spread
 primordial dwarfism
 primsol allergy
 prinzmetal angina
-prinzmetal&apos;s angina
-prinzmetal&apos;s variant angina
+prinzmetal's angina
+prinzmetal's variant angina
 prion dementia
 prion disease
 prion disease pathway
@@ -26580,7 +26580,7 @@ prostate carcinoma in situ
 prostate colloid adenocarcinoma
 prostate disease
 prostate embryonal rhabdomyosarcoma
-prostate kaposi&apos;s sarcoma
+prostate kaposi's sarcoma
 prostate leiomyoma
 prostate leiomyosarcoma
 prostate lymphoma
@@ -26861,7 +26861,7 @@ pulmonary incompetence
 pulmonary incompetence, non-rheumatic
 pulmonary infundibular stenosis
 pulmonary insufficiency following trauma and surgery
-pulmonary kaposi&apos;s sarcoma
+pulmonary kaposi's sarcoma
 pulmonary large cell neuroendocrine carcinoma
 pulmonary leiomyoma
 pulmonary leiomyosarcoma
@@ -26969,7 +26969,7 @@ pyelitis
 pyelonephritis
 pyeloureteritis cystica
 pyknolepsy
-pyle&apos;s disease
+pyle's disease
 pyle-cohn syndrome
 pyles dysplasia
 pyloric antrum cancer
@@ -26985,11 +26985,11 @@ pyosalpingitis
 pyosalpinx
 pyothorax
 pyoureter
-pyridoxal 5&apos;-phosphate-dependent epilepsy
+pyridoxal 5'-phosphate-dependent epilepsy
 pyridoxal phosphate-dependent seizures
 pyridoxal phosphate-responsive seizures
-pyridoxamine 5&apos;-oxidase deficiency
-pyridoxamine 5&apos;-phosphate oxidase deficiency
+pyridoxamine 5'-oxidase deficiency
+pyridoxamine 5'-phosphate oxidase deficiency
 pyridoxamine 5-prime-phosphate oxidase deficiency
 pyridoxine deficiency anemia
 pyridoxine-dependent epilepsy
@@ -27020,10 +27020,10 @@ qualitative platelet deficiency
 quartan malaria
 quebec platelet disorder
 queensland tick typhus
-queyrat&apos;s erythroplasia
+queyrat's erythroplasia
 quie syndrome
 quincke edema
-quincke&apos;s edema
+quincke's edema
 quinidine allergy
 quinsy
 quintan fever
@@ -27066,7 +27066,7 @@ ras/mitogen-activated protein kinase syndrome
 rash
 rasopathy
 rat bite fever (disorder)
-rat catcher&apos;s yellows
+rat catcher's yellows
 rat flea typhus
 rat-bite fever
 rat-bite fever
@@ -27075,8 +27075,8 @@ rat-bite fever, unspecified (disorder)
 rat-flea typhus
 rator
 raynaud disease
-raynaud&apos;s disease
-raynaud&apos;s syndrome
+raynaud's disease
+raynaud's syndrome
 raynaud-claes syndrome
 rb
 rb - retinoblastoma
@@ -27110,7 +27110,7 @@ recessive ataxia of beauce
 recessive dystrophic epidermolysis bullosa
 recessive hereditary megaloblastic anaemia 1
 recessive hereditary megaloblastic anemia 1
-recklinghausen&apos;s neurofibromatosis
+recklinghausen's neurofibromatosis
 recombinase activating gene 1 deficiency
 recombinase activating gene 2 deficiency
 recrudescent typhus
@@ -27132,7 +27132,7 @@ rectum adenoma
 rectum cancer
 rectum carcinoma in situ
 rectum kaposi sarcoma
-rectum kaposi&apos;s sarcoma
+rectum kaposi's sarcoma
 rectum leiomyoma
 rectum leiomyosarcoma
 rectum lymphoma
@@ -27154,7 +27154,7 @@ recurrent adult primary liver cancer
 recurrent adult soft tissue sarcoma
 recurrent anal canal cancer
 recurrent anal cancer
-recurrent askin&apos;s tumor
+recurrent askin's tumor
 recurrent cancer of colon
 recurrent cancer of gallbladder
 recurrent cancer of liver
@@ -27191,13 +27191,13 @@ recurrent epithelioid sarcoma
 recurrent erosion of cornea
 recurrent erosion syndrome
 recurrent esophagus cancer
-recurrent ewing&apos;s sarcoma
-recurrent ewing&apos;s sarcoma/peripheral primitive neuroectodermal tumor
+recurrent ewing's sarcoma
+recurrent ewing's sarcoma/peripheral primitive neuroectodermal tumor
 recurrent extrahepatic bile duct cancer
 recurrent extrahepatic bile duct carcinoma
-recurrent extraosseous ewing&apos;s sarcoma
+recurrent extraosseous ewing's sarcoma
 recurrent extraskeletal chondrosarcoma
-recurrent extraskeletal ewing&apos;s sarcoma
+recurrent extraskeletal ewing's sarcoma
 recurrent extraskeletal osteosarcoma
 recurrent gastric cancer
 recurrent glioma of childhood visual pathway
@@ -27207,7 +27207,7 @@ recurrent hepatoblastoma
 recurrent hepatocellular carcinoma
 recurrent hypersomnia
 recurrent intrahepatic cholestasis of pregnancy
-recurrent kaposi&apos;s sarcoma
+recurrent kaposi's sarcoma
 recurrent large cell carcinoma of lung
 recurrent larynx cancer
 recurrent lung carcinoma
@@ -27300,7 +27300,7 @@ refractory plasma cell neoplasm
 refractory t lymphoblastic leukemia/lymphoma
 refractory testicular carcinoma
 refsum disease
-refsum&apos;s disease
+refsum's disease
 region 17p13 allelic loss associated medulloblastoma
 regional malignant ureteral tumor
 regional neuroblastoma
@@ -27320,7 +27320,7 @@ reifenstein syndrome
 reinhoff syndrome
 reis-bucklers corneal dystrophy
 reiter disease
-reiter&apos;s disease
+reiter's disease
 rela fusion-positive ependymoma
 relapsed adenocarcinoma of the esophagus
 relapsed adult acute lymphoid leukemia
@@ -27340,7 +27340,7 @@ relapsed carcinoma of the small intestine
 relapsed childhood ependymoma
 relapsed chondrosarcoma
 relapsed epithelioid sarcoma
-relapsed ewing&apos;s sarcoma
+relapsed ewing's sarcoma
 relapsed extraskeletal chondrosarcoma
 relapsed extraskeletal osteosarcoma
 relapsed germ cell tumor of ovary
@@ -27373,7 +27373,7 @@ relapsed pediatric sarcoma of the soft tissue
 relapsed precursor t lymphoblastic lymphoma/leukemia
 relapsed rectosigmoid cancer
 relapsed renal cell carcinoma
-relapsed renal wilms&apos; tumor
+relapsed renal wilms' tumor
 relapsed retinoblastoma
 relapsed rhabdomyosarcoma
 relapsed sarcoma of uterus
@@ -27476,8 +27476,8 @@ renal tubular transport disease
 renal tubulo-interstitial disease
 renal vascular disease
 renal vein leiomyosarcoma
-renal wilms&apos; tumor
-renal wilms&apos; tumour
+renal wilms' tumor
+renal wilms' tumour
 renal-coloboma syndrome with macular abnormalities
 renal-hepatic-pancreatic dysplasia
 renal-retinal syndrome
@@ -27619,7 +27619,7 @@ retinal dialysis
 retinal disease
 retinal drusen
 retinal dystrophies primarily involving bruch membrane
-retinal dystrophies primarily involving bruch&apos;s membrane
+retinal dystrophies primarily involving bruch's membrane
 retinal dystrophy
 retinal dystrophy in systemic or cerebroretinal lipidoses
 retinal dystrophy with early macular involvement
@@ -27762,11 +27762,11 @@ retroverted incarcerated gravid uterus - delivered (disorder)
 retroviridae disease
 retroviridae infectious disease
 rett syndrome
-rett&apos;s disorder
+rett's disorder
 reverse partial lipodystrophy
 revesz syndrome
 reye syndrome
-reye&apos;s syndrome
+reye's syndrome
 rgs - rieger syndrome
 rh deficiency syndrome
 rh incompatibility affecting management of mother
@@ -27874,7 +27874,7 @@ riboflavin transporter deficiency neuronopathy
 richieri-costa-colletto syndrome
 richner-hanhart syndrome
 richter syndrome
-richter&apos;s syndrome
+richter's syndrome
 rickets
 rickettsia aeschlimannii spotted fever
 rickettsia africae spotted fever
@@ -27896,7 +27896,7 @@ rickettsiosis
 rickettsiosis
 riddle syndrome
 riedel fibrosing thyroiditis
-riedel&apos;s fibrosing thyroiditis
+riedel's fibrosing thyroiditis
 rieg1
 rieg2
 rieg3
@@ -27904,7 +27904,7 @@ rieger anomaly-partial lipodystrophy syndrome
 rieger syndrome type 1
 rieger syndrome type 2
 rieger syndrome type 3
-rieger&apos;s anomaly
+rieger's anomaly
 rift valley fever
 right atrial isomerism
 right bundle branch block
@@ -27927,7 +27927,7 @@ ritscher-schinzel syndrome
 ritscher-schinzel syndrome 1
 ritscher-schinzel syndrome 2
 ritter disease
-ritter&apos;s disease
+ritter's disease
 river blindness
 rmch1
 rmch2
@@ -27957,17 +27957,17 @@ rogers syndrome
 rokitansky sequence
 rokitansky syndrome
 rolandic epilepsy
-rolandic epilepsy with paroxysmal exercise-induced dystonia and writer&apos;s cramp
-rolandic epilepsy-paroxysmal exercise-induced dystonia-writer&apos;s cramp syndrome
+rolandic epilepsy with paroxysmal exercise-induced dystonia and writer's cramp
+rolandic epilepsy-paroxysmal exercise-induced dystonia-writer's cramp syndrome
 rolandic-type focal motor epilepsy and exercise-induced dystonia
 romano-ward syndrome
 root caries
 root resorption
 rosacea
 rosacea conjunctivitis
-rose&apos;s tamponade
+rose's tamponade
 rosenberg-chutorian syndrome
-rosenthal&apos;s disease
+rosenthal's disease
 roseola infantum
 roseolovirus infectious disease
 ross river fever
@@ -28176,7 +28176,7 @@ sanfilippo syndrome type a
 sanfilippo syndrome type b
 sanfilippo syndrome type c
 sanfilippo syndrome type d
-sanfilippo&apos;s syndrome
+sanfilippo's syndrome
 sanjad-sakati syndrome
 sao paulo typhus
 sapho syndrome
@@ -28305,10 +28305,10 @@ sccd
 sch
 schaaf-yang syndrome
 scheie syndrome
-scheuermann&apos;s disease
-scheuermann&apos;s kyphosis
-schilling&apos;s leukaemia
-schilling&apos;s leukemia
+scheuermann's disease
+scheuermann's kyphosis
+schilling's leukaemia
+schilling's leukemia
 schimke immuno-osseous dysplasia
 schimke immunoosseous dysplasia
 schimke syndrome
@@ -28492,7 +28492,7 @@ scrotum cancer
 scrotum melanoma
 scrotum neoplasm
 scrotum paget disease
-scrotum paget&apos;s disease
+scrotum paget's disease
 scrotum squamous cell carcinoma
 scrub (mite-borne) typhus
 scrub mite-borne typhus
@@ -28526,13 +28526,13 @@ sdty1
 sdty3
 sdty4
 sdty5
-sea bather&apos;s eruption
+sea bather's eruption
 sea-blue histiocyte syndrome
 sea-blue histiocytosis
 seal finger (disorder)
 searching eye movements
 searl ulcer
-searle&apos;s ulcer
+searle's ulcer
 seasonal affective disorder
 seasonal allergic rhinitis
 sebaceous adenocarcinoma
@@ -28672,7 +28672,7 @@ secondary malignant neoplasm to the nervous system
 secondary malignant neoplasm to the pancreas
 secondary malignant neoplasm to the small intestine
 secondary malignant neoplasm to the thymus
-secondary meig&apos;s syndrome
+secondary meig's syndrome
 secondary myelofibrosis
 secondary parkinson disease
 secondary parkinsonism
@@ -28748,7 +28748,7 @@ selective pituitary resistance to thyroid hormone
 selective pituitary thyroid hormone resistance
 selective tooth agenesis
 selective tooth agenesis 5
-seligmann&apos;s disease
+seligmann's disease
 sella turcica neoplasm
 semantic agnosia
 semd x-linked
@@ -28959,23 +28959,23 @@ sexual precocity nos
 sexual sadism
 sezary disease
 sezary syndrome
-sezary&apos;s disease
-sezary&apos;s disease involving intra-abdominal lymph nodes
-sezary&apos;s disease involving intrapelvic lymph nodes
-sezary&apos;s disease involving intrathoracic lymph nodes
-sezary&apos;s disease involving lymph nodes of axilla and upper limb
-sezary&apos;s disease involving lymph nodes of head, face and neck
-sezary&apos;s disease involving lymph nodes of head, face, and neck
-sezary&apos;s disease involving lymph nodes of inguinal region and lower limb
-sezary&apos;s disease involving lymph nodes of multiple sites
-sezary&apos;s disease involving spleen
-sezary&apos;s disease of intra-abdominal lymph nodes (disorder)
-sezary&apos;s disease of intrapelvic lymph nodes (disorder)
-sezary&apos;s disease of intrathoracic lymph nodes (disorder)
-sezary&apos;s disease of lymph nodes of axilla and upper limb (disorder)
-sezary&apos;s disease of lymph nodes of head, face and neck (disorder)
-sezary&apos;s disease of lymph nodes of inguinal region and lower limb (disorder)
-sezary&apos;s disease of spleen (disorder)
+sezary's disease
+sezary's disease involving intra-abdominal lymph nodes
+sezary's disease involving intrapelvic lymph nodes
+sezary's disease involving intrathoracic lymph nodes
+sezary's disease involving lymph nodes of axilla and upper limb
+sezary's disease involving lymph nodes of head, face and neck
+sezary's disease involving lymph nodes of head, face, and neck
+sezary's disease involving lymph nodes of inguinal region and lower limb
+sezary's disease involving lymph nodes of multiple sites
+sezary's disease involving spleen
+sezary's disease of intra-abdominal lymph nodes (disorder)
+sezary's disease of intrapelvic lymph nodes (disorder)
+sezary's disease of intrathoracic lymph nodes (disorder)
+sezary's disease of lymph nodes of axilla and upper limb (disorder)
+sezary's disease of lymph nodes of head, face and neck (disorder)
+sezary's disease of lymph nodes of inguinal region and lower limb (disorder)
+sezary's disease of spleen (disorder)
 sfd
 sfm syndrome
 sfpks
@@ -28986,12 +28986,12 @@ shared paranoid disorder
 shared psychotic disorder
 shashi x-linked mental retardation syndrome
 sheehan syndrome
-sheehan&apos;s syndrome
+sheehan's syndrome
 sheep liver fluke infection
 sheep pox
 sheldon-hall syndrome
 shellfish allergy
-sherman&apos;s disease
+sherman's disease
 shfd1
 shfm1
 shfm1d
@@ -29014,7 +29014,7 @@ shml
 shms
 shock lung
 shoe boil
-shooter&apos;s elbow
+shooter's elbow
 shop typhus
 shop typhus
 short achilles tendon
@@ -29128,8 +29128,8 @@ silicosis
 silicotic fibrosis of lung
 silicotuberculosis
 silo filler disease
-silo filler&apos;s disease
-silo-fillers&apos; disease
+silo filler's disease
+silo-fillers' disease
 silver russell dwarfism
 silver spastic paraplegia syndrome
 silver syndrome
@@ -29137,8 +29137,8 @@ silver-russell syndrome
 silverman-handmaker type dyssegmental dysplasia
 simian acquired immunodeficiency syndrome
 simian lymphoproliferative syndrome
-simmond&apos;s disease
-simmonds&apos; disease
+simmond's disease
+simmonds' disease
 simple buphthalmos
 simple chronic conjunctivitis
 simple cystoma of ovary
@@ -29203,9 +29203,9 @@ sixth nerve palsy
 sixth or abducens nerve palsy
 sjogren larsson syndrome
 sjogren syndrome
-sjogren&apos;s syndrome
+sjogren's syndrome
 sjogren-larsson syndrome
-sjogren-larsson&apos;s syndrome
+sjogren-larsson's syndrome
 sk - solar keratosis
 skeletal anomaly-congen
 skeletal disease
@@ -29360,7 +29360,7 @@ small intestine leiomyosarcoma
 small intestine lymphoma
 small intestine neuroendocrine neoplasm
 small intestine neuroendocrine tumor
-small non-cleaved cell lymphoma, burkitt&apos;s type
+small non-cleaved cell lymphoma, burkitt's type
 small patella syndrome
 small round virus enteritis
 small size posterior uveal melanoma
@@ -29419,7 +29419,7 @@ soft palate cancer
 soft tissue benign neoplasm
 soft tissue cancer
 soft tissue disease
-soft tissue kaposi&apos;s sarcoma
+soft tissue kaposi's sarcoma
 soft tissue perineurioma
 soft tissue peripheral neuroepithelioma
 soft tissue tumor of mediastinum
@@ -29473,7 +29473,7 @@ somatotropinoma
 sommer-young-wee-frye syndrome
 sore throat - chronic
 soremuzzle
-sorsby&apos;s fundus dystrophy
+sorsby's fundus dystrophy
 sost-related sclerosing bone dysplasia
 sost1
 sost2
@@ -29904,7 +29904,7 @@ spleen mast cell malignancy
 spleen neoplasm
 splenic abscess
 splenic artery aneurysm
-splenic burkitt&apos;s lymphoma
+splenic burkitt's lymphoma
 splenic disease
 splenic flexure cancer
 splenic hemangioma
@@ -30114,7 +30114,7 @@ stage 0 carcinoma of the oesophagus
 stage 0 colonic carcinoma
 stage i subdiaphragmatic hodgkin lymphoma
 stage ii subdiaphragmatic hodgkin lymphoma
-stage iii hodgkin&apos;s lymphoma lymphocyte depletion type
+stage iii hodgkin's lymphoma lymphocyte depletion type
 stage iv cancer of uterus
 stage ivb urinary bladder carcinoma
 stammering
@@ -30187,7 +30187,7 @@ steroid-induced osteoporosis
 steroid-modified tinea infection
 steroid-resistant autosomal recessive nephrotic syndrome
 stevens-johnson syndrome
-stewart&apos;s granuloma
+stewart's granuloma
 stewart-treves syndrome
 sthag6
 stickler syndrome
@@ -30198,7 +30198,7 @@ stiff skin syndrome
 stiff-man syndrome
 stiff-person syndrome
 stiffness of joint
-still&apos;s disease
+still's disease
 stilling-turk-duane syndrome
 stim1 deficiency
 sting-associated vasculopathy with onset in infancy
@@ -30271,15 +30271,15 @@ striatonigral degeneration
 strictly posterior acute myocardial infarction
 stricture of male genital organs
 stricture or kinking of ureter
-stripper&apos;s asthma
+stripper's asthma
 stroke
 stroma-dominant and stroma-poor composite ganglioneuroblastoma
 stromal corneal pigmentation
 stromal corneal pigmentations
 stromal dystrophy
 stromal neoplasm
-stromal predominant kidney wilms&apos; tumor
-stromal predominant kidney wilms&apos; tumour
+stromal predominant kidney wilms' tumor
+stromal predominant kidney wilms' tumour
 stromal predominant renal wilms tumor
 stromal predominant renal wilms tumour
 stromal sarcoma
@@ -30483,13 +30483,13 @@ surf1-related cmt4
 surf1-related severe demyelinating charcot-marie-tooth disease
 surface gastric cancer
 surface osteosarcoma
-surfer&apos;s eye
+surfer's eye
 survival motor neuron spinal muscular atrophy
 susceptibility to cystic renal dysplasia
 susceptibility to infection due to tyk2 deficiency
 susceptibility to viral and mycobacterial infections due to stat1 deficiency
 sutherland-haan x-linked mental retardation syndrome
-sutton&apos;s naevus
+sutton's naevus
 sux allergy
 suxamethonium allergy
 svd
@@ -30503,17 +30503,17 @@ sweat gland tumor
 sweat rash
 sweeney-cox syndrome
 sweet syndrome
-sweet&apos;s syndrome
+sweet's syndrome
 swils
-swimmer&apos;s ear
-swimmer&apos;s exostosis
+swimmer's ear
+swimmer's exostosis
 swine erysipelas
 swine hemorrhagic fever
 swine influenza
 swine vesicular disease
 sws
 swyer syndrome
-sydenham&apos;s chorea
+sydenham's chorea
 sylvan seizures
 sylvatic typhus
 sylvatic yellow fever
@@ -30730,13 +30730,13 @@ systemic sclerosis, limited
 systemic tissue mast cell disease
 systolic click-murmur syndrome
 systolic heart failure
-szary&apos;s disease of intra-abdominal lymph nodes (disorder)
-szary&apos;s disease of intrapelvic lymph nodes (disorder)
-szary&apos;s disease of intrathoracic lymph nodes (disorder)
-szary&apos;s disease of lymph nodes of axilla and/or upper limb (disorder)
-szary&apos;s disease of lymph nodes of head, face and/or neck (disorder)
-szary&apos;s disease of lymph nodes of inguinal region and/or lower limb
-szary&apos;s disease of spleen (disorder)
+szary's disease of intra-abdominal lymph nodes (disorder)
+szary's disease of intrapelvic lymph nodes (disorder)
+szary's disease of intrathoracic lymph nodes (disorder)
+szary's disease of lymph nodes of axilla and/or upper limb (disorder)
+szary's disease of lymph nodes of head, face and/or neck (disorder)
+szary's disease of lymph nodes of inguinal region and/or lower limb
+szary's disease of spleen (disorder)
 t acute lymphoblastic leukemia
 t cell and nk cell immunodeficiency
 t cell deficiency
@@ -30773,8 +30773,8 @@ tahyna virus encephalitis
 tahyna virus infection
 taiga encephalitis
 takayasu arteritis
-takayasu&apos;s arteritis
-takayasu&apos;s disease
+takayasu's arteritis
+takayasu's disease
 talc pneumoconiosis
 talfan disease
 talipes equinovarus-atrial septal defect-robin sequence-persistence of the left superior vena cava syndrome
@@ -30806,7 +30806,7 @@ tay-sachs disease, variant ab
 taybi syndrome
 taybi-linder syndrome
 taylor syndrome
-taylor&apos;s syndrome
+taylor's syndrome
 tazicef allergy
 tbcd
 tcmgly
@@ -30858,7 +30858,7 @@ tenosynovial giant cell tumor
 tenosynovial giant cell tumour
 tenosynovitis
 tenosynovitis of foot and ankle
-tenosynovitis, de quervain&apos;s
+tenosynovitis, de quervain's
 ter haar syndrome
 teratocarcinoma
 teratocarcinoma of mediastinum
@@ -31016,9 +31016,9 @@ third ventricle chordoid glioma
 third-degree atrioventricular block
 thistle disease
 thmd1
-thomas&apos; syndrome
+thomas' syndrome
 thomsen disease
-thomsen&apos;s disease
+thomsen's disease
 thoracic actinomycosis
 thoracic aortic aneurysm
 thoracic benign neoplasm
@@ -31100,7 +31100,7 @@ thunderstorm asthma
 thunderstorm related asthma
 thunderstorm triggered asthma
 thygeson superficial punctate keratitis
-thygeson&apos;s superficial punctate keratitis
+thygeson's superficial punctate keratitis
 thymic aplasia
 thymic carcinoma
 thymic carcinosarcoma
@@ -31233,8 +31233,8 @@ tidta
 tietz albinism-deafness syndrome
 tietz syndrome
 tietze syndrome
-tietze&apos;s disease
-tietze&apos;s syndrome
+tietze's disease
+tietze's syndrome
 tiger prawn allergy
 tight foreskin
 tight frenulum
@@ -31771,14 +31771,14 @@ tubulopapillary adenocarcinoma
 tufting enteropathy
 tukel syndrome
 tularemia
-tulip-bulb digger&apos;s palsy
+tulip-bulb digger's palsy
 tumefactive multiple sclerosis
 tumor necrosis factor receptor 1 associated periodic syndrome
 tumor of accessory sinus
 tumor of adipose tissue
 tumor of adult cerebellum
 tumor of autonomic nervous system
-tumor of bartholin&apos;s gland
+tumor of bartholin's gland
 tumor of cerebrum
 tumor of choroid plexus
 tumor of conus medullaris
@@ -31883,7 +31883,7 @@ tungiasis
 turbo cornutus allergy
 turcot syndrome
 turner syndrome
-turner&apos;s phenotype, karyotype normal
+turner's phenotype, karyotype normal
 turner-kiser syndrome
 twenty-nail dystrophy
 twin to twin transfusion
@@ -32052,7 +32052,7 @@ unipolar depression
 universal ulcerative (chronic) colitis
 universal ulcerative colitis
 unknown primary adenocarcinoma
-unna&apos;s nevus
+unna's nevus
 unna-thost syndrome
 unresectable extrahepatic bile duct cancer
 unresectable extrahepatic bile duct carcinoma
@@ -32095,13 +32095,13 @@ unspecified viral hemorrhagic fever (disorder)
 unspecified vitamin d deficiency
 unstable angina
 unverricht - lundborg disease
-unverricht&apos;s disease
+unverricht's disease
 unverricht-lundborg disease
 unverricht-lundborg syndrome
 up/mpcm
 upd(20)mat
 upper clivus meningioma
-upper gi crohn&apos;s disease
+upper gi crohn's disease
 upper gum cancer
 upper jaw bone cancer
 upper limb cancer
@@ -32425,13 +32425,13 @@ vallecula cancer
 valtice fever
 valvular heart disease
 van asperen syndrome
-van bogaert&apos;s sclerosing leukoencephalitis
+van bogaert's sclerosing leukoencephalitis
 van buchem disease
 van den ende-gupta syndrome
 van der hoeve halbertsona waardenburg syndrome
 van der knaap disease
 van der woude syndrome
-van esch-o&apos;driscoll syndrome
+van esch-o'driscoll syndrome
 van maldergem syndrome
 van maldergem syndrome 1
 van maldergem syndrome 2
@@ -32589,7 +32589,7 @@ vesicular stomatitis and exanthem
 vesiculitis
 vesiculobullous skin disease
 vessel leiomyosarcoma
-vestibular active mnire&apos;s disease
+vestibular active mnire's disease
 vestibular disease
 vestibular gland benign neoplasm
 vestibular neurilemmoma
@@ -32624,10 +32624,10 @@ villous adenoma or adenocarcinoma nos (morphologic abnormality)
 villous adenomas and adenocarcinomas (morphologic abnormality)
 villous tenosynovitis
 vincent angina
-vincent&apos;s angina
-vincent&apos;s angina - pharyngitis
-vincent&apos;s disease
-vincent&apos;s infection, any site
+vincent's angina
+vincent's angina - pharyngitis
+vincent's disease
+vincent's infection, any site
 vip- secreting tumor
 vipoma
 vipoma, malignant
@@ -32680,11 +32680,11 @@ visual pathway disease
 visual pathway meningioma
 visual verbal agnosia
 vitamin a deficiency
-vitamin a deficiency with bitot&apos;s spot and conjunctival xerosis (disorder)
-vitamin a deficiency with bitot&apos;s spot and conjunctival xerosis [dup] (disorder)
+vitamin a deficiency with bitot's spot and conjunctival xerosis (disorder)
+vitamin a deficiency with bitot's spot and conjunctival xerosis [dup] (disorder)
 vitamin a deficiency with conjunctival xerosis
 vitamin a deficiency with conjunctival xerosis (disorder)
-vitamin a deficiency with conjunctival xerosis and bitot&apos;s spot
+vitamin a deficiency with conjunctival xerosis and bitot's spot
 vitamin a deficiency with corneal ulceration and xerosis
 vitamin a deficiency with corneal ulceration and xerosis (disorder)
 vitamin a deficiency with corneal xerosis
@@ -32754,20 +32754,20 @@ vogt-koyanagi syndrome
 vogt-koyanagi-harada disease
 vohwinkel syndrome
 volkmann contracture
-volkmann&apos;s ischemic contracture
+volkmann's ischemic contracture
 voltaren allergy
 volvulosis
 volvulus
 volvulus of midgut
 von economo disease
-von economo&apos;s disease
+von economo's disease
 von eulenburg paramyotonia congenita
 von gierke disease
-von gierke&apos;s disease
+von gierke's disease
 von hippel-lindau disease
 von hippel-lindau syndrome
 von recklinghausen disease
-von recklinghausen&apos;s bone disease
+von recklinghausen's bone disease
 von reklinghausen disease
 von willebrand disease
 von willebrand disease platelet-type
@@ -32778,18 +32778,18 @@ von willebrand disease type i
 von willebrand disease type ii
 von willebrand disease type iii
 von willebrand disorder
-von willebrand&apos;s disease
-von willebrand&apos;s disease 1
-von willebrand&apos;s disease 2
-von willebrand&apos;s disease 3
-von willebrand&apos;s-jurgens&apos; disease
+von willebrand's disease
+von willebrand's disease 1
+von willebrand's disease 2
+von willebrand's disease 3
+von willebrand's-jurgens' disease
 von willebrand-jrgens disease
 vownkl
 voyeurism
 vps45 deficiency
 vrcp autosomal dominant
 vrolik type of osteogenesis imperfecta
-vrolik&apos;s disease
+vrolik's disease
 vsvs
 vulto-van silfout-de vries syndrome
 vulva adenocarcinoma
@@ -32804,7 +32804,7 @@ vulval cancer
 vulval fibroepithelial polyp
 vulval neoplasm
 vulval paget disease
-vulval paget&apos;s disease
+vulval paget's disease
 vulvar acquired melanocytic nevus
 vulvar alveolar soft part sarcoma
 vulvar angiokeratoma
@@ -32839,7 +32839,7 @@ vulvar metastasis
 vulvar neoplasm
 vulvar nodular hidradenoma
 vulvar non-keratinizing squamous cell carcinoma
-vulvar paget&apos;s disease
+vulvar paget's disease
 vulvar proximal-type epithelioid sarcoma
 vulvar sarcoma
 vulvar sebaceous carcinoma
@@ -32892,7 +32892,7 @@ waardenburg syndrome with hirschsprung disease type 4a
 waardenburg syndrome with hirschsprung disease type 4b
 waardenburg syndrome with hirschsprung disease type 4c
 waardenburg syndrome with upper limb anomalies
-waardenburg&apos;s syndrome
+waardenburg's syndrome
 waardenburg-jonker corneal dystrophy
 wabs
 wad
@@ -32900,10 +32900,10 @@ wadia-swami syndrome
 wagenmann-froboese syndrome
 wagr syndrome
 waisman syndrome
-waldenstroem&apos;s macroglobulinemia
+waldenstroem's macroglobulinemia
 waldenstrom macroglobulinemia
 waldeyer ring cancer
-waldeyer&apos;s ring cancer
+waldeyer's ring cancer
 walker-clodius syndrome
 walker-warburg syndrome
 walker-warburg syndrome or muscle-eye-brain disease b3galnt2-related
@@ -32966,7 +32966,7 @@ weber-christian disease
 wed
 wee
 wegener granulomatosis, formerly
-weil&apos;s disease
+weil's disease
 weill-marchesani syndrome
 weissenbacher-zweymuller syndrome
 well differentiated spinal cord oligodendroglioma
@@ -32974,15 +32974,15 @@ well differentiated thymic carcinoma
 well-differentiated liposarcoma
 well-differentiated papillary tumor of mesothelium
 werdnig-hoffmann disease
-werlhof&apos;s disease
+werlhof's disease
 wermer syndrome
-wermer&apos;s syndrome
+wermer's syndrome
 werner mesomelic syndrome
 werner syndrome
-werner&apos;s syndrome
+werner's syndrome
 wernicke encephalopathy
-wernicke&apos;s disease
-wernicke&apos;s encephalopathy
+wernicke's disease
+wernicke's encephalopathy
 wernicke-korsakoff syndrome
 west african trypanosomiasis
 west nile encephalitis
@@ -33013,7 +33013,7 @@ whelan syndrome
 whim syndrome
 whims
 whipple disease
-whipple&apos;s disease
+whipple's disease
 whipworm disease
 whistling face syndrome
 whistling face-windmill vane hand syndrome
@@ -33026,7 +33026,7 @@ white-garland syndrome
 white-sutton syndrome
 whitepox
 whitewater arroyo hemorrhagic fever
-whitmore&apos;s disease
+whitmore's disease
 who grade i ependymal tumor
 who grade ii astrocytoma
 who grade ii ependymal tumor
@@ -33036,25 +33036,25 @@ who grade iii mixed glioma
 whooping cough
 whsus
 wide-angle glaucoma
-wiedemann&apos;s syndrome
+wiedemann's syndrome
 wilhemsen-lynch disease
 williams-beuren syndrome
 willis-ekbom disease
 wilms tumor-aniridia-genitourinary anomalies-mental retardation syndrome
-wilms&apos; tumor
+wilms' tumor
 wilson disease
-wilson&apos;s disease
+wilson's disease
 wilson-turner syndrome
 winchester syndrome
 winged helix deficiency
 winter depression
 wiskott syndrome
 wiskott-aldrich syndrome
-wissler&apos;s subsepsis allergica
-wissler&apos;s syndrome
+wissler's subsepsis allergica
+wissler's syndrome
 wissler-fanconi syndrome
 withdrawal disorder
-witkop&apos;s syndrome
+witkop's syndrome
 witkop-von sallmann disease
 wittmaack-ekbom syndrome
 wnnd
@@ -33076,17 +33076,17 @@ wolfram syndrome, mitochondrial form
 wolhynian fever
 wolman disease
 wolman xanthomatosis
-wolman&apos;s disease
-wolman&apos;s or triglyceride storage type iii disease
-wool-sorters&apos; disease
+wolman's disease
+wolman's or triglyceride storage type iii disease
+wool-sorters' disease
 woolly hair
-woolsorters&apos; disease
-woolsorters&apos; pneumonia
+woolsorters' disease
+woolsorters' pneumonia
 wooly hair
 worm infection
 worsening angina
 worth syndrome
-worth&apos;s syndrome
+worth's syndrome
 wound botulism
 wrinkly skin syndrome
 wrist or carpus enthesopathy
@@ -33406,7 +33406,7 @@ x-linked stapes gusher syndrome
 x-linked syndromic intellectual developmental disorder raymond type
 x-linked syndromic mental retardation 36
 x-linked syndromic mental retardation basilicata-akhtar type
-x-linked syndromic mental retardation van esch-o&apos;driscoll type
+x-linked syndromic mental retardation van esch-o'driscoll type
 x-linked thrombocytopenia with beta-thalassemia
 x-linked thrombophilia due to factor ix defect
 x-linked vacterl association

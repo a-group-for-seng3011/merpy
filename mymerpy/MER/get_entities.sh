@@ -44,7 +44,8 @@ fi
 
 # Pre-process the input text
 declare text=$(tr '[:upper:]' '[:lower:]' <<< "$original_text") # Make text lowercase so the system is case insensitive
-text=$(sed -e 's/://g' <<< $text) # remove : sign
+text=$(sed -e 's/[:?!";.,“”`]//g' <<< $text) # remove ending sign
+# text=$(sed -e "s/'//g" <<< $text) # remove single quote
 text=$(sed "s/[^[:alnum:][:space:]()]/./g" <<< "$text") # Replace special characters
 text=$(sed -e 's/[[:space:]()@]\+/ /g' <<< $text) # remove multiple whitespace
 if [ $remove_fullstops -eq 1 ]; then
@@ -62,11 +63,11 @@ piped_text=$(sed -e 's/ \+/|/g' <<< $text)
 # DEBUG AID
 # echo $piped_text
 
-# Creates all combinations of pairs of consecutive words in the text, staring at the first word 
+# Creates all combinations of pairs of consecutive words in the text, starting at the first word 
 declare piped_pair_text1
 piped_pair_text1=$(sed -e 's/\([^ ]\+ \+[^ ]\+\) /\1|/g' <<< "$text XXX" | sed 's/|[^|]*$//')
 
-# Creates all combinations of pairs of consecutive words in the text, staring at the second word
+# Creates all combinations of pairs of consecutive words in the text, starting at the second word
 declare piped_pair_text2
 piped_pair_text2=$(sed -e 's/\([^ ]\+ \+[^ ]\+\) /\1|/g' <<< "XXX $text XXX"| sed 's/^[^|]*|//' | sed 's/|[^|]*$//')
 
@@ -153,7 +154,7 @@ get_entities_source_words () {
         if [ ${#matches} -ge 2 ]; then
             # finds the more-words matches based on the previous matches
 			local fullmatches
-		    fullmatches=$(egrep '^('"$matches"')' "$labels" |  tr '\n' '|' | sed 's/|[[:space:]]*$//')
+		    fullmatches=$(egrep '\b('"$matches"')\b' "$labels" |  tr '\n' '|' | sed 's/|[[:space:]]*$//')
 			get_matches_positions "$fullmatches"
 			get_entities_source_words_result=$get_matches_positions_result
 		fi
@@ -168,17 +169,19 @@ get_entities_source () {
 	local result1
 	local result2
 	local result3
+	local result4
  	result1=$(get_entities_source_word1 "$source"_word1.txt && echo "$get_entities_source_word1_result" &)
 	result2=$(get_entities_source_word2 "$source"_word2.txt && echo "$get_entities_source_word2_result" &)
-	result3=$(get_entities_source_words "$source"_words2.txt "$source"_words.txt && echo $get_entities_source_words_result &)
+	# result3=$(get_entities_source_word2 "$source"_words2.txt && echo "$get_entities_source_word2_result" &)
+	result4=$(get_entities_source_words "$source"_words2.txt "$source"_words.txt && echo $get_entities_source_words_result &)
 	wait
 
 	# Check if all the results are empty. If yes, terminate function.
-	if [[ -z $result1 && -z $result2 && -z $result3 ]]; then
+	if [[ -z $result1 && -z $result2 && -z $result3 && -z $result4 ]]; then
 		return
 	fi
 	# combine the results from the 3 types of matches
-	local result=$result1$'\n'$result2$'\n'$result3
+	local result=$result1$'\n'$result2$'\n'$result3$'\n'$result4
 	result=$(sed '{/^$/d}' <<< $result) # remove empty lines
 	if [ -e "$source"_links.tsv ]; then
 	    while read line
@@ -197,7 +200,7 @@ get_entities_source () {
 	    echo "$result"
 	fi
 	cd ..
-	}
+}
 
 
 get_entities_source "$data_source"

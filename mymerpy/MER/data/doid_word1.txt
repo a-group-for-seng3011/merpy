@@ -1,11 +1,15 @@
-2019.ncov
-coronavirus
-cvdpv2
-amoeba
-amoebae
-shewanella
-sars.cov.2
+alaskapox
+orthopoxvirus
+cyclospora
+tetrodotoxication
+polio
+ablv
+vim.crpa
+igas
+pneumococcus
+echinococcus
 2.methyl.3.hydroxybutyricacidemia
+2019.ncov
 3.methylcrotonylglycinuria
 9q.syndrome
 a.fib
@@ -162,6 +166,8 @@ ameloblastoma
 amenia
 amenorrhea
 amnesia
+amoeba
+amoebae
 amoebiasis
 amoxad
 amrf
@@ -1005,6 +1011,7 @@ cordx1
 cordx2
 cordx3
 coredialysis
+coronavirus
 cors1
 cors2
 corticotropinoma
@@ -1163,6 +1170,7 @@ ctrct8
 ctrct9
 cva
 cvd1
+cvdpv2
 cvid
 cvid9
 cvpt1
@@ -3761,6 +3769,7 @@ poads
 podoconiosis
 poh
 poliomyelitis
+poliovirus
 pollenosis
 polycythemia
 polydactyly
@@ -3956,6 +3965,7 @@ sarcoma
 sarcomatosis
 sarcosporidiosis
 sars
+sars.cov.2
 savi
 sbbyss
 sbma
@@ -4071,6 +4081,7 @@ sens
 setariasis
 sfd
 sfpks
+shewanella
 shfd1
 shfm1
 shfm1d
@@ -4080,6 +4091,7 @@ shfm4
 shfm5
 shfm6
 shfyng
+shigella
 shigellosis
 shingles
 shml
@@ -4517,8 +4529,8 @@ vdegs
 veods
 ves
 vesiculitis
-vibriosis
 vibrio
+vibriosis
 vipoma
 vitiligo
 vkcfd
@@ -4597,14 +4609,10 @@ xrn
 xscid
 yaba
 yaws
+yersinia
 yersiniosis
 zaspopathy
 zika
 zoophilia
 zoophobia
 zygomycosis
-pinworm
-roundworm
-threadworm
-worm
-whipworm
