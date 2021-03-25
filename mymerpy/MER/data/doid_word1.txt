@@ -4603,3 +4603,8 @@ zika
 zoophilia
 zoophobia
 zygomycosis
+pinworm
+roundworm
+threadworm
+worm
+whipworm
